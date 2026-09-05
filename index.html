@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Great Quotes — Wisdom & Quotes</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#ffffff;
+  --panel:#ffffff;
+  --panel2:#f7fbf7;
+  --line:#9acd7b;
+  --line2:#dcefd2;
+  --text:#20251f;
+  --muted:#697267;
+  --accent:#75b85b;
+  --accent-dark:#4d8f38;
+  --shadow:0 8px 28px rgba(67,105,55,.10);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif}
+.layout{display:flex;min-height:100vh}
+.sidebar{
+  width:255px;position:fixed;left:0;top:0;bottom:0;
+  background:#fbfdfb;border-right:2px solid var(--line);
+  padding:26px 18px;overflow-y:auto
+}
+.logo{font-family:"Playfair Display",serif;font-size:25px;font-weight:700;margin:0 8px 6px}
+.logo span{color:var(--accent-dark)}
+.subtitle{font-size:12px;color:var(--muted);margin:0 8px 22px}
+.nav-title{font-size:11px;font-weight:700;letter-spacing:1.4px;color:var(--accent-dark);margin:20px 8px 9px;text-transform:uppercase}
+.nav a{display:block;text-decoration:none;color:#4d554b;padding:10px 11px;border-radius:8px;margin:2px 0;font-size:14px}
+.nav a:hover,.nav a.active{background:#eef8e9;color:var(--accent-dark);font-weight:600}
+.main{margin-left:255px;width:calc(100% - 255px)}
+.topbar{
+  position:sticky;top:0;z-index:10;background:rgba(255,255,255,.94);
+  backdrop-filter:blur(10px);border-bottom:1px solid var(--line2);
+  padding:14px 5%;display:flex;justify-content:space-between;align-items:center
+}
+.topbar-title{font-weight:700;font-size:14px}
+.menu-btn{display:none;border:1px solid var(--line);background:white;border-radius:7px;padding:7px 11px}
+.hero{padding:72px 7% 50px;border-bottom:1px solid var(--line2)}
+.kicker{color:var(--accent-dark);font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase}
+h1{font-family:"Playfair Display",serif;font-size:clamp(42px,6vw,78px);line-height:1.02;margin:13px 0}
+.hero p{max-width:720px;color:var(--muted);font-size:17px;line-height:1.75}
+.section{padding:55px 7%;border-bottom:1px solid var(--line2)}
+.section-head{display:flex;align-items:end;justify-content:space-between;gap:20px;margin-bottom:25px}
+.section h2{font-family:"Playfair Display",serif;font-size:32px;margin:0 0 5px}
+.meta{color:var(--muted);font-size:13px}
+.quote-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.quote{
+  border:1.5px solid var(--line);border-radius:14px;background:var(--panel);
+  padding:25px;box-shadow:var(--shadow)
+}
+.quote-mark{font-family:Georgia,serif;font-size:42px;color:var(--accent);line-height:.7}
+.quote-text{font-family:"Playfair Display",serif;font-size:22px;line-height:1.55;margin:12px 0 20px}
+.source{font-size:12px;color:var(--muted);border-top:1px solid var(--line2);padding-top:12px}
+.tag{display:inline-block;margin-top:13px;padding:5px 9px;border-radius:20px;background:#eef8e9;color:var(--accent-dark);font-size:11px;font-weight:600}
+.explanation{margin-top:14px;padding-top:12px;border-top:1px solid var(--line2);font-size:14px;line-height:1.65;color:var(--muted)}
+.explanation p{margin:0}
+.footer{padding:35px 7%;color:var(--muted);font-size:12px}
+@media(max-width:800px){
+  .sidebar{transform:translateX(-100%);transition:.25s;z-index:30}
+  .sidebar.open{transform:translateX(0)}
+  .main{margin-left:0;width:100%}
+  .menu-btn{display:block}
+  .quote-grid{grid-template-columns:1fr}
+  .hero{padding-top:48px}
+}
+</style>
+<style>
+/* Person filter */
+.person-section.filter-hidden,.section.filter-hidden{display:none!important}
+.person-filter{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;padding:25px 7%;border-bottom:1px solid #dcefd2}
+.person-filter button{border:1.5px solid #9acd7b;background:#fff;border-radius:10px;padding:12px;text-align:left;cursor:pointer}
+.person-filter button:hover,.person-filter button.active{background:#eef8e9;color:#4d8f38}
+@media(max-width:800px){.person-filter{grid-template-columns:repeat(2,1fr);padding:20px 5%}}
+</style>
+</head>
+<body>
+<div class="layout">
+<aside class="sidebar" id="sidebar">
+  <div class="logo">Great <span>Quotes</span></div>
+  <p class="subtitle">Wisdom from remarkable minds</p>
+  
+  <nav class="nav">
+    <a href="#goethe">Goethe</a>
+    <a href="#socrates">Socrates</a>
+    <a href="#aristotle">Aristotle</a>
+    <a href="#nietzsche">Nietzsche</a>
+    <a href="#confucius">Confucius</a>
+    <a href="#seneca">Seneca</a>
+    <a href="#marcus">Marcus Aurelius</a>
+    <a href="#shakespeare">Shakespeare</a>
+    <a href="#einstein">Einstein</a>
+    <a href="#franklin">Benjamin Franklin</a>
+  </nav>
+</aside>
+
+<main class="main">
+<header class="topbar">
+  
+  <button class="menu-btn" onclick="document.getElementById('sidebar').classList.toggle('open')">☰ Menu</button>
+</header>
+
+<section class="hero">
+  <div class="kicker">A Collection of Wisdom</div>
+  <h1>Great Quotes</h1>
+  <p>Timeless words from philosophers, writers, scientists, and thinkers. Explore ideas about life, courage, knowledge, success, and happiness.</p>
+</section><section class="person-filter"><button onclick="filterPerson("goethe",this)">Johann Wolfgang von Goethe</button><button onclick="filterPerson("socrates",this)">Socrates</button><button onclick="filterPerson("aristotle",this)">Aristotle</button><button onclick="filterPerson("nietzsche",this)">Friedrich Nietzsche</button><button onclick="filterPerson("confucius",this)">Confucius</button><button onclick="filterPerson("seneca",this)">Seneca</button><button onclick="filterPerson("marcus",this)">Marcus Aurelius</button><button onclick="filterPerson("shakespeare",this)">William Shakespeare</button><button onclick="filterPerson("einstein",this)">Albert Einstein</button><button onclick="filterPerson("franklin",this)">Benjamin Franklin</button></section>
+
+<section class="section" id="goethe">
+<div class="section-head"><div><h2>Johann Wolfgang von Goethe</h2><div class="meta">1749–1832 · German writer and thinker</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Knowing is not enough; we must apply. Willing is not enough; we must do.</div><div class="explanation"><p>Understanding alone does not change outcomes. Knowledge and good intentions remain abstract until they are translated into repeated, concrete action. Real progress comes only when a person consistently applies what they know and follows through on what they intend, turning insight into habit and results.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Whatever you can do or dream you can, begin it.</div><div class="explanation"><p>The hardest and most important step is often the first one. Waiting for perfect conditions or complete certainty usually leads to endless delay. Starting, even imperfectly, creates momentum, reveals unexpected resources, and turns vague possibility into real experience that planning alone can never provide.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">He who moves not forward, goes backward.</div><div class="explanation"><p>Stagnation is rarely neutral. In a changing world, standing still usually means falling behind as skills fade, opportunities pass, and competitors advance. Continuous small improvements and forward movement are what keep a person or project from quietly declining over time.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Doubt can only be removed by action.</div><div class="explanation"><p>Uncertainty and fear rarely disappear through more thinking. The only reliable way to reduce doubt is to take a measured step forward and gather real evidence. Courage is not the absence of fear; it is the willingness to act carefully even while doubt still remains.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Nothing is more highly to be prized than the value of each day.</div><div class="explanation"><p>Time is the one resource that cannot be stored, recovered, or replaced. Every day that passes without deliberate attention is permanently lost. Treating each day as valuable encourages clear priorities and guards against the quiet waste of hours through distraction and indecision.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">The world is full of obvious things which nobody by any chance ever observes.</div><div class="explanation"><p>Important details and opportunities are often hidden in plain sight. Habitual attention and hurried routines make people overlook what is right in front of them. Careful, deliberate observation is what allows someone to notice patterns, problems, and possibilities that others miss entirely.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Fresh activity is the only means of overcoming adversity.</div><div class="explanation"><p>Difficulties can freeze a person into passive waiting or repeated complaint. The most effective response is usually renewed, purposeful action. Fresh effort restores agency, generates new information, and prevents a single setback from defining the entire future.</p></div></article></div></section>
+
+<section class="section" id="socrates">
+<div class="section-head"><div><h2>Socrates</h2><div class="meta">c. 470–399 BC · Greek philosopher</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">The unexamined life is not worth living.</div><div class="explanation"><p>A life lived without regular reflection tends to follow inherited habits, social pressure, and unexamined desires. Without questioning one’s own beliefs, motives, and goals, a person risks spending years on paths that were never genuinely chosen. Self-examination is what gives life direction and meaning.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">I know that I know nothing.</div><div class="explanation"><p>Recognizing the limits of one’s own knowledge is the starting point of genuine wisdom. Certainty that is not earned closes the mind; intellectual humility keeps a person open to correction, new evidence, and deeper understanding.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Know thyself.</div><div class="explanation"><p>Understanding one’s own strengths, weaknesses, motives, and values is foundational. Without self-knowledge, decisions are easily swayed by external opinion or temporary emotion. Self-awareness allows a person to choose goals that actually fit who they are rather than who they feel they should be.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Wonder is the beginning of wisdom.</div><div class="explanation"><p>Curiosity and a sense of wonder keep the mind alive. When questions stop, learning stops. Maintaining the capacity to be surprised and to ask why prevents familiar explanations from hardening into unexamined dogma.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">To find yourself, think for yourself.</div><div class="explanation"><p>Independent judgment requires evaluating ideas on their own merits rather than accepting them because an authority or majority endorses them. It demands both the courage to disagree and the humility to change one’s mind when better reasons appear.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Education is the kindling of a flame, not the filling of a vessel.</div><div class="explanation"><p>True education is not the passive accumulation of facts. It is the awakening of a capacity to think, question, and continue learning. A good teacher does not merely transfer information; they ignite a lasting desire and ability to understand.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">I cannot teach anybody anything. I can only make them think.</div><div class="explanation"><p>The most valuable teaching does not hand over ready-made answers. It creates conditions in which learners develop their own reasoning. Questions, dialogue, and intellectual challenge leave a person with tools that remain useful long after specific facts are forgotten.</p></div></article></div></section>
+
+<section class="section" id="aristotle">
+<div class="section-head"><div><h2>Aristotle</h2><div class="meta">384–322 BC · Greek philosopher</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">We are what we repeatedly do. Excellence, then, is not an act, but a habit.</div><div class="explanation"><p>Character and excellence are not produced by occasional heroic moments. They are the cumulative result of what a person does day after day. Small actions, repeated consistently, gradually shape ability, identity, and results far more than rare bursts of effort.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Wishing to be friends is quick work, but friendship is a slow-ripening fruit.</div><div class="explanation"><p>Genuine friendship cannot be forced or accelerated. It grows through shared experience, mutual reliability, and time. Casual acquaintance can form quickly; deep trust and understanding require sustained presence and proven character.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Happiness depends upon ourselves.</div><div class="explanation"><p>External circumstances influence mood, but they do not fully determine it. Habits of thought, the quality of relationships, and the ability to find meaning in ordinary life play decisive roles. Focusing on what can actually be influenced is more effective than waiting for perfect conditions.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">The whole is greater than the sum of its parts.</div><div class="explanation"><p>When elements interact, they can produce effects that none of them could create alone. Understanding systems requires looking at relationships and emergent properties, not only at isolated components. This insight applies to teams, organizations, ecosystems, and personal habits.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">We make war that we may live in peace.</div><div class="explanation"><p>Conflict is sometimes undertaken with the aim of securing a more stable peace. Yet lasting peace rarely comes from force alone. Understanding underlying interests, incentives, and causes is usually necessary if cooperation is to endure beyond temporary victory.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Quality is not an act, it is a habit.</div><div class="explanation"><p>High standards are maintained not by occasional special effort but by consistent daily practice. Quality becomes reliable only when it is built into routine rather than treated as an exception reserved for important moments.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Courage is the first of human qualities because it is the quality which guarantees the others.</div><div class="explanation"><p>Without courage, other virtues remain theoretical. Honesty, justice, and generosity require the willingness to act even when there is risk or discomfort. Courage is therefore the enabling condition that allows other good qualities to be practiced in the real world.</p></div></article></div></section>
+
+<section class="section" id="nietzsche">
+<div class="section-head"><div><h2>Friedrich Nietzsche</h2><div class="meta">1844–1900 · German philosopher</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">He who has a why to live can bear almost any how.</div><div class="explanation"><p>A clear sense of purpose gives resilience. When suffering or difficulty is connected to something meaningful, it becomes more bearable. People endure far more hardship when they understand why the effort matters.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">That which does not kill us makes us stronger.</div><div class="explanation"><p>Surviving difficulty can build capacity, judgment, and resilience—but only if the experience is processed and used. Hardship is not automatically strengthening; it becomes so when a person learns from it rather than being simply worn down.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">He who fights with monsters should look to it that he himself does not become a monster.</div><div class="explanation"><p>In opposing something destructive, a person can gradually adopt the very methods or attitudes they set out to resist. Constant self-examination is required so that the struggle does not reshape one’s character in the image of what is being fought.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Become who you are.</div><div class="explanation"><p>Identity is not a fixed essence waiting to be discovered; it is something developed through deliberate choices, practice, and self-overcoming. Growth involves actively shaping capabilities and character rather than passively waiting for a true self to appear.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Without music, life would be a mistake.</div><div class="explanation"><p>Music reaches emotion, memory, and imagination in ways that purely analytical language cannot. It is treated here as essential rather than decorative—an art form that deepens human experience and makes life more fully lived.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">There are no facts, only interpretations.</div><div class="explanation"><p>Raw events are filtered through existing assumptions, language, and perspective. Changing the interpretive frame can alter the meaning of the same occurrence without changing the occurrence itself. Awareness of this process is a form of intellectual freedom.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">The individual has always had to struggle to keep from being overwhelmed by the tribe.</div><div class="explanation"><p>Group belonging exerts powerful pressure toward conformity. Maintaining independent judgment allows a person to participate in community without surrendering the capacity to question its assumptions and values.</p></div></article></div></section>
+
+<section class="section" id="confucius">
+<div class="section-head"><div><h2>Confucius</h2><div class="meta">551–479 BC · Chinese philosopher</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">It does not matter how slowly you go as long as you do not stop.</div><div class="explanation"><p>Speed is less important than continuity when a goal requires sustained effort. Consistent forward movement, even in small increments, eventually compounds into significant progress. Stopping is what turns a long journey into failure.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Everything has beauty, but not everyone sees it.</div><div class="explanation"><p>Beauty is not always obvious or dramatic. It often requires trained attention and a willingness to look carefully. Cultivating the capacity to notice value in ordinary things expands what a person can appreciate.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">It does not matter how slowly you go as long as you do not stop.</div><div class="explanation"><p>Speed is less important than continuity when a goal requires sustained effort. Consistent forward movement, even in small increments, eventually compounds into significant progress. Stopping is what turns a long journey into failure.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Everything has beauty, but not everyone sees it.</div><div class="explanation"><p>Beauty is not always obvious or dramatic. It often requires trained attention and a willingness to look carefully. Cultivating the capacity to notice value in ordinary things expands what a person can appreciate.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Life is really simple, but we insist on making it complicated.</div><div class="explanation"><p>Unnecessary complexity confuses decisions and drains energy. Simplicity is valuable when it removes clutter without discarding important realities. The difficulty lies in distinguishing essential complexity from self-imposed complication.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Our greatest glory is not in never falling, but in rising every time we fall.</div><div class="explanation"><p>Failure and setbacks are inevitable. What distinguishes lasting achievement is the capacity to recover, learn, and continue. Resilience is measured not by the absence of falls but by the consistency of rising afterward.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">To see what is right and not do it is the want of courage.</div><div class="explanation"><p>Recognizing the right course of action is not enough. Moral failure often occurs not from ignorance but from the lack of courage to act on what one already sees. Integrity requires bridging the gap between insight and behavior.</p></div></article></div></section>
+
+<section class="section" id="seneca">
+<div class="section-head"><div><h2>Seneca</h2><div class="meta">c. 4 BC–65 AD · Roman Stoic philosopher</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">It is not that we have a short time to live, but that we waste a lot of it.</div><div class="explanation"><p>Most people do not lack time; they lack deliberate use of the time they have. Distraction, postponement, and unexamined habits consume the hours that could have been spent on what matters. A lifetime is long enough if it is not continuously squandered.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Difficulties strengthen the mind, as labor does the body.</div><div class="explanation"><p>Just as physical effort develops the body, confronting and working through difficulty can develop mental strength, judgment, and endurance. Avoiding all hardship leaves a person unprepared for the challenges that eventually arrive.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Difficulties strengthen the mind, as labor does the body.</div><div class="explanation"><p>Just as physical effort develops the body, confronting and working through difficulty can develop mental strength, judgment, and endurance. Avoiding all hardship leaves a person unprepared for the challenges that eventually arrive.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">We suffer more often in imagination than in reality.</div><div class="explanation"><p>Anticipatory worry often exceeds the actual difficulty of events. The mind magnifies threats that have not yet occurred. Distinguishing present facts from imagined futures reduces unnecessary suffering and improves the quality of decisions.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">If one does not know to which port one is sailing, no wind is favorable.</div><div class="explanation"><p>Without a clear destination, opportunities cannot be properly evaluated. Favorable conditions are useful only when they move a person toward a chosen goal. Direction turns chance into progress; its absence turns even good fortune into distraction.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Begin at once to live, and count each separate day as a separate life.</div><div class="explanation"><p>Postponing life until some future condition is met is a common form of self-deception. Treating the present day as complete and meaningful reduces the tendency to wait and increases the quality of ordinary attention and action.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">The greatest remedy for anger is delay.</div><div class="explanation"><p>Strong emotion narrows perception and judgment. A deliberate pause creates space between impulse and response, allowing reason to re-enter. Delay does not suppress feeling; it prevents irreversible action taken in a distorted state.</p></div></article></div></section>
+
+<section class="section" id="marcus">
+<div class="section-head"><div><h2>Marcus Aurelius</h2><div class="meta">121–180 AD · Roman emperor and Stoic philosopher</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">You have power over your mind — not outside events. Realize this, and you will find strength.</div><div class="explanation"><p>Most external events lie beyond direct control. What remains available is the interpretation and response one chooses. Focusing energy on that internal domain is a reliable source of strength and reduces the exhaustion of trying to control what cannot be controlled.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">The happiness of your life depends upon the quality of your thoughts.</div><div class="explanation"><p>Circumstances influence feeling, but the habitual quality of thought exerts a powerful and ongoing effect. Cultivating clearer, more constructive patterns of attention and judgment improves everyday experience more reliably than waiting for external conditions to improve.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">The soul becomes dyed with the colour of its thoughts.</div><div class="explanation"><p>Repeated thoughts gradually color character and emotional response. What a person dwells on becomes the background tone of their inner life. Deliberate choice of focus is therefore a form of long-term self-shaping.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">The best revenge is to be unlike him who performed the injury.</div><div class="explanation"><p>Retaliation allows another person’s wrongdoing to dictate one’s own behavior. Refusing to become like the one who caused harm preserves independence and character. The higher response is to remain governed by one’s own standards rather than by the injury.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Waste no more time arguing about what a good man should be. Be one.</div><div class="explanation"><p>Discussion of virtue has limited value if it never translates into action. The practical demand is to move from theory and intention into observable conduct. Character is demonstrated in behavior, not in debate.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">If it is not right, do not do it; if it is not true, do not say it.</div><div class="explanation"><p>Integrity consists in aligning speech and action with what one judges to be right and true, especially when convenience or advantage pulls the other way. This standard is simple to state and demanding to practice.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">The impediment to action advances action. What stands in the way becomes the way.</div><div class="explanation"><p>Obstacles are not merely barriers; they can force adaptation and reveal better paths. A blocked route often contains information about a more effective strategy. Working with the obstacle rather than only against it can turn hindrance into progress.</p></div></article></div></section>
+
+<section class="section" id="shakespeare">
+<div class="section-head"><div><h2>William Shakespeare</h2><div class="meta">1564–1616 · English playwright and poet</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">To thine own self be true.</div><div class="explanation"><p>Acting in accordance with one’s genuine values, rather than performing a role for approval, is presented as the foundation for honest relationships with others. Self-betrayal eventually undermines both integrity and trust.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">All the world's a stage, and all the men and women merely players.</div><div class="explanation"><p>Life can be viewed as a succession of temporary roles. Recognizing the constructed and passing nature of social parts offers perspective and reduces the tendency to treat any single role as absolute or permanent.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Brevity is the soul of wit.</div><div class="explanation"><p>Clarity and force often increase when unnecessary words are removed. Concise expression makes an idea easier to grasp and remember. Excess language can dilute rather than strengthen meaning.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">All that glisters is not gold.</div><div class="explanation"><p>Surface appearance is an unreliable guide to underlying value. The warning applies equally to people, opportunities, wealth, and persuasive claims. Discernment requires looking past shine to substance.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">We know what we are, but know not what we may be.</div><div class="explanation"><p>Present condition does not exhaust future possibility. Skills, choices, relationships, and circumstances can open forms of growth that are not yet visible. Identity includes potential as well as current fact.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Some are born great, some achieve greatness, and some have greatness thrust upon them.</div><div class="explanation"><p>Achievement can arrive through inheritance, deliberate effort, or unexpected circumstance. What ultimately matters is how the opportunity is used once it appears, regardless of its origin.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">What&#x27;s past is prologue.</div><div class="explanation"><p>Past events provide context and consequences, but they do not mechanically determine the future. Understanding history can become preparation for better choices. This insight rewards careful reflection and practical application in daily life.</p></div></article></div></section>
+
+<section class="section" id="einstein">
+<div class="section-head"><div><h2>Albert Einstein</h2><div class="meta">1879–1955 · Physicist and thinker</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Imagination is more important than knowledge.</div><div class="explanation"><p>Knowledge describes what is already understood. Imagination generates new possibilities, questions, and frameworks beyond existing knowledge. Discovery and creation often depend more on the capacity to envision what is not yet known than on mastery of what is.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Everything should be made as simple as possible, but not simpler.</div><div class="explanation"><p>Simplification aids clarity and usefulness, but it becomes distortion once essential detail is removed. The goal is the simplest accurate account, not the simplest account regardless of accuracy.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Imagination is more important than knowledge.</div><div class="explanation"><p>Knowledge describes what is already understood. Imagination generates new possibilities, questions, and frameworks beyond existing knowledge. Discovery and creation often depend more on the capacity to envision what is not yet known than on mastery of what is.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">The important thing is not to stop questioning.</div><div class="explanation"><p>Questions keep understanding alive. When questioning ceases, explanations harden into unexamined belief. Sustained curiosity is what prevents knowledge from becoming dogma and keeps learning continuous.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">A person who never made a mistake never tried anything new.</div><div class="explanation"><p>Novelty carries the risk of error. Avoiding all mistakes usually means avoiding all genuine experimentation. Mistakes made in the course of trying something new can supply information that pure repetition never reveals.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">The measure of intelligence is the ability to change.</div><div class="explanation"><p>Effective intelligence includes the capacity to revise strategies when evidence changes. Adaptability is not inconsistency; it is the intelligent updating of plans in response to new information and altered conditions.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">We cannot solve our problems with the same thinking we used when we created them.</div><div class="explanation"><p>Persistent problems often require a shift in framework rather than more effort within the old one. Changing assumptions and perspectives can make previously invisible solutions become available.</p></div></article></div></section>
+
+<section class="section" id="franklin">
+<div class="section-head"><div><h2>Benjamin Franklin</h2><div class="meta">1706–1790 · American statesman and inventor</div></div></div>
+<div class="quote-grid">
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">By failing to prepare, you are preparing to fail.</div><div class="explanation"><p>Outcomes are frequently decided long before the moment of action by the quality of preparation that precedes it. Neglecting preparation is itself a form of planning for poor results.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Lost time is never found again.</div><div class="explanation"><p>Time is irreversible. Once spent, it cannot be recovered or stored. This fact makes deliberate, intentional use of time uniquely important compared with other resources that can be renewed or replaced.</p></div></article>
+<article class="quote"><div class="quote-mark">“</div><div class="quote-text">Lost time is never found again.</div><div class="explanation"><p>Time is irreversible. Once spent, it cannot be recovered or stored. This fact makes deliberate, intentional use of time uniquely important compared with other resources that can be renewed or replaced.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">An investment in knowledge pays the best interest.</div><div class="explanation"><p>Useful knowledge continues to generate returns through better decisions, skills, and opportunities long after it is acquired. Unlike many material possessions, it is not diminished by use and can compound over a lifetime.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Well done is better than well said.</div><div class="explanation"><p>Talk and intention have limited value until they produce visible results. The measure of an idea is ultimately its effect on behavior and outcomes. Action is the test that distinguishes genuine commitment from mere statement.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">He that can have patience can have what he will.</div><div class="explanation"><p>Many worthwhile results require extended time. Patience is the capacity to continue sensible effort without demanding immediate payoff. It allows the compounding of small gains that impatience would abandon.</p></div></article><article class="quote"><div class="quote-mark">“</div><div class="quote-text">Energy and persistence conquer all things.</div><div class="explanation"><p>Sustained energy applied over time overcomes obstacles that single bursts of effort cannot. Long projects most often fail because effort stops before results have time to accumulate. Persistence keeps the process alive.</p></div></article></div></section>
+
+<footer class="footer">
+  Great Quotes · A simple collection of memorable words and ideas.<br>
+  Sources: Commonly attributed to the respective authors.
+</footer>
+</main>
+</div>
+
+<script>
+function filterPerson(id,btn){
+  document.querySelectorAll('.person-section,.section').forEach(s=>{
+    if(s.id && s.id !== id && document.getElementById(id)){ s.classList.add('filter-hidden'); }
+  });
+  const target=document.getElementById(id);
+  if(target){ target.classList.remove('filter-hidden'); target.scrollIntoView({behavior:'smooth',block:'start'}); }
+  document.querySelectorAll('.person-filter button').forEach(b=>b.classList.remove('active'));
+  if(btn) btn.classList.add('active');
+}
+</script>
+</body>
+</html>
