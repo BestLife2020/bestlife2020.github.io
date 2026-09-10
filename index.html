@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-adsense-account" content="ca-pub-7387275734616354">
+<title>Discover · Movies & Songs</title>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7387275734616354"
+     crossorigin="anonymous"></script>
+<style>
+  :root{
+    --navy:#0d253f;
+    --navy-2:#123353;
+    --green:#01d277;
+    --blue:#01b4e4;
+    --bg:#f5f6f8;
+    --card:#ffffff;
+    --border:#e2e5ea;
+    --text-0:#1a2233;
+    --text-1:#5b6472;
+    --text-2:#8a93a1;
+    --font-ui: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--text-0);font-family:var(--font-ui);}
+
+  .app-top{position:sticky;top:0;z-index:50;}
+
+  .mode-switch{
+    background:var(--navy-2);display:flex;gap:0;padding:0 24px;
+  }
+  .mode-tab{
+    color:#9fb0c4;font-size:14px;font-weight:800;cursor:pointer;
+    padding:12px 20px;border-bottom:3px solid transparent;
+    display:flex;align-items:center;gap:6px;
+    transition:color .15s ease, border-color .15s ease;
+  }
+  .mode-tab:hover{color:#fff;}
+  .mode-tab.active{color:#fff;background:var(--navy);}
+
+  .topnav{
+    background:var(--navy);color:#fff;
+    display:flex;align-items:center;gap:22px;
+    padding:12px 24px;flex-wrap:wrap;
+  }
+  .nav-tabs{display:flex;gap:20px;flex:1;flex-wrap:wrap;}
+  .nav-tab{
+    color:#c7cedb;font-size:14px;font-weight:700;cursor:pointer;
+    padding:4px 2px;border-bottom:2px solid transparent;
+    transition:color .15s ease, border-color .15s ease;
+  }
+  .nav-tab:hover{color:#fff;}
+  .nav-tab.active{color:var(--green);}
+
+  .grid{
+    max-width:1100px;margin:16px auto 60px;padding:0 24px;
+    display:grid;grid-template-columns:repeat(auto-fit, minmax(420px, 1fr));
+    gap:20px;
+  }
+
+  .card{
+    background:var(--card);border:1px solid var(--border);border-radius:10px;
+    display:flex;overflow:hidden;
+    box-shadow:0 1px 3px rgba(20,30,50,.06);
+  }
+  .card-body{padding:16px 18px;flex:1;min-width:0;display:flex;flex-direction:column;}
+  .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .card-title{font-size:16px;font-weight:700;margin:0;}
+  .title-link{color:inherit;text-decoration:none;}
+  .title-link:hover{color:var(--blue);text-decoration:underline;}
+  .rating{
+    flex-shrink:0;font-size:13px;font-weight:800;color:var(--navy);
+    display:flex;align-items:center;gap:3px;white-space:nowrap;
+  }
+  .rating.pending{color:var(--blue);font-weight:700;font-size:12px;}
+  .meta-line{font-size:12px;color:var(--text-2);margin:4px 0 10px;}
+  .genre-tag{
+    display:inline-block;background:var(--bg);border:1px solid var(--border);
+    color:var(--text-1);font-size:11px;padding:2px 8px;border-radius:10px;margin-right:5px;
+  }
+  .synopsis{font-size:13px;line-height:1.6;color:var(--text-1);margin:0 0 10px;flex:1;}
+  .card-footer{border-top:1px solid var(--border);padding-top:10px;display:flex;justify-content:space-between;align-items:center;}
+  .more-btn{
+    background:none;border:none;color:var(--blue);font-size:13px;font-weight:700;
+    cursor:pointer;padding:0;
+  }
+  .more-btn:hover{text-decoration:underline;}
+
+  .icon-links{display:flex;gap:8px;}
+  .icon-btn{
+    display:flex;align-items:center;justify-content:center;
+    width:30px;height:30px;border-radius:50%;
+    background:var(--bg);border:1px solid var(--border);
+    color:var(--text-1);font-size:13px;text-decoration:none;
+    cursor:pointer;transition:all .15s ease;
+  }
+  .icon-btn:hover{border-color:var(--blue);color:var(--blue);}
+  .icon-btn.active-icon{background:var(--blue);border-color:var(--blue);color:#fff;}
+
+  .expand{
+    display:none;margin-top:12px;padding-top:12px;border-top:1px dashed var(--border);
+    font-size:12.5px;color:var(--text-1);line-height:1.7;
+  }
+  .expand.open{display:block;}
+  .expand b{color:var(--text-0);}
+  .expand .site-link{
+    display:inline-block;margin-top:8px;font-size:12.5px;font-weight:700;
+    color:var(--blue);text-decoration:none;
+  }
+  .expand .site-link:hover{text-decoration:underline;}
+
+  .empty-msg{max-width:1100px;margin:40px auto;padding:0 24px;color:var(--text-1);font-size:14px;text-align:center;}
+
+  @media (max-width: 560px){
+    .grid{grid-template-columns:1fr;}
+  }
+</style>
+</head>
+<body>
+
+  <div class="app-top">
+    <div class="mode-switch" id="modeSwitch"></div>
+    <div class="topnav">
+      <div class="nav-tabs" id="navTabs"></div>
+    </div>
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty-msg" id="emptyMsg" style="display:none;">Nothing to show.</div>
+
+<script>
+function siteSearchUrl(title){
+  return "https://www.google.com/search?q=" + encodeURIComponent(title + " official site");
+}
+
+const FIELD_LABELS = {
+  movie: { p1:"Setting", p2:"Director", p3:"Lead" },
+  song:  { p1:"Style",   p2:"Artist",   p3:"Album" }
+};
+
+const MODES = {
+  movie: {
+    modeLabel: "🎬 Movies",
+    categoryOrder: ["upcoming","recent","best"],
+    data: {
+      upcoming: { label:"Coming Soon", sub:"Most Anticipated Movies", items:[
+        { name:"Avengers: Doomsday", year:2026, rating:null, genres:["Action","Sci-Fi"],
+          director:"Anthony & Joe Russo", lead:"Robert Downey Jr.",
+          setting:"Present-day Earth and the multiverse — the culmination of MCU Phase 4",
+          plot:["Heroes band together against a new threat led by Doctor Doom.",
+                "The Avengers and the Fantastic Four share the screen together for the first time.",
+                "A massive crossover event expected to close out an era of the Marvel universe."] },
+        { name:"Digger", year:2026, rating:null, genres:["Comedy","Drama"],
+          director:"Alejandro González Iñárritu", lead:"Tom Cruise",
+          setting:"Contemporary setting — details undisclosed, billed as a 'disaster comedy'",
+          plot:["The first collaboration between director Iñárritu and Tom Cruise.",
+                "Follows a man swept into a chain of unpredictable events, told with a comedic tone.",
+                "Plot details remain under wraps, fueling buzz ahead of release."] },
+        { name:"The Odyssey", year:2026, rating:null, genres:["Adventure","Drama"],
+          director:"Christopher Nolan", lead:"Matt Damon",
+          setting:"Ancient Greece — Odysseus's journey home after the Trojan War",
+          plot:["Nolan's fresh adaptation of Homer's classic epic.",
+                "Follows Odysseus's long, perilous voyage to return to his homeland.",
+                "A large-scale production shot on film and IMAX, generating major anticipation."] },
+        { name:"Practical Magic 2", year:2026, rating:null, genres:["Fantasy","Comedy"],
+          director:"Susanne Bier", lead:"Sandra Bullock & Nicole Kidman",
+          setting:"A small New England town — present day",
+          plot:["Witch sisters Sally and Gillian reunite after many years apart.",
+                "Revisits their bond and magic decades after the 1998 original.",
+                "A nostalgia-driven sequel eagerly awaited by longtime fans."] },
+        { name:"Resident Evil (Reboot)", year:2026, rating:null, genres:["Horror","Action"],
+          director:"Zach Cregger", lead:"Cast unannounced",
+          setting:"A near-future city overrun by a zombie outbreak",
+          plot:["A fresh reboot of the beloved game franchise leaning into survival horror.",
+                "Promises a darker, more frightening tone than the previous film series.",
+                "Directed by Zach Cregger of 'Barbarian,' raising expectations among genre fans."] },
+        { name:"The Dog Stars", year:2026, rating:null, genres:["Sci-Fi","Drama"],
+          director:"Ridley Scott", lead:"Jacob Elordi",
+          setting:"The American Great Plains after a deadly pandemic — near future",
+          plot:["Based on the novel of the same name, following a pilot surviving in a post-pandemic wasteland.",
+                "He's forced to team up with a dangerous companion in order to survive.",
+                "Expected to showcase Ridley Scott's signature dystopian visuals."] },
+        { name:"Spider-Man: Brand New Day", year:2026, rating:null, genres:["Action","Sci-Fi"],
+          director:"TBA", lead:"Tom Holland",
+          setting:"New York City — Marvel Cinematic Universe",
+          plot:["Picks up after 'No Way Home,' as Peter Parker begins a new chapter with his identity restored.",
+                "New allies and villains are expected to take center stage this time.",
+                "One of the most anticipated summer releases, opening the next chapter of the saga."] },
+        { name:"Masters of the Universe", year:2026, rating:null, genres:["Action","Fantasy"],
+          director:"TBA", lead:"Cast unannounced",
+          setting:"The mystical planet Eternia",
+          plot:["A live-action adaptation of the classic toy and animated franchise 'He-Man.'",
+                "Follows a fantasy battle between good and evil over magic and power.",
+                "Long in development, the film finally reaches the screen amid high anticipation."] },
+        { name:"Supergirl", year:2026, rating:null, genres:["Action","Sci-Fi"],
+          director:"TBA", lead:"Milly Alcock",
+          setting:"The DC Universe — Earth and beyond",
+          plot:["Follows Kara Zor-El, Superman's cousin, forging her own path as a hero.",
+                "She searches for her own identity as part of the newly rebuilt DC Universe.",
+                "Seen as a cornerstone title of the rebooted DC film slate."] }
+      ]},
+      recent: { label:"Recent Hits", sub:"Successful Movies of the Past Year", items:[
+        { name:"Avatar: Fire and Ash", year:2025, rating:7.5, genres:["Sci-Fi","Action"],
+          director:"James Cameron", lead:"Sam Worthington",
+          setting:"Pandora — territory of the Ash Clan",
+          plot:["Conflict between the Na'vi and humans escalates with the arrival of a new clan.",
+                "Jake and Neytiri's family confront a new threat from the fire-wielding clan.",
+                "The third Avatar film, a box-office success driven by its stunning visuals."] },
+        { name:"Zootopia 2", year:2025, rating:7.6, genres:["Animation","Comedy"],
+          director:"Byron Howard & Jared Bush", lead:"Judy Hopps (voiced by Ginnifer Goodwin)",
+          setting:"Zootopia, a city where animals live in a human-like society",
+          plot:["Officer Judy Hopps and fox Nick Wilde team up again to crack a new case.",
+                "They face an even more tangled mystery than in the first film.",
+                "A worldwide box-office hit, the franchise's best-performing entry yet."] },
+        { name:"Wicked: For Good", year:2025, rating:7.8, genres:["Musical","Fantasy"],
+          director:"Jon M. Chu", lead:"Cynthia Erivo & Ariana Grande",
+          setting:"The world of the Wizard of Oz — the Land of Oz",
+          plot:["Brings the second half of the hit musical 'Wicked' to the screen.",
+                "The friendship and diverging fates of witches Elphaba and Glinda reach their climax.",
+                "Received both box-office success and critical acclaim, following the first film."] },
+        { name:"F1 the Movie", year:2025, rating:7.3, genres:["Drama","Sports"],
+          director:"Joseph Kosinski", lead:"Brad Pitt",
+          setting:"The present-day international Formula 1 racing circuit",
+          plot:["A retired racer returns as a mentor to a struggling new F1 team.",
+                "He works to guide a young rookie driver toward the top of the sport.",
+                "Praised for its realistic racing sequences filmed at real F1 Grand Prix events."] },
+        { name:"Jurassic World Rebirth", year:2025, rating:6.5, genres:["Sci-Fi","Action"],
+          director:"Gareth Edwards", lead:"Scarlett Johansson",
+          setting:"An isolated island near the equator where dinosaurs still survive",
+          plot:["A risky expedition is sent to the island to recover rare dinosaur DNA.",
+                "An unexpected accident leaves the team stranded and fighting for survival.",
+                "Opens a new chapter for the franchise and performed well at the box office."] },
+        { name:"A Minecraft Movie", year:2025, rating:6.0, genres:["Animation","Comedy"],
+          director:"Jared Hess", lead:"Jack Black",
+          setting:"The Overworld, a block-based realm connected to the real world",
+          plot:["Ordinary people are pulled into the world of Minecraft by chance.",
+                "They must survive in the unfamiliar block world while seeking a way home.",
+                "Set an opening-weekend record among video game film adaptations."] }
+      ]},
+      best: { label:"Best Movie", sub:"Successful Movies of the Past 10 Years", items:[
+        { name:"La La Land", year:2016, rating:8.0, genres:["Musical","Romance"],
+          director:"Damien Chazelle", lead:"Ryan Gosling & Emma Stone",
+          setting:"Present-day Los Angeles — a jazz pianist and an aspiring actress",
+          plot:["Jazz pianist Sebastian and aspiring actress Mia fall in love.",
+                "Their relationship is tested as they each chase their own dreams.",
+                "Beloved for its music and visuals, it won multiple Academy Awards."] },
+        { name:"Captain America: Civil War", year:2016, rating:7.8, genres:["Action","Sci-Fi"],
+          director:"Anthony & Joe Russo", lead:"Chris Evans",
+          setting:"Present-day US and Europe — Marvel Cinematic Universe",
+          plot:["Heroes split over whether powered individuals should be regulated by governments.",
+                "Captain America and Iron Man clash, each defending his own convictions.",
+                "A turning point that reshaped the direction of the MCU going forward."] },
+        { name:"Zootopia", year:2016, rating:8.0, genres:["Animation","Comedy"],
+          director:"Byron Howard & Rich Moore", lead:"Judy Hopps (voiced by Ginnifer Goodwin)",
+          setting:"Zootopia, a city where animals live like humans",
+          plot:["A rabbit named Judy overcomes prejudice to fulfill her dream of becoming a cop.",
+                "She teams up with a con-artist fox to solve a missing-persons case.",
+                "Praised by critics for tackling themes of prejudice and diversity through animation."] },
+        { name:"Train to Busan", year:2016, rating:7.5, genres:["Horror","Action"],
+          director:"Yeon Sang-ho", lead:"Gong Yoo",
+          setting:"Aboard a KTX train from Seoul to Busan — present day",
+          plot:["A mysterious virus spreads, plunging the train into chaos.",
+                "A father and fellow passengers fight to survive a horde of the infected.",
+                "A landmark of Korean zombie cinema, a major hit at home and abroad."] },
+        { name:"Star Wars: The Last Jedi", year:2017, rating:6.9, genres:["Sci-Fi","Adventure"],
+          director:"Rian Johnson", lead:"Daisy Ridley",
+          setting:"A galaxy far, far away — Star Wars sequel trilogy",
+          plot:["Rey seeks out the reclusive Luke Skywalker and uncovers hard truths.",
+                "The Resistance faces a desperate struggle to escape the First Order.",
+                "Sparked heated debate among fans for subverting series conventions."] },
+        { name:"Wonder Woman", year:2017, rating:7.4, genres:["Action","Fantasy"],
+          director:"Patty Jenkins", lead:"Gal Gadot",
+          setting:"The island of Themyscira and WWI-era Europe",
+          plot:["Amazonian warrior Diana ventures into the human world seeking the truth.",
+                "Witnessing the horrors of WWI, her beliefs and strength are put to the test.",
+                "An unusually strong box-office success for a solo female superhero film."] },
+        { name:"Beauty and the Beast", year:2017, rating:7.1, genres:["Fantasy","Romance"],
+          director:"Bill Condon", lead:"Emma Watson",
+          setting:"An 18th-century French village and the Beast's castle",
+          plot:["To save her father, Belle offers to take his place in the Beast's castle.",
+                "Though afraid at first, she gradually comes to understand and care for him.",
+                "This live-action take on the Disney classic was a global box-office hit."] },
+        { name:"Avengers: Infinity War", year:2018, rating:8.4, genres:["Action","Sci-Fi"],
+          director:"Anthony & Joe Russo", lead:"Robert Downey Jr.",
+          setting:"Earth and various points across the galaxy — Marvel Cinematic Universe",
+          plot:["Thanos begins collecting the Infinity Stones to erase half the universe.",
+                "Earth's heroes unite on a massive scale for the first time to stop him.",
+                "Left a lasting impact on fans with its shocking ending."] },
+        { name:"Black Panther", year:2018, rating:7.3, genres:["Action","Sci-Fi"],
+          director:"Ryan Coogler", lead:"Chadwick Boseman",
+          setting:"Wakanda, a hidden and technologically advanced African kingdom",
+          plot:["T'Challa becomes Wakanda's new king following his father's death.",
+                "He must confront a challenger to the throne while weighing his nation's future.",
+                "Praised for its themes of identity and representation, alongside major box-office success."] },
+        { name:"Bohemian Rhapsody", year:2018, rating:8.0, genres:["Drama","Music"],
+          director:"Bryan Singer", lead:"Rami Malek",
+          setting:"The British rock scene of the 1970s and '80s",
+          plot:["Chronicles the life of Freddie Mercury, legendary frontman of Queen.",
+                "Follows the band's formation all the way through their Live Aid performance.",
+                "A biographical music drama that became a massive worldwide hit."] },
+        { name:"Avengers: Endgame", year:2019, rating:8.4, genres:["Action","Sci-Fi"],
+          director:"Anthony & Joe Russo", lead:"Robert Downey Jr.",
+          setting:"Earth and various points in space — Marvel Cinematic Universe",
+          plot:["The defeated heroes regroup to try to bring back their lost allies.",
+                "They devise a risky plan to travel through time for one final battle.",
+                "The record-breaking culmination of the Marvel Cinematic Universe's first era."] },
+        { name:"Frozen II", year:2019, rating:6.8, genres:["Animation","Fantasy"],
+          director:"Chris Buck & Jennifer Lee", lead:"Elsa (voiced by Kristen Bell)",
+          setting:"The Nordic-inspired kingdom of Arendelle and an enchanted forest beyond",
+          plot:["Elsa journeys beyond her kingdom to uncover the source of her powers.",
+                "Alongside Anna, she uncovers her kingdom's hidden past in a mysterious forest.",
+                "A hit follow-up praised for both its music and its message."] },
+        { name:"Parasite", year:2019, rating:8.5, genres:["Drama","Thriller"],
+          director:"Bong Joon-ho", lead:"Song Kang-ho",
+          setting:"Present-day Seoul — a semi-basement home and a wealthy mansion",
+          plot:["The poor Kim family gradually infiltrates the wealthy Park household through jobs.",
+                "The meeting of the two families spirals into unforeseen, uncontrollable territory.",
+                "Won both the Palme d'Or at Cannes and the Academy Award for Best Picture."] },
+        { name:"Joker", year:2019, rating:8.4, genres:["Drama","Thriller"],
+          director:"Todd Phillips", lead:"Joaquin Phoenix",
+          setting:"A 1980s-styled Gotham City",
+          plot:["Follows the bleak life of Arthur Fleck, a comedian shunned by society.",
+                "Years of scorn and neglect gradually push him toward destruction.",
+                "The first superhero-adjacent film to win the Golden Lion at Venice."] },
+        { name:"Tenet", year:2020, rating:7.3, genres:["Sci-Fi","Action"],
+          director:"Christopher Nolan", lead:"John David Washington",
+          setting:"A near-future international stage where time can be reversed",
+          plot:["An unnamed operative is recruited for a mission to prevent world annihilation.",
+                "He uses time-reversing technology to try to foil his enemy's plans.",
+                "Drew attention for its intricate temporal structure and massive scale."] },
+        { name:"Spider-Man: No Way Home", year:2021, rating:8.2, genres:["Action","Sci-Fi"],
+          director:"Jon Watts", lead:"Tom Holland",
+          setting:"New York City and the multiverse — Marvel Cinematic Universe",
+          plot:["With his identity exposed, Peter Parker turns to magic to reclaim a normal life.",
+                "A magical mishap pulls villains from other universes into his world.",
+                "A record-breaking hit that fulfilled longtime fans' wishes on screen."] },
+        { name:"Dune", year:2021, rating:8.0, genres:["Sci-Fi","Adventure"],
+          director:"Denis Villeneuve", lead:"Timothée Chalamet",
+          setting:"The distant desert planet of Arrakis",
+          plot:["Paul, heir to a noble house, is drawn into intrigue over control of a desert world.",
+                "After his house's fall, he seeks survival alongside the desert people.",
+                "Brought the novel's sprawling world to life with sweeping visual grandeur."] },
+        { name:"Eternals", year:2021, rating:6.3, genres:["Action","Fantasy"],
+          director:"Chloé Zhao", lead:"Angelina Jolie",
+          setting:"Locations across Earth spanning ancient times to the present — Marvel Cinematic Universe",
+          plot:["An immortal race that has quietly protected humanity for millennia reunites.",
+                "A hidden truth emerges, testing each member's long-held beliefs.",
+                "Notable for bringing an art-house directorial sensibility to the MCU."] },
+        { name:"Top Gun: Maverick", year:2022, rating:8.3, genres:["Action","Drama"],
+          director:"Joseph Kosinski", lead:"Tom Cruise",
+          setting:"A US Navy fighter pilot training base and mission sites",
+          plot:["Veteran pilot Maverick is tasked with training a new generation of aviators.",
+                "He clashes with, then builds trust with, the son of a former comrade before a dangerous mission.",
+                "A massive box-office success despite arriving 36 years after the original."] },
+        { name:"Avatar: The Way of Water", year:2022, rating:7.6, genres:["Sci-Fi","Action"],
+          director:"James Cameron", lead:"Sam Worthington",
+          setting:"The oceanic reef-clan territories of Pandora",
+          plot:["Jake and Neytiri's family flee to the reef clans' waters to escape a growing threat.",
+                "They adapt to unfamiliar surroundings while fighting to protect their family.",
+                "Ranked among the highest-grossing films ever, thanks to groundbreaking underwater filmmaking."] },
+        { name:"Barbie", year:2023, rating:6.9, genres:["Comedy","Fantasy"],
+          director:"Greta Gerwig", lead:"Margot Robbie",
+          setting:"The toy world of Barbie Land and the real world",
+          plot:["A seemingly perfect Barbie is suddenly thrust into the real world.",
+                "Experiencing human life leads her to reconsider herself and womanhood.",
+                "Balanced sharp social commentary with blockbuster appeal, sparking wide cultural discussion."] },
+        { name:"Oppenheimer", year:2023, rating:8.3, genres:["Drama","Biography"],
+          director:"Christopher Nolan", lead:"Cillian Murphy",
+          setting:"The Los Alamos National Laboratory in 1940s America",
+          plot:["Physicist Oppenheimer leads the project to develop the atomic bomb.",
+                "After its success, he is consumed by guilt over the weapon he created.",
+                "Swept major awards, including the Academy Award for Best Picture."] },
+        { name:"The Super Mario Bros. Movie", year:2023, rating:7.0, genres:["Animation","Adventure"],
+          director:"Aaron Horvath & Michael Jelenic", lead:"Mario (voiced by Chris Pratt)",
+          setting:"The Mushroom Kingdom and other game-inspired worlds",
+          plot:["Plumber brothers Mario and Luigi are pulled into a strange world through a mysterious pipe.",
+                "Separated from his brother, Mario discovers the Mushroom Kingdom is in danger.",
+                "The video game adaptation posted record-breaking box-office numbers."] },
+        { name:"Inside Out 2", year:2024, rating:7.6, genres:["Animation","Comedy"],
+          director:"Kelsey Mann", lead:"Riley (voiced by Amy Poehler and others)",
+          setting:"Inside the mind of Riley, a girl entering adolescence",
+          plot:["New emotions appear inside Riley's mind as she enters puberty.",
+                "Conflict erupts between the existing emotions and the newcomers.",
+                "Became the highest-grossing animated film ever released."] },
+        { name:"Deadpool & Wolverine", year:2024, rating:7.7, genres:["Action","Comedy"],
+          director:"Shawn Levy", lead:"Ryan Reynolds",
+          setting:"A multiverse-spanning corner of the Marvel universe",
+          plot:["Deadpool's ordinary life is upended by a multiversal crisis.",
+                "He drags Wolverine into an unlikely partnership to resolve it.",
+                "Set a record for the highest-grossing R-rated film with its signature humor and action."] },
+        { name:"Exhuma", year:2024, rating:7.2, genres:["Occult","Mystery"],
+          director:"Jang Jae-hyun", lead:"Choi Min-sik",
+          setting:"Present-day Korea — a burial site tied to a strange story",
+          plot:["A shaman and a funeral director take on a lucrative but suspicious job to relocate a grave.",
+                "After exhuming it, a string of eerie events begins to unfold.",
+                "An occult hit that drew over ten million admissions in Korea."] },
+        { name:"Avatar: Fire and Ash", year:2025, rating:7.5, genres:["Sci-Fi","Action"],
+          director:"James Cameron", lead:"Sam Worthington",
+          setting:"Pandora — territory of the Ash Clan",
+          plot:["Conflict between the Na'vi and humans escalates with the arrival of a new clan.",
+                "Jake and Neytiri's family confront a new threat from the fire-wielding clan.",
+                "The third Avatar film, a box-office success driven by its stunning visuals."] },
+        { name:"Wicked: For Good", year:2025, rating:7.8, genres:["Musical","Fantasy"],
+          director:"Jon M. Chu", lead:"Cynthia Erivo & Ariana Grande",
+          setting:"The world of the Wizard of Oz — the Land of Oz",
+          plot:["Brings the second half of the hit musical 'Wicked' to the screen.",
+                "The friendship and diverging fates of witches Elphaba and Glinda reach their climax.",
+                "Received both box-office success and critical acclaim, following the first film."] },
+        { name:"F1 the Movie", year:2025, rating:7.3, genres:["Drama","Sports"],
+          director:"Joseph Kosinski", lead:"Brad Pitt",
+          setting:"The present-day international Formula 1 racing circuit",
+          plot:["A retired racer returns as a mentor to a struggling new F1 team.",
+                "He works to guide a young rookie driver toward the top of the sport.",
+                "Praised for its realistic racing sequences filmed at real F1 Grand Prix events."] },
+        { name:"Jurassic World Rebirth", year:2025, rating:6.5, genres:["Sci-Fi","Action"],
+          director:"Gareth Edwards", lead:"Scarlett Johansson",
+          setting:"An isolated island near the equator where dinosaurs still survive",
+          plot:["A risky expedition is sent to the island to recover rare dinosaur DNA.",
+                "An unexpected accident leaves the team stranded and fighting for survival.",
+                "Opens a new chapter for the franchise and performed well at the box office."] },
+        { name:"A Minecraft Movie", year:2025, rating:6.0, genres:["Animation","Comedy"],
+          director:"Jared Hess", lead:"Jack Black",
+          setting:"The Overworld, a block-based realm connected to the real world",
+          plot:["Ordinary people are pulled into the world of Minecraft by chance.",
+                "They must survive in the unfamiliar block world while seeking a way home.",
+                "Set an opening-weekend record among video game film adaptations."] },
+        { name:"Zootopia 2", year:2025, rating:7.6, genres:["Animation","Comedy"],
+          director:"Byron Howard & Jared Bush", lead:"Judy Hopps (voiced by Ginnifer Goodwin)",
+          setting:"Zootopia, a city where animals live in a human-like society",
+          plot:["Officer Judy Hopps and fox Nick Wilde team up again to crack a new case.",
+                "They face an even more tangled mystery than in the first film.",
+                "A worldwide box-office hit, the franchise's best-performing entry yet."] },
+        { name:"Demon Slayer: Infinity Castle", year:2025, rating:8.4, genres:["Animation","Action"],
+          director:"Haruo Sotozaki", lead:"Tanjiro Kamado (voice)",
+          setting:"Taisho-era Japan — the Infinity Castle, battleground of demon slayers and demons",
+          plot:["The Demon Slayer Corps advances into the Infinity Castle to stop the demon lord.",
+                "Alongside his comrades, Tanjiro fights a final, life-or-death battle.",
+                "Set new records for animated theatrical releases with its worldwide success."] },
+        { name:"Mission: Impossible – The Final Reckoning", year:2025, rating:7.6, genres:["Action","Thriller"],
+          director:"Christopher McQuarrie", lead:"Tom Cruise",
+          setting:"Locations around the globe — international espionage",
+          plot:["Ethan Hunt faces the greatest threat of the entire series in one last mission.",
+                "A globe-spanning espionage thriller filled with death-defying action.",
+                "Closed out the long-running franchise with both critical and commercial success."] },
+        { name:"Lilo & Stitch", year:2025, rating:7.1, genres:["Family","Comedy"],
+          director:"Dean Fleischer Camp", lead:"Maia Kealoha",
+          setting:"The island of Kauai, Hawaii",
+          plot:["An alien experiment named Stitch crosses paths with a young girl named Lilo.",
+                "Two very different beings learn the meaning of 'ohana' — family — together.",
+                "This live-action take on the Disney classic resonated strongly with family audiences."] },
+        { name:"Thunderbolts*", year:2025, rating:7.4, genres:["Action","Sci-Fi"],
+          director:"Jake Schreier", lead:"Florence Pugh",
+          setting:"Present-day United States — Marvel Cinematic Universe",
+          plot:["A group of government-exploited anti-heroes are unexpectedly thrown together as a team.",
+                "Individuals with troubled pasts must face an unforeseen threat side by side.",
+                "Praised for its distinct tone compared to typical hero films, and a box-office success."] }
+      ]}
+    }
+  },
+  song: {
+    modeLabel: "🎵 Songs",
+    categoryOrder: ["upcoming","recent","best"],
+    data: {
+      upcoming: { label:"Coming Soon", sub:"Most Anticipated Releases", items:[
+        { name:"New album (title TBA)", year:2026, rating:null, genres:["K-pop"],
+          director:"BTS", lead:"BIGHIT MUSIC",
+          setting:"BTS's first full-group album following their military service",
+          plot:["The group's comeback album after members completed mandatory service.",
+                "Announced for a spring 2026 release, ending a multi-year group hiatus.",
+                "One of the most anticipated releases of the year across the global fanbase."] },
+        { name:"Daughter from Hell", year:2026, rating:null, genres:["Pop"],
+          director:"Gracie Abrams", lead:"Interscope Records",
+          setting:"Gracie Abrams's third studio album",
+          plot:["Follows the momentum of her breakout hits 'Close To You' and 'That's So True.'",
+                "Blends introspective songwriting with contemporary pop production.",
+                "Set for release on July 17, 2026, one of the year's most anticipated pop albums."] },
+        { name:"Kiss All the Time. Disco, Occasionally.", year:2026, rating:null, genres:["Pop","Disco"],
+          director:"Harry Styles", lead:"Columbia Records",
+          setting:"Harry Styles's fourth studio album",
+          plot:["Teased in late 2025 after years of anticipation from fans.",
+                "Reportedly leans into a disco-influenced pop sound based on the title.",
+                "No confirmed date yet, but among the most talked-about releases of 2026."] },
+        { name:"Untitled dance album", year:2026, rating:null, genres:["Dance","Pop"],
+          director:"Madonna", lead:"Warner Records",
+          setting:"A spiritual sequel to 2005's 'Confessions on a Dance Floor'",
+          plot:["Announced after Madonna re-signed with Warner Records.",
+                "Reunites her with 'Confessions' producer Stuart Price.",
+                "Framed as a full return to club and dance-floor-driven pop."] },
+        { name:"Bass Persuades", year:2026, rating:null, genres:["Pop"],
+          director:"Miley Cyrus", lead:"Columbia Records",
+          setting:"Miley Cyrus's follow-up to her 'Something Beautiful' era",
+          plot:["Set for an October 2026 release according to label announcements.",
+                "Expected to continue her recent run of critically praised pop albums.",
+                "Anticipated as one of the year's major pop releases."] },
+        { name:"Wuthering Heights", year:2026, rating:null, genres:["Pop","Electronic"],
+          director:"Charli XCX", lead:"Atlantic Records",
+          setting:"Follow-up to her genre-defining 'BRAT' era",
+          plot:["Named after the classic novel, hinting at a more dramatic, narrative direction.",
+                "Comes after 'BRAT' reshaped mainstream pop and internet culture in 2024.",
+                "One of the most closely watched pop releases heading into 2026."] }
+      ]},
+      recent: { label:"Recent Hits", sub:"Successful Songs of the Past Year", items:[
+        { name:"Die with a Smile", year:2025, rating:9.5, genres:["Pop","Ballad"],
+          director:"Lady Gaga & Bruno Mars", lead:"Interscope / Atlantic",
+          setting:"Billboard's official No. 1 song of the 2025 year-end Hot 100",
+          plot:["A duet ballad about choosing love in the face of life's uncertainty.",
+                "Topped the Hot 100, Streaming Songs, and Radio Songs year-end charts alike.",
+                "The first year-end Hot 100 No. 1 duet led by a female and male soloist together."] },
+        { name:"Ordinary", year:2025, rating:8.6, genres:["Pop"],
+          director:"Alex Warren", lead:"Atlantic Records",
+          setting:"Warren's breakout mainstream pop hit",
+          plot:["A soaring, faith-tinged pop anthem about devotion and gratitude.",
+                "Topped Billboard's year-end Digital Song Sales chart for 2025.",
+                "Marked Alex Warren's arrival as a major new pop chart presence."] },
+        { name:"Luther", year:2025, rating:8.8, genres:["Hip-Hop","R&B"],
+          director:"Kendrick Lamar & SZA", lead:"pgLang / TDE",
+          setting:"From Kendrick Lamar's album 'GNX'",
+          plot:["A smooth, romantic duet track that became a long-running chart-topper.",
+                "Held the No. 1 spot on the Hot 100 for 13 consecutive weeks.",
+                "Marked SZA's third and Kendrick's sixth career No. 1 single."] },
+        { name:"APT.", year:2025, rating:8.3, genres:["K-pop","Pop"],
+          director:"ROSÉ & Bruno Mars", lead:"The Black Label / Atlantic",
+          setting:"A playful, party-game-inspired collaboration track",
+          plot:["Named after a Korean drinking game, blending K-pop and Western pop styles.",
+                "Became a global crossover hit, landing in the year-end Hot 100 top 10.",
+                "One of the most successful K-pop crossover collaborations to date."] },
+        { name:"Manchild", year:2025, rating:8.0, genres:["Pop"],
+          director:"Sabrina Carpenter", lead:"Island Records",
+          setting:"Lead single from Carpenter's 2025 album era",
+          plot:["A witty, tongue-in-cheek pop track about an emotionally immature partner.",
+                "Reached No. 1 on the Streaming Songs chart in its release week.",
+                "Continued Sabrina Carpenter's run of chart-topping pop hits."] },
+        { name:"Golden", year:2025, rating:8.1, genres:["Pop","Soundtrack"],
+          director:"Huntrix", lead:"From 'KPop Demon Hunters' soundtrack",
+          setting:"Original song from the animated film 'KPop Demon Hunters'",
+          plot:["An empowerment anthem performed by the film's fictional girl group.",
+                "Became a genuine chart hit well beyond the film's own audience.",
+                "Helped drive the soundtrack's multiple placements on the year-end charts."] }
+      ]},
+      best: { label:"Best Music", sub:"Successful Songs of the Past 10 Years", items:[
+        { name:"Shape of You", year:2017, rating:8.9, genres:["Pop"],
+          director:"Ed Sheeran", lead:"Asylum / Atlantic",
+          setting:"Lead single from the album 'Divide'",
+          plot:["A tropical-pop love song built around a simple, catchy marimba riff.",
+                "Became one of the best-selling and most-streamed singles of all time.",
+                "Topped charts in dozens of countries throughout 2017."] },
+        { name:"Despacito", year:2017, rating:8.5, genres:["Latin","Pop"],
+          director:"Luis Fonsi ft. Daddy Yankee", lead:"Universal Music Latino",
+          setting:"A reggaeton-pop track later remixed with Justin Bieber",
+          plot:["Helped drive a major global surge in Latin music's mainstream popularity.",
+                "Became the first predominantly Spanish-language song to top the Hot 100 in decades.",
+                "One of the most-viewed music videos in YouTube history."] },
+        { name:"Old Town Road", year:2019, rating:8.7, genres:["Country Rap","Hip-Hop"],
+          director:"Lil Nas X ft. Billy Ray Cyrus", lead:"Columbia Records",
+          setting:"A genre-blending country-trap breakout hit",
+          plot:["Blended country instrumentation with trap production and rap delivery.",
+                "Set the record for most weeks ever at No. 1 on the Billboard Hot 100.",
+                "Sparked ongoing conversations about genre classification in country and hip-hop."] },
+        { name:"Bad Guy", year:2019, rating:8.4, genres:["Pop","Alternative"],
+          director:"Billie Eilish", lead:"Darkroom / Interscope",
+          setting:"Lead single from 'When We All Fall Asleep, Where Do We Go?'",
+          plot:["A minimalist, bass-heavy track that helped define a new alt-pop sound.",
+                "Topped the Hot 100 and won Record and Song of the Year at the Grammys.",
+                "Established Billie Eilish as one of pop's defining new voices."] },
+        { name:"Blinding Lights", year:2020, rating:9.0, genres:["Synth-pop"],
+          director:"The Weeknd", lead:"XO / Republic Records",
+          setting:"From the album 'After Hours'",
+          plot:["An '80s-inspired synth-pop track with a driving, retro sound.",
+                "Spent a record-setting number of weeks on the Billboard Hot 100.",
+                "Later recognized as one of the most successful songs in chart history."] },
+        { name:"drivers license", year:2021, rating:8.3, genres:["Pop"],
+          director:"Olivia Rodrigo", lead:"Geffen Records",
+          setting:"Rodrigo's debut single",
+          plot:["A piano-driven breakup ballad that became an instant viral phenomenon.",
+                "Debuted at No. 1 on the Hot 100, a rare feat for a first single.",
+                "Launched Olivia Rodrigo as one of the decade's breakout pop stars."] },
+        { name:"As It Was", year:2022, rating:8.6, genres:["Pop"],
+          director:"Harry Styles", lead:"Erskine / Columbia",
+          setting:"Lead single from the album 'Harry's House'",
+          plot:["A bittersweet synth-pop track about change and disconnection.",
+                "Became one of the best-performing singles of the decade on streaming.",
+                "Spent multiple weeks at No. 1 on the Billboard Hot 100."] },
+        { name:"Flowers", year:2023, rating:8.2, genres:["Pop"],
+          director:"Miley Cyrus", lead:"Columbia Records",
+          setting:"Lead single from the album 'Endless Summer Vacation'",
+          plot:["An empowerment anthem about self-reliance following a breakup.",
+                "Opened at No. 1 on the Hot 100 and stayed there for multiple weeks.",
+                "Became one of Miley Cyrus's most commercially successful singles."] },
+        { name:"Cruel Summer", year:2019, rating:8.0, genres:["Pop"],
+          director:"Taylor Swift", lead:"Republic Records",
+          setting:"Album track from 'Lover,' later released as a single",
+          plot:["A summery synth-pop song that grew into a fan favorite over time.",
+                "Reached No. 1 on the Hot 100 years after its original album release.",
+                "Became a defining example of a slow-burn streaming-era hit."] },
+        { name:"Die with a Smile", year:2024, rating:9.0, genres:["Pop","Ballad"],
+          director:"Lady Gaga & Bruno Mars", lead:"Interscope / Atlantic",
+          setting:"A duet ballad released in 2024, dominant through 2025",
+          plot:["A duet ballad about choosing love in the face of life's uncertainty.",
+                "Topped Billboard's year-end Hot 100 for 2025, months after release.",
+                "One of the best-performing duets in the chart's history."] }
+      ]}
+    }
+  }
+};
+
+let modeKey = "movie";
+let catIndex = 0;
+const scrollPositions = {};
+
+function scrollKey(){ return modeKey + ":" + catIndex; }
+
+function saveScrollPosition(){
+  scrollPositions[scrollKey()] = window.scrollY;
+}
+
+function restoreScrollPosition(){
+  const y = scrollPositions[scrollKey()] || 0;
+  window.scrollTo({top:y, behavior:"auto"});
+}
+
+function currentMode(){ return MODES[modeKey]; }
+function currentOrder(){ return currentMode().categoryOrder; }
+function currentCatKey(){ return currentOrder()[catIndex]; }
+function currentCat(){ return currentMode().data[currentCatKey()]; }
+
+function renderModeSwitch(){
+  const wrap = document.getElementById("modeSwitch");
+  wrap.innerHTML = "";
+  Object.keys(MODES).forEach(key=>{
+    const tab = document.createElement("div");
+    tab.className = "mode-tab" + (key === modeKey ? " active" : "");
+    tab.textContent = MODES[key].modeLabel;
+    tab.onclick = ()=>{ saveScrollPosition(); modeKey = key; catIndex = 0; renderAll(); restoreScrollPosition(); };
+    wrap.appendChild(tab);
+  });
+}
+
+function renderNavTabs(){
+  const wrap = document.getElementById("navTabs");
+  wrap.innerHTML = "";
+  currentOrder().forEach((key, i)=>{
+    const tab = document.createElement("div");
+    tab.className = "nav-tab" + (i === catIndex ? " active" : "");
+    tab.textContent = currentMode().data[key].label;
+    tab.onclick = ()=>{ saveScrollPosition(); catIndex = i; renderAll(); restoreScrollPosition(); };
+    wrap.appendChild(tab);
+  });
+}
+
+function renderGrid(){
+  const items = currentCat().items;
+  const labels = FIELD_LABELS[modeKey];
+  const grid = document.getElementById("grid");
+  const emptyMsg = document.getElementById("emptyMsg");
+  grid.innerHTML = "";
+
+  if(items.length === 0){
+    emptyMsg.style.display = "block";
+    return;
+  }
+  emptyMsg.style.display = "none";
+
+  items.forEach((item, idx)=>{
+    const card = document.createElement("div");
+    card.className = "card";
+    const ratingHtml = item.rating
+      ? `<div class="rating">${item.rating.toFixed(1)} ★</div>`
+      : `<div class="rating pending">Coming Soon</div>`;
+    const genreTags = item.genres.map(g=>`<span class="genre-tag">${g}</span>`).join("");
+    const plotHtml = item.plot.join(" ");
+    const expandId = "exp_" + idx + "_" + modeKey + "_" + catIndex;
+
+    card.innerHTML = `
+      <div class="card-body">
+        <div class="card-top">
+          <h3 class="card-title"><a class="title-link" href="${siteSearchUrl(item.name)}" target="_blank" rel="noopener">${item.name}</a></h3>
+          ${ratingHtml}
+        </div>
+        <div class="meta-line">${genreTags} · ${item.year}</div>
+        <p class="synopsis">${plotHtml}</p>
+        <div class="card-footer">
+          <button class="more-btn" data-target="${expandId}">More Info ▾</button>
+          <div class="icon-links">
+            <a class="icon-btn" href="${siteSearchUrl(item.name)}" target="_blank" rel="noopener" title="Official Site">🔗</a>
+          </div>
+        </div>
+        <div class="expand" id="${expandId}">
+          <div><b>${labels.p1}</b> — ${item.setting}</div>
+          <div><b>${labels.p2}</b> — ${item.director}</div>
+          <div><b>${labels.p3}</b> — ${item.lead}</div>
+        </div>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+
+  grid.querySelectorAll(".more-btn").forEach(btn=>{
+    btn.onclick = ()=>{
+      const target = document.getElementById(btn.dataset.target);
+      const isOpen = target.classList.toggle("open");
+      btn.textContent = isOpen ? "Less Info ▴" : "More Info ▾";
+    };
+  });
+}
+
+function renderAll(){
+  renderModeSwitch();
+  renderNavTabs();
+  renderGrid();
+}
+
+renderAll();
+</script>
+</body>
+</html>
