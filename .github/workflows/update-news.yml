@@ -1,0 +1,51 @@
+name: Update News and Nasdaq Stocks
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests yfinance
+      - name: Update news
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          NEWSAPI_API_KEY: ${{ secrets.NEWSAPI_API_KEY }}
+        run: python news_fetch.py
+      - name: Update Nasdaq stocks
+        run: python stocks_fetch.py
+      - name: Validate generated data
+        run: |
+          python - <<'PY'
+          import json
+          for f in ["data/news.json","data/stocks.json"]:
+              with open(f,encoding="utf-8") as x: json.load(x)
+              print(f,"OK")
+          n=json.load(open("data/news.json",encoding="utf-8"))
+          print("NEWS COUNTS:",{k:v["count"] for k,v in n["categories"].items()})
+          s=json.load(open("data/stocks.json",encoding="utf-8"))["stocks"]
+          print("PRICE COUNT:",sum(x["price"] is not None for x in s),"/",len(s))
+          PY
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/stocks.json
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Update news and Nasdaq stocks"
+            git push
+          fi
