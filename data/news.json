@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T20:07:04.610127+00:00",
+  "updated": "2026-09-25T23:16:46.865970+00:00",
   "provider": "gnews,newsapi",
   "categories": {
     "ai": {
@@ -7,6 +7,55 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Pope Leo warns in France that AI is creating 'paradise of machines'",
+          "summary": "Pope Leo urged the world to reconsider the development of artificial intelligence, warning of a future where \"a paradise of machines\" takes control.",
+          "press": "CNBC",
+          "time": "2026-09-25T11:07:04Z",
+          "url": "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+        },
+        {
+          "title": "Pope warns a ‘paradise of machines’ could undermine humanity as he opens France trip",
+          "summary": "Pope Leo XIV warns that a “paradise of machines” could undermine humanity. He has raised existential questions about scientific progress and human rights during his visit to France. On Friday, Leo began a four-day trip, meeting President Emmanuel Macron and addressing diplomats. The visit includes s",
+          "press": "The Atlanta Journal-Constitution",
+          "time": "2026-09-25T11:01:56Z",
+          "url": "https://www.ajc.com/news/2026/09/pope-warns-a-paradise-of-machines-could-undermine-humanity-as-he-opens-france-trip/"
+        },
+        {
+          "title": "Bill Gates says AI companies self-regulating isn’t enough and governments should be involved in monitoring",
+          "summary": "Bill Gates called for lawmakers in Washington to regulate the development of artificial intelligence, weeks after the CEOs of some of the nation’s biggest AI labs agreed on the need to slow the pace of AI progress.",
+          "press": "NBC News",
+          "time": "2026-09-25T11:00:41Z",
+          "url": "https://www.nbcnews.com/politics/politics-news/bill-gates-ai-companies-self-regulating-governments-monitoring-rcna599619"
+        },
+        {
+          "title": "AI and the illusions of college teaching",
+          "summary": "Predictions about artificial intelligence revolutionizing higher education, as well as teaching and learning in general, are wildly overblown.",
+          "press": "The Philadelphia Inquirer",
+          "time": "2026-09-25T09:30:00Z",
+          "url": "https://www.inquirer.com/opinion/ai-teaching-education-bots-data-revolution-20260925.html"
+        },
+        {
+          "title": "Pope Leo XIV arrives in France with a message of peace and human dignity",
+          "summary": "Pope Leo XIV began a four-day visit to France, hoping to draw attention to his appeals for peace at a time of war, and reflection on artificial intelligence.",
+          "press": "NBC News",
+          "time": "2026-09-25T09:29:05Z",
+          "url": "https://www.nbcnews.com/world/europe/pope-leo-xiv-france-message-peace-human-dignity-macron-rcna599794"
+        },
+        {
+          "title": "Will AI kill us all? Doomsday Clock expert compares it to Manhattan Project",
+          "summary": "Existential threat experts, tech CEOs and politicians fear rapidly advancing artificial intelligence technology could end humanity.",
+          "press": "USA TODAY",
+          "time": "2026-09-25T09:06:52Z",
+          "url": "https://www.usatoday.com/story/tech/2026/09/25/doomsday-clock-expert-compares-ai-manhattan-project/91874915007/"
+        },
+        {
+          "title": "Trump, Xi hold talks amid high tensions",
+          "summary": "WASHINGTON -- Presidents Donald Trump and Xi Jinping met for high stakes talks on Thursday at an urgent moment for the U.S.-China relationship, with the world's preeminent powers divided on the war in Iran and still grappling to find common ground on trade and how to best navigate the jarring advanc",
+          "press": "Arkansas Online",
+          "time": "2026-09-25T08:33:00Z",
+          "url": "https://www.arkansasonline.com/news/2026/sep/25/trump-xi-hold-talks-amid-high-tensions/"
+        },
         {
           "title": "Is Masco (MAS) Cheap Following Its New Chief Technology And AI Officer Appointment?",
           "summary": "Masco (MAS) has created a new senior role focused on technology and artificial intelligence, appointing Yaron Ben David as Chief Technology and AI Officer and",
@@ -27,55 +76,6 @@
           "press": "NBC10 Boston",
           "time": "2026-09-25T04:58:20Z",
           "url": "https://www.nbcboston.com/news/politics/tech-leaders-discuss-future-of-ai-in-massachusetts/4020600/"
-        },
-        {
-          "title": "Pope heads to secular France with an appeal to respect the dignity of every human life",
-          "summary": "Pope Leo XIV is taking his call to respect the dignity of every human life on the road with a weekend visit to France. Leo is spending four intense days in Paris, the Catholic shrine at Lourdes and the northern city of Metz. He’s hoping to draw attention to his appeals for peace at a time of war, an",
-          "press": "The Atlanta Journal-Constitution",
-          "time": "2026-09-25T04:32:39Z",
-          "url": "https://www.ajc.com/news/2026/09/pope-heads-to-secular-france-with-an-appeal-to-respect-the-dignity-of-every-human-life/"
-        },
-        {
-          "title": "China fuels rush to turn AI video into an industry",
-          "summary": "When Zhu Zhili was looking for a base to set up an artificial intelligence film studio in China two years ago, there was just one clear choice: the southern city of Shenzhen with its vast ​tech ecosystem.",
-          "press": "Reuters",
-          "time": "2026-09-25T01:01:06Z",
-          "url": "https://www.reuters.com/business/media-telecom/china-fuels-rush-turn-ai-video-into-an-industry-2026-09-25/"
-        },
-        {
-          "title": "Energy Department will spend $2 billion to squeeze more electricity from the aging power grid",
-          "summary": "The Energy Department says it will spend almost $2 billion to try to squeeze more electricity out of the nation’s aging and stressed power grid. President Donald Trump's administration is stepping up efforts to avoid blackouts amid skyrocketing energy demand spurred by artificial intelligence. The m",
-          "press": "The Atlanta Journal-Constitution",
-          "time": "2026-09-25T00:52:23Z",
-          "url": "https://www.ajc.com/news/2026/09/energy-department-will-spend-2-billion-to-squeeze-more-electricity-from-the-aging-power-grid/"
-        },
-        {
-          "title": "Centralia puts guardrails on city staff using generative artificial intelligence",
-          "summary": "CENTRALIA, Mo. (KMIZ) Staff at the City of Centralia have some new guardrails in place around the use of generative artificial intelligence. The Centralia Board of Alderman approved the new rules at its Monday meeting, as well as a policy form city staff must sign outlining when AI use is appropriat",
-          "press": "ABC17News.com",
-          "time": "2026-09-25T00:22:17Z",
-          "url": "https://abc17news.com/news/2026/09/24/centralia-puts-guardrails-on-city-staff-using-generative-artificial-intelligence/"
-        },
-        {
-          "title": "Strategies for integrating artificial intelligence and cognitive assessment to predict disability progression in relapsing-remitting multiple sclerosis: A model development study",
-          "summary": "Author summary People with multiple sclerosis often experience changes in thinking speed, attention, and memory, sometimes years before clear physical disability appears. Digital cognitive tests make it possible to measure these changes repeatedly, including at home, but the large amount of data the",
-          "press": "PLOS (Public Library of Science)",
-          "time": "2026-09-25T00:00:00Z",
-          "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001722"
-        },
-        {
-          "title": "Artificial intelligence-related perceptions and E-health literacy among nursing students in Palestine: A cross-sectional study",
-          "summary": "Author summary Artificial intelligence is increasingly used in university learning, but students’ willingness to engage with AI and their ability to find and evaluate online health information may not develop in the same way. We surveyed 113 third- and fourth-year nursing students in Palestine using",
-          "press": "PLOS (Public Library of Science)",
-          "time": "2026-09-25T00:00:00Z",
-          "url": "https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001737"
-        },
-        {
-          "title": "Trump, US House speaker and tech CEOs to meet on AI on September 29, source says",
-          "summary": "US ​President Donald Trump, Republican House of Representatives Speaker ‌Mike Johnson and tech CEOs will hold a meeting on artificial intelligence on September 29, a source familiar with ​the planned meeting said late on Thursday.",
-          "press": "Reuters",
-          "time": "2026-09-24T23:23:28Z",
-          "url": "https://www.reuters.com/world/us/trump-us-house-speaker-tech-ceos-meet-ai-september-29-source-says-2026-09-24/"
         }
       ]
     },
@@ -84,6 +84,20 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Wall Street Banks Finance Both Sides Of America’s AI Race With China",
+          "summary": "Wall Street banks are raising billions for Chinese tech companies while helping finance America’s massive AI infrastructure buildout.",
+          "press": "The Daily Caller",
+          "time": "2026-09-24T21:55:17Z",
+          "url": "https://dailycaller.com/2026/09/24/wall-street-banks-finance-both-sides-of-americas-ai-race-with-china"
+        },
+        {
+          "title": "Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach",
+          "summary": "The post Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach appeared first on 24/7 Wall St..\nIf you own the VanEck Semiconductor ETF (NASDAQ:SMH), you own the default way to bet on chips. The fund is the la…",
+          "press": "Biztoc.com",
+          "time": "2026-09-24T21:07:23Z",
+          "url": "https://biztoc.com/x/12e18c2638c5f362"
+        },
         {
           "title": "InspireSemi Announces Results of Annual General and Special Meeting and Notice of Hearing of Final Order",
           "summary": "VANCOUVER, British Columbia and AUSTIN, Texas, Sept. 24, 2026 (GLOBE NEWSWIRE) — Inspire Semiconductor Holdings Inc. (“InspireSemi” or the “Company”) is pleased to announce that at its annual general and special meeting of shareholders held on September 24, 2…",
@@ -134,25 +148,11 @@
           "url": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc"
         },
         {
-          "title": "Here's how bearish short-sellers are navigating the shifting AI trade",
-          "summary": "Data from S&P Global shows that short sellers are spreading out their bearish bets beyond chips and other hot hardware plays.",
-          "press": "Business Insider",
-          "time": "2026-09-24T16:38:03Z",
-          "url": "https://www.businessinsider.com/short-sellers-ai-bearish-bets-sp-global-chips-hardware-2026-9#article"
-        },
-        {
-          "title": "Assam’s greatest resource for industrialisation is its human resource: Finance Minister Jayanta Mallabaruah",
-          "summary": "Assam's Finance Minister Jayanta Mallabaruah emphasized the role of human resources in driving the state's industrialization efforts. The government is aiming to create quality employment and entrepreneurial opportunities for the youth in Assam. Major investm…",
-          "press": "The Times of India",
-          "time": "2026-09-24T16:13:31Z",
-          "url": "https://economictimes.indiatimes.com/news/india/assams-greatest-resource-for-industrialisation-is-its-human-resource-finance-minister-jayanta-mallabaruah/articleshow/134466525.cms"
-        },
-        {
-          "title": "KFF Health News’ ‘What the…",
-          "summary": "Health News tamfitronics [[Editor’s note: This transcript was generated using both transcription software ...",
-          "press": "Tamfitronics.com",
-          "time": "2026-09-24T19:57:09Z",
-          "url": "https://www.tamfitronics.com/news/health-news/kff-health-news-what-the-health-live-from-austin-examining-health-equity/"
+          "title": "Fanfare surrounds Trump-Xi summit at White House, but no breakthroughs expected",
+          "summary": "U.S. President Donald Trump welcomed Chinese President Xi Jinping to the White House on Thursday for a lavish state summit that was heavy on symbolism but light on substance, with no sign that a closed-door meeting yielded breakthroughs on thorny issues such …",
+          "press": "CBC News",
+          "time": "2026-09-24T22:41:37Z",
+          "url": "https://www.cbc.ca/news/world/trump-xi-summit-washington-9.7357449"
         }
       ]
     },
@@ -239,6 +239,55 @@
       "count": 10,
       "news": [
         {
+          "title": "Moonbug is in its era of “Big Feelings” as it launches “fully integrated music company”",
+          "summary": "Over a career spanning more than 30 years, Snoop Dogg has collaborated with an eclectic range of artists. He's dropped guest verses for everyone from 2pac to Katy Perry to Psy to Nicepeter and EpicLLOYD.\nNow, Snoop has teamed up with another unexpected collab…",
+          "press": "Tubefilter",
+          "time": "2026-09-24T22:22:06Z",
+          "url": "https://www.tubefilter.com/2026/09/24/moonbug-big-feelings-music-company-blippi-cocomelon/"
+        },
+        {
+          "title": "Louisiana is loaded with elite prospects in the 2027 cycle",
+          "summary": "Despite its size, the state of Louisiana remains one of the best when it comes to producing a wealth of talent on the football field. According to the Rivals Industry Rankings, a weighted average that utilizes all major recruiting media companies, there are 1…",
+          "press": "On3.com",
+          "time": "2026-09-24T22:19:34Z",
+          "url": "https://www.on3.com/rivals/news/louisiana-is-loaded-with-elite-prospects-in-the-2027-cycle/"
+        },
+        {
+          "title": "Fed proposes stablecoin rules under GENIUS Act, eyes crypto clarity",
+          "summary": "The Fed's stablecoin rules could enhance regulatory clarity, potentially fostering a supportive environment for the broader crypto market.\nThe post Fed proposes stablecoin rules under GENIUS Act, eyes crypto clarity appeared first on Crypto Briefing.",
+          "press": "Crypto Briefing",
+          "time": "2026-09-24T20:43:19Z",
+          "url": "https://cryptobriefing.com/fed-proposes-stablecoin-rules-under-genius-act-eyes-crypto-clarity/"
+        },
+        {
+          "title": "Select Water Solutions Announces Agreement to Acquire Pilot Water Solutions",
+          "summary": "Pilot Water is a leading, private water midstream company with a core position in the Delaware Basin Robust contract portfolio with 480,000 barrels per day of minimum volume commitment (\"MVC\") contracts and 306,000 acres dedicated under long-term agreements T…",
+          "press": "PRNewswire",
+          "time": "2026-09-24T20:30:00Z",
+          "url": "https://www.prnewswire.com/news-releases/select-water-solutions-announces-agreement-to-acquire-pilot-water-solutions-302889749.html"
+        },
+        {
+          "title": "Build-Outs Of Coffee: Boon Boona Coffee In Seattle, WA",
+          "summary": "This article is from the coffee website Sprudge at http://sprudge.com. This is the RSS feed version. Boon Boona Coffee in Seattle, Washington.",
+          "press": "Sprudge.com",
+          "time": "2026-09-24T20:29:51Z",
+          "url": "https://sprudge.com/build-outs-of-coffee-boon-boona-coffee-in-seattle-wa-1310546.html"
+        },
+        {
+          "title": "Q&A: Why Türkiye could become the next major market in the global race for autonomous mobility",
+          "summary": "Autonomous mobility is expanding beyond Canada, the U.S. and China as safety, cost reductions and supportive regulation drive adoption. Türkiye's large cities, automotive expertise and AI-focused policies position it as a promising autonomous vehicle hub.\nThe…",
+          "press": "Digital Journal",
+          "time": "2026-09-24T20:25:57Z",
+          "url": "https://www.digitaljournal.com/article/qa-why-turkiye-could-become-the-next-major-market-in-the-global-race-for-autonomous-mobility/"
+        },
+        {
+          "title": "Jeff Bezos’ Blue Origin Is Fueled With $30 Billion of His Fortune",
+          "summary": "The space company wants to rapidly boost revenue over the next few years, betting its huge rockets will make it a powerful industry player.",
+          "press": "Biztoc.com",
+          "time": "2026-09-24T20:24:14Z",
+          "url": "https://biztoc.com/x/d058805ce86a8c55"
+        },
+        {
           "title": "KFF Health News’ ‘What the…",
           "summary": "Health News tamfitronics [[Editor’s note: This transcript was generated using both transcription software ...",
           "press": "Tamfitronics.com",
@@ -258,55 +307,6 @@
           "press": "PRNewswire",
           "time": "2026-09-24T19:43:00Z",
           "url": "https://www.prnewswire.com/news-releases/taiwan-expo-usa-2026-brings-taiwans-ai-infrastructure-ecosystem-to-life-in-dallas-302889714.html"
-        },
-        {
-          "title": "Can a Network of Miniature Sponge Cities Help Central Asia Curb Climate Change?",
-          "summary": "In lieu of decisive regulatory action and funding, much of the work of adapting to new climate realities falls on individual gardeners and cooperatives.",
-          "press": "The Diplomat",
-          "time": "2026-09-24T19:37:00Z",
-          "url": "https://thediplomat.com/2026/09/can-a-network-of-miniature-sponge-cities-help-central-asia-curb-climate-change/"
-        },
-        {
-          "title": "Executive Interview: CycloTech",
-          "summary": "Markus Kampitsch, Chief Commercial Officer (CCO) of CycloTech, tells CB Insights how they view the market, customer needs, and their company.   How do you define your market and where does your company fit into that space? CycloTech operates at …\nThe post Exe…",
-          "press": "Cbinsights.com",
-          "time": "2026-09-24T19:35:48Z",
-          "url": "https://www.cbinsights.com/research/executive-interview-cyclotech/"
-        },
-        {
-          "title": "Europe's Largest NING SERVICE Experience Center Opens in Norway",
-          "summary": "OSLO, Norway, Sept. 24, 2026 /PRNewswire/ -- On 24 September 2026, CATL opened its largest NING SERVICE centre outside Asia in Oslo, extending its battery lifecycle service network in Europe. The 8,000 square metre centre will serve Norway and the wider Nordi…",
-          "press": "PRNewswire",
-          "time": "2026-09-24T19:24:00Z",
-          "url": "https://www.prnewswire.com/news-releases/europes-largest-ning-service-experience-center-opens-in-norway-302889697.html"
-        },
-        {
-          "title": "How New York Film Festival Landed Movies Like Controversial OpenAI Biopic ‘Artificial’ and Toho’s ‘Godzilla Minus Zero’",
-          "summary": "The festival's artistic director walks IndieWire through this year's highlights and buzziest scoops, like the world premiere of Luca Guadagnino's \"Artificial.\" Several titles are also seeking distribution out of NYFF, including Ira Sachs' AIDS-era New York Ci…",
-          "press": "IndieWire",
-          "time": "2026-09-24T19:10:00Z",
-          "url": "https://www.indiewire.com/features/general/how-new-york-film-festival-landed-artificial-godzilla-1235218495/"
-        },
-        {
-          "title": "The Humble History of the Bedpan",
-          "summary": "Over the past few centuries, inventors have tweaked the design of the receptacles here and there, but overall, not much has changed about the dependable medical supply",
-          "press": "Smithsonian.com",
-          "time": "2026-09-24T19:04:30Z",
-          "url": "https://www.smithsonianmag.com/innovation/the-humble-history-of-the-bedpan-180989560/"
-        },
-        {
-          "title": "DroneShield Opens Adelaide R&D Hub to Accelerate Next-Generation of Australian Defence Technology",
-          "summary": "Sydney, Australia – 23 September 2026 – DroneShield (ASX:DRO), a global leader in counter-drone and electronic warfare (EW) solutions, is pleased to announce the official opening of its R&D Facility in Adelaide, further expanding the Company’s Australian rese…",
-          "press": "Soldiersystems.net",
-          "time": "2026-09-24T19:00:00Z",
-          "url": "https://soldiersystems.net/2026/09/24/droneshield-opens-adelaide-rd-hub-to-accelerate-next-generation-of-australian-defence-technology/"
-        },
-        {
-          "title": "The good and the bad of the PGA Tour's return to Asheville after 84 years",
-          "summary": "The inaugural Biltmore Championship brought the PGA Tour back to Asheville, boosting the local economy and tourism.",
-          "press": "USA Today",
-          "time": "2026-09-24T18:43:16Z",
-          "url": "https://golfweek.usatoday.com/story/sports/golf/pga/2026/09/24/biltmore-championship-brought-pga-tour-back-asheville-results/91923188007/"
         }
       ]
     },
@@ -316,74 +316,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Sleep supporting emotional wellbeing device among projects from Georgia Institute of Technology",
-          "summary": "Dezeen School Shows: a sleep support device that encourages users to record valuable moments of their day is among the projects from students at Georgia Institute of Technology. Also featured is a compact bike that can store groceries, and a smartphone game t…",
-          "press": "Dezeen",
-          "time": "2026-09-24T20:00:09Z",
-          "url": "https://www.dezeen.com/2026/09/24/recording-devices-sleep-support-georgia-institute-of-technology-schoolshows/"
-        },
-        {
-          "title": "Taiwan Expo USA 2026 Brings Taiwan's AI Infrastructure Ecosystem to Life in Dallas",
-          "summary": "AI Manufacturing and Smart Energy Connect Manufacturing, Computing and Energy Through Integrated Solutions and Live Demonstrations DALLAS, Sept. 24, 2026 /PRNewswire/ -- Taiwan Expo USA 2026 opened today at the Kay Bailey Hutchison Convention Center in Dallas…",
+          "title": "/C O R R E C T I O N -- ARK Investment Management LLC/",
+          "summary": "In the news release, ARK Invest Launches Its First Income Strategy, ARKY, Targeting 17.5% Income Through Its Innovation Equity Universe, issued 19-Aug-2026 by ARK Investment Management LLC over PR Newswire, we are advised by the company that there have been c…",
           "press": "PRNewswire",
-          "time": "2026-09-24T19:43:00Z",
-          "url": "https://www.prnewswire.com/news-releases/taiwan-expo-usa-2026-brings-taiwans-ai-infrastructure-ecosystem-to-life-in-dallas-302889714.html"
+          "time": "2026-09-24T22:43:00Z",
+          "url": "https://www.prnewswire.com/news-releases/ark-invest-launches-its-first-income-strategy-arky-targeting-17-5-income-through-its-innovation-equity-universe-302854835.html"
         },
         {
-          "title": "telekinesis-applications added to PyPI",
-          "summary": "Official applications package for the Telekinesis SDK and APIs.",
+          "title": "Amazon to spend $100M on Indiana plant, its fourth site for building robots",
+          "summary": "Amazon.com Inc. is spending more than $100 million on a factory in Greenwood, Indiana, to build equipment for its warehouse robots, according to plans the company released today. The Wall Street Journal reported that Greenwood will be the fourth plant Amazon …",
+          "press": "SiliconANGLE News",
+          "time": "2026-09-24T22:22:32Z",
+          "url": "https://siliconangle.com/2026/09/24/amazon-to-spend-100m-on-indiana-plant-its-fourth-site-for-building-robots/"
+        },
+        {
+          "title": "Robot.com Brings Robotics to NACAS Conference - Showcasing the Latest from the Leader in Campus Delivery Innovation",
+          "summary": "Live demo of R-noid loading an R-kiwi marks the first time Robot.com's humanoid and delivery robots have been sequenced together in a campus environment SAN FRANCISCO, Sept. 24, 2026 /PRNewswire/ -- Robot.com®, the company putting autonomous robots to work in…",
+          "press": "PRNewswire",
+          "time": "2026-09-24T22:05:00Z",
+          "url": "https://www.prnewswire.com/news-releases/robotcom-brings-robotics-to-nacas-conference--showcasing-the-latest-from-the-leader-in-campus-delivery-innovation-302889823.html"
+        },
+        {
+          "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+          "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as …",
+          "press": "NASA",
+          "time": "2026-09-24T21:32:01Z",
+          "url": "https://www.nasa.gov/blogs/commercialcrew/2026/09/24/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/"
+        },
+        {
+          "title": "pamoja-profiles 0.2.0",
+          "summary": "Profiles and robotics: A node written down as a JSON file, rules between nodes as another, and the naming and encoding rules a robot's topics follow, with no ROS 2 or Zenoh installed.",
           "press": "Pypi.org",
-          "time": "2026-09-24T19:29:55Z",
-          "url": "https://pypi.org/project/telekinesis-applications/"
+          "time": "2026-09-24T21:18:46Z",
+          "url": "https://pypi.org/project/pamoja-profiles/0.2.0/"
         },
         {
-          "title": "HSVP draws up plan for first state-owned International Baccalaureate school in Gurgaon",
-          "summary": "HSVP plans first state-owned IB international school in Gurgaon Sector 44, with pool, auditoriums, robotics lab; DPR consultant tender open till Oct 5.",
-          "press": "The Times of India",
-          "time": "2026-09-24T19:27:31Z",
-          "url": "https://timesofindia.indiatimes.com/city/gurgaon/hsvp-draws-up-plan-for-first-state-owned-international-baccalaureate-school-in-gurgaon/articleshow/134469500.cms"
+          "title": "YYForce Issues First Half 2026 Financial Results Highlighting 26.8% Revenue Growth to US$32.7 Million",
+          "summary": "Manpower Outsourcing Revenue Increased 62.4% to US$15.6 Million; Integrated Facility Management Revenue Increased 11.1% to US$16.1 Million Net Loss Narrowed 13.8% Year Over Year Working Capital Improved to US$11.9 Million from a Deficit of US$1.7 Million at Y…",
+          "press": "Financial Post",
+          "time": "2026-09-24T21:17:28Z",
+          "url": "https://financialpost.com/globe-newswire/yyforce-issues-first-half-2026-financial-results-highlighting-26-8-revenue-growth-to-us32-7-million"
         },
         {
-          "title": "Europe's Largest NING SERVICE Experience Center Opens in Norway",
-          "summary": "OSLO, Norway, Sept. 24, 2026 /PRNewswire/ -- On 24 September 2026, CATL opened its largest NING SERVICE centre outside Asia in Oslo, extending its battery lifecycle service network in Europe. The 8,000 square metre centre will serve Norway and the wider Nordi…",
+          "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
+          "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as …",
+          "press": "NASA",
+          "time": "2026-09-24T21:15:46Z",
+          "url": "https://www.nasa.gov/news-release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/"
+        },
+        {
+          "title": "contrastive-lm added to PyPI",
+          "summary": "CLM: contrastive language model serving engine and System One API (typed noul / choice / score questions over state)",
+          "press": "Pypi.org",
+          "time": "2026-09-24T21:12:36Z",
+          "url": "https://pypi.org/project/contrastive-lm/"
+        },
+        {
+          "title": "INLIF LIMITED Reports First Half of Fiscal Year 2026 Financial Results",
+          "summary": "QUANZHOU, China, Sept. 24, 2026 /PRNewswire/ -- INLIF LIMITED (Nasdaq: INLF) (together with all its subsidiaries and consolidated entities, the \"Company\" or \"INLIF\"), a company engaged in the research, development, manufacturing, and sales of injection moldin…",
           "press": "PRNewswire",
-          "time": "2026-09-24T19:24:00Z",
-          "url": "https://www.prnewswire.com/news-releases/europes-largest-ning-service-experience-center-opens-in-norway-302889697.html"
+          "time": "2026-09-24T20:30:00Z",
+          "url": "https://www.prnewswire.com/news-releases/inlif-limited-reports-first-half-of-fiscal-year-2026-financial-results-302889709.html"
         },
         {
-          "title": "SoftBank Expands AI Investments With 1.76 Trillion Yen Bond Issue",
-          "summary": "SoftBank Group announced on September 24 that it will issue approximately 1.76 trillion yen worth of foreign currency-denominated bonds, the largest simultaneous bond offering in its history, to finance a further $10 billion investment in OpenAI as founder Ma…",
-          "press": "Newsonjapan.com",
-          "time": "2026-09-24T19:17:26Z",
-          "url": "https://newsonjapan.com/article/150858.php"
-        },
-        {
-          "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-          "summary": "If there is one thing robotics founders and investors agree on, it’s that the “ChatGPT moment” where a general-purpose robot can seamlessly adapt to any environment has not arrived. Opinions vary on whether the breakthrough is just around the corner or a deca…",
-          "press": "Biztoc.com",
-          "time": "2026-09-24T19:06:58Z",
-          "url": "https://biztoc.com/x/b2eff05fef7806af"
-        },
-        {
-          "title": "Leopard Imaging® and Lumotive Introduce \"Sirius Max\" -- A Long-Range Software-Defined 3D Perception Platform for Robotics and AI",
-          "summary": "FREMONT, Calif., Sept. 24, 2026 /PRNewswire/ -- Leopard Imaging®, a global leader in AI perception and spatial intelligence solution design and manufacturing, together with Lumotive, a pioneer in programmable optical semiconductor technology, today announced …",
+          "title": "YYForce Issues First Half 2026 Financial Results Highlighting 26.8% Revenue Growth to US$32.7 Million",
+          "summary": "Manpower Outsourcing Revenue Increased 62.4% to US$15.6 Million; Integrated Facility Management Revenue Increased 11.1% to US$16.1 Million Net Loss Narrowed 13.8% Year Over Year Working Capital Improved to US$11.9 Million from a Deficit of US$1.7 Million at Y…",
           "press": "PRNewswire",
-          "time": "2026-09-24T19:00:00Z",
-          "url": "https://www.prnewswire.com/news-releases/leopard-imaging-and-lumotive-introduce-sirius-max--a-long-range-software-defined-3d-perception-platform-for-robotics-and-ai-302889658.html"
-        },
-        {
-          "title": "Meet Feather, the startup building the 'Android of robotics' for developers | TechCrunch",
-          "summary": "Meet Feather, the startup building the 'Android of robotics' for developers | TechCrunchtechcrunch.com",
-          "press": "TechCrunch",
-          "time": "2026-09-24T18:53:06Z",
-          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/"
-        },
-        {
-          "title": "Ukraine deploys drones, robots to repel Russian pincer maneuver",
-          "summary": "Ukraine's tech-driven defense strategy may shift conflict dynamics, reducing Russian advancement probabilities and influencing market expectations.\nThe post Ukraine deploys drones, robots to repel Russian pincer maneuver appeared first on Crypto Briefing.",
-          "press": "Crypto Briefing",
-          "time": "2026-09-24T18:41:28Z",
-          "url": "https://cryptobriefing.com/ukraine-deploys-drones-robots-to-repel-russian-pincer-maneuver/"
+          "time": "2026-09-24T20:30:00Z",
+          "url": "https://www.prnewswire.com/news-releases/yyforce-issues-first-half-2026-financial-results-highlighting-26-8-revenue-growth-to-us32-7-million-302889753.html"
         }
       ]
     },
