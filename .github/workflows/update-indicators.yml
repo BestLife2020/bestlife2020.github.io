@@ -2,7 +2,7 @@ name: Update Market Indicators
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/300 * * * *"
   workflow_dispatch:
 
 permissions:
