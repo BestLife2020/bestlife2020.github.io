@@ -1,0 +1,48 @@
+{
+  "updated": "2026-09-25T11:59:43.326413+00:00",
+  "provider": "newsapi",
+  "categories": {
+    "ai": {
+      "title": "AI",
+      "source": "gnews",
+      "count": 0,
+      "news": []
+    },
+    "semiconductor": {
+      "title": "반도체",
+      "source": "gnews",
+      "count": 0,
+      "news": []
+    },
+    "quantum": {
+      "title": "양자",
+      "source": "gnews",
+      "count": 0,
+      "news": []
+    },
+    "space": {
+      "title": "우주항공",
+      "source": "gnews",
+      "count": 0,
+      "news": []
+    },
+    "robotics": {
+      "title": "로봇",
+      "source": "gnews",
+      "count": 0,
+      "news": []
+    },
+    "energy": {
+      "title": "에너지",
+      "source": "gnews",
+      "count": 0,
+      "news": []
+    },
+    "bigtech": {
+      "title": "빅테크",
+      "source": "gnews",
+      "count": 0,
+      "news": []
+    }
+  }
+}

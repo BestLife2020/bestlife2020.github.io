@@ -1,0 +1,281 @@
+{
+  "updated": "2026-09-25T11:59:45.016193+00:00",
+  "market": "NASDAQ/US",
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "category": "AI",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 96221000000.0,
+      "operatingIncome": 63734000000.0,
+      "quarter": "2026-07-31"
+    },
+    {
+      "symbol": "AMD",
+      "name": "AMD",
+      "category": "반도체",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 11536000000.0,
+      "operatingIncome": 1990000000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom",
+      "category": "반도체",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 29591000000.0,
+      "operatingIncome": 16058000000.0,
+      "quarter": "2026-07-31"
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron",
+      "category": "반도체",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 41456000000.0,
+      "operatingIncome": 33318000000.0,
+      "quarter": "2026-05-31"
+    },
+    {
+      "symbol": "TSM",
+      "name": "TSMC",
+      "category": "반도체",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 1270380250000.0,
+      "operatingIncome": 766568191000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel",
+      "category": "반도체",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 16128000000.0,
+      "operatingIncome": 1966000000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "QCOM",
+      "name": "Qualcomm",
+      "category": "반도체",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 9947000000.0,
+      "operatingIncome": 1626000000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell",
+      "category": "반도체",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 2739300000.0,
+      "operatingIncome": 456900000.0,
+      "quarter": "2026-07-31"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "category": "빅테크",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 109417000000.0,
+      "operatingIncome": 35695000000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft",
+      "category": "빅테크",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 90007000000.0,
+      "operatingIncome": 40603000000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet",
+      "category": "빅테크",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 119796000000.0,
+      "operatingIncome": 40770000000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon",
+      "category": "빅테크",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": null,
+      "operatingIncome": null,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta",
+      "category": "빅테크",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 60801000000.0,
+      "operatingIncome": 18775000000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla",
+      "category": "AI",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 28236000000.0,
+      "operatingIncome": 398000000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "PLTR",
+      "name": "Palantir",
+      "category": "AI",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 1935464000.0,
+      "operatingIncome": 912004000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "IONQ",
+      "name": "IonQ",
+      "category": "양자",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 80050000.0,
+      "operatingIncome": -337243000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "RGTI",
+      "name": "Rigetti Computing",
+      "category": "양자",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 5138000.0,
+      "operatingIncome": -28062000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "QBTS",
+      "name": "D-Wave Quantum",
+      "category": "양자",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 3076000.0,
+      "operatingIncome": -53278000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab",
+      "category": "우주항공",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 234066000.0,
+      "operatingIncome": -57514000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile",
+      "category": "우주항공",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 31520000.0,
+      "operatingIncome": -171666000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "LUNR",
+      "name": "Intuitive Machines",
+      "category": "우주항공",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 203412000.0,
+      "operatingIncome": -47136000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "RCAT",
+      "name": "Red Cat",
+      "category": "로봇",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 20189000.0,
+      "operatingIncome": -38645000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "SERV",
+      "name": "Serve Robotics",
+      "category": "로봇",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 3238000.0,
+      "operatingIncome": -66065000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "OKLO",
+      "name": "Oklo",
+      "category": "에너지",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 1210000.0,
+      "operatingIncome": -73190000.0,
+      "quarter": "2026-06-30"
+    },
+    {
+      "symbol": "SMR",
+      "name": "NuScale Power",
+      "category": "에너지",
+      "price": null,
+      "change": null,
+      "currency": "USD",
+      "revenue": 75000.0,
+      "operatingIncome": -64003000.0,
+      "quarter": "2026-06-30"
+    }
+  ]
+}
