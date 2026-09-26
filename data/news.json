@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:38:23.256276+00:00",
+  "updated": "2026-09-26T06:36:14.263803+00:00",
   "provider": "gnews,newsapi",
   "categories": {
     "ai": {
@@ -8,74 +8,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Trump hails 'very productive' Xi meeting as Chinese leader ends US visit",
-          "summary": "The visit concludes Xi’s three-day trip to the United States, where he and President Donald Trump discussed trade and artificial intelligence safety.",
-          "press": "Baltimore News",
-          "time": "2026-09-25T13:10:05Z",
-          "url": "https://foxbaltimore.com/news/nation-world/chinese-president-xi-jinping-wraps-washington-state-visit-with-national-archives-constitution-bill-of-rights-stop-after-us-president-trump-talks-on-trade-ai-artificial-intelligence"
+          "title": "Xi acknowledges risks of AI even as Trump dismisses them",
+          "summary": "After chief executives at top artificial intelligence companies called on the U.S. government to cooperate with China to contain the dangers of the technology, President Donald Trump began his summit with Chinese President Xi Jinping by suggesting that he wasn’t interested.",
+          "press": "Spokane Spokesman-Review",
+          "time": "2026-09-25T18:36:00Z",
+          "url": "https://www.spokesman.com/stories/2026/sep/25/xi-acknowledges-risks-of-ai-even-as-trump-dismisse/"
         },
         {
-          "title": "Trump hails 'very productive' Xi meeting as Chinese leader ends US visit",
-          "summary": "The visit concludes Xi’s three-day trip to the United States, where he and President Donald Trump discussed trade and artificial intelligence safety.",
-          "press": "WJLA",
-          "time": "2026-09-25T13:10:05Z",
-          "url": "https://wjla.com/news/nation-world/chinese-president-xi-jinping-wraps-washington-state-visit-with-national-archives-constitution-bill-of-rights-stop-after-us-president-trump-talks-on-trade-ai-artificial-intelligence"
+          "title": "Pope Leo warns a 'paradise of machines' could undermine humanity as he opens France trip",
+          "summary": "Pope Leo XIV raised concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
+          "press": "KABC-TV",
+          "time": "2026-09-25T17:59:00Z",
+          "url": "https://abc7.com/post/pope-leo-ai-news-xiv-warns-paradise-machines-could-undermine-humanity-he-opens-france-trip/19872061/"
         },
         {
-          "title": "US core capital goods orders surge in August",
-          "summary": "New orders for key U.S.-manufactured capital goods increased more than expected in ​August and data for the prior month ‌was revised sharply higher, pointing to another quarter of robust growth in business spending on equipment ​amid an artificial intelligence infrastructure buildout.",
-          "press": "Reuters",
-          "time": "2026-09-25T12:47:26Z",
-          "url": "https://www.reuters.com/business/us-core-capital-goods-orders-surge-august-2026-09-25/"
+          "title": "Bill Gates Says AI Companies Can't Police Themselves, Calls for Washington to Mandate Safeguards",
+          "summary": "Gates said the danger is not just limited to a hypothetical future in which artificial intelligence surpasses human capabilities.",
+          "press": "International Business Times",
+          "time": "2026-09-25T17:51:44Z",
+          "url": "https://www.ibtimes.com/bill-gates-says-ai-companies-cant-police-themselves-calls-washington-mandate-safeguards-3807899"
         },
         {
-          "title": "Pope Leo XIV speaks about AI as he opens France trip",
-          "summary": "Pope Leo XIV warned Friday that a “paradise of machines” risked undermining humanity as he opened a trip to France by posing fundamental questions about what it means to be human in the age of artificial intelligence, nuclear arms race and other threats to life itself.",
-          "press": "Chicago Tribune",
-          "time": "2026-09-25T12:40:02Z",
-          "url": "https://www.chicagotribune.com/2026/09/25/pope-leo-france-trip-ai/"
+          "title": "Physical AI Stock Zebra Tech Eyes Entry As Earnings Gallop 76% Higher",
+          "summary": "AI stock Zebra Technologies is highlighting that there's more to the artificial intelligence trade than chips and data centers.",
+          "press": "Investor's Business Daily",
+          "time": "2026-09-25T16:56:39Z",
+          "url": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-zebra-zbra-tech-buy-point-entry-earnings-markets/"
         },
         {
-          "title": "Pope opens France trip with warning that a 'paradise of machines' could undermine humanity",
-          "summary": "Pope Leo XIV warned Friday that a “paradise of machines” risked undermining humanity as he opened a trip to France by posing fundamental questions about what it means to be human in the age of artificial intelligence, a nuclear arms race and other threats to life itself.",
-          "press": "PBS News",
-          "time": "2026-09-25T11:47:10Z",
-          "url": "https://www.pbs.org/newshour/world/pope-opens-france-trip-with-warning-that-a-paradise-of-machines-could-undermine-humanity"
+          "title": "Microsoft, Stock Of The Day, Makes Bullish Move As Software Giant Launches AI Super App",
+          "summary": "Microsoft stock made a bullish move Friday after the software giant announced a revamped version of its Copilot artificial intelligence tool.",
+          "press": "Investor's Business Daily",
+          "time": "2026-09-25T16:45:30Z",
+          "url": "https://www.investors.com/research/ibd-stock-of-the-day/microsoft-stock-software-giant-launches-ai-super-app/"
         },
         {
-          "title": "Bill Gates Warns AI Could Cause 'A Billion Deaths' Without Government Control",
-          "summary": "Bill Gates, the tech evangelist and leftist billionaire who has suddenly changed his tune to focus on the dangers of AI, told NBC's Meet the Press that artificial intelligence could kill on a scale never before possible.",
-          "press": "Breitbart News Network",
-          "time": "2026-09-25T11:34:07Z",
-          "url": "https://www.breitbart.com/tech/2026/09/25/bill-gates-warns-ai-could-cause-a-billion-deaths-without-government-control/"
+          "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
+          "summary": "French firm Thales is “quite advanced” in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system.",
+          "press": "DefenseNews.com",
+          "time": "2026-09-25T15:34:42Z",
+          "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/"
         },
         {
-          "title": "Maine among 23 states demanding Congress regulate AI",
-          "summary": "Maine is among nearly two dozen states calling on Congress to regulate artificial intelligence.",
-          "press": "EUROPE SAYS",
-          "time": "2026-09-25T11:27:18Z",
-          "url": "https://www.europesays.com/3271937/"
+          "title": "Pope says technology must help people, warns of ‘dehumanization’",
+          "summary": "Advances in artificial intelligence and other technologies must remain at the service of people rather than become instruments of domination and injustice, Pope Leo XIV said.",
+          "press": "Spokane Spokesman-Review",
+          "time": "2026-09-25T15:09:00Z",
+          "url": "https://www.spokesman.com/stories/2026/sep/25/pope-says-technology-must-help-people-warns-of-deh/"
         },
         {
-          "title": "Xi: China and U.S. Have Responsibility to Keep AI Under Human Control",
-          "summary": "Chinese President Xi Jinping said Thursday, Sept. 24, that both Washington and Beijing – as leading nations in artificial intelligence (AI) – have an obligation to manage the technology, according to his remarks delivered at the White House. Xi spoke in the Grand Foyer during a state visit, accordin",
-          "press": "Natural News",
-          "time": "2026-09-25T11:26:33Z",
-          "url": "https://www.naturalnews.com/2026-09-25-xi-china-us-responsibility-ai-human-control.html"
+          "title": "Dartmouth provost accused of using AI to write op",
+          "summary": "The news comes as the Ivy League school celebrates its 70th anniversary as the birthplace of artificial intelligence.",
+          "press": "The Boston Globe",
+          "time": "2026-09-25T14:51:57Z",
+          "url": "https://www.bostonglobe.com/2026/09/25/metro/dartmouth-provost-artificial-intelligence-ai/"
         },
         {
-          "title": "Global equity funds snap two-week outflow as AI optimism returns",
-          "summary": "Global equity funds attracted the most inflows since early July in the week to September 25, snapping a two-week selling streak as enthusiasm around artificial intelligence and a pullback ​of oil prices outweighed a sharp rise in government bond yields.",
-          "press": "Reuters",
-          "time": "2026-09-25T11:17:56Z",
-          "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-09-25/"
+          "title": "Federal court says Pentagon can label Anthropic a supply chain risk",
+          "summary": "In the latest twist in Anthropic’s dispute with the Pentagon, a federal appeals court on Friday rejected the artificial intelligence lab’s challenge to the government’s labeling of it as a supply chain risk. The decision allows the Pentagon to continue to remove Anthropic’s Claude models from its sy",
+          "press": "Pittsburgh Tribune-Review",
+          "time": "2026-09-25T14:42:22Z",
+          "url": "https://triblive.com/news/world/federal-court-says-pentagon-can-label-anthropic-a-supply-chain-risk/"
         },
         {
-          "title": "Pope Leo warns in France that AI is creating 'paradise of machines'",
-          "summary": "Pope Leo urged the world to reconsider the development of artificial intelligence, warning of a future where \"a paradise of machines\" takes control.",
-          "press": "CNBC",
-          "time": "2026-09-25T11:07:04Z",
-          "url": "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+          "title": "Bill Gates disagrees with AI leaders on self-regulation",
+          "summary": "Bill Gates said there is a need for government officials to step in and help regulate the artificial intelligence industry.",
+          "press": "Washington Examiner",
+          "time": "2026-09-25T14:40:54Z",
+          "url": "https://www.washingtonexaminer.com/policy/technology/4742724/bill-gates-disagrees-ai-leaders-self-regulation/"
         }
       ]
     },
@@ -85,74 +85,74 @@
       "count": 10,
       "news": [
         {
-          "title": "From ISM 1.0 to Semicon 2.0—India's chip subsidy overhaul draws early interest, raises the bar for investors",
-          "summary": "India's new semiconductor incentive regime is putting more capital at risk for manufacturers, but the first wave of investment commitments suggests lower subsidies have not stopped companies from considering fresh projects.",
+          "title": "Waaree Clean Energy Solutions forays into specialty gases biz to",
+          "summary": "Aims to become one-stop supplier to the country's semiconductor and solar cell manufacturers",
+          "press": "Business Standard",
+          "time": "2026-09-25T06:20:39Z",
+          "url": "https://www.business-standard.com/markets/capital-market-news/waaree-clean-energy-solutions-forays-into-specialty-gases-biz-to-126092500380_1.html"
+        },
+        {
+          "title": "China Obtains F-35 Components After Shipping Diversion, Bloomberg Reports",
+          "summary": "China has obtained components from the F-35 stealth fighter jet after a shipment from Australia to the United States was diverted to Hong Kong earlier this year, Bloomberg reported Thursday, citing people briefed on the incident. The shipment, which originate…",
+          "press": "Naturalnews.com",
+          "time": "2026-09-25T06:00:00Z",
+          "url": "https://www.naturalnews.com/2026-09-25-china-obtains-f35-components-after-shipping-diversion.html"
+        },
+        {
+          "title": "Tata v Tata: What’s behind India’s big boardroom brawl?",
+          "summary": "India's most famous conglomerate is knee-deep in feuds over who gets to decide the Tata Group's future.",
+          "press": "Al Jazeera English",
+          "time": "2026-09-25T05:22:23Z",
+          "url": "https://www.aljazeera.com/news/2026/9/25/tata-v-tata-whats-behind-indias-big-boardroom-brawl"
+        },
+        {
+          "title": "Trump-Xi summit leaves rare-earth issue unresolved amid yttrium supply squeeze",
+          "summary": "The Trump-Xi summit left rare-earth supplies among the unresolved issues in US-China economic relations, as the US and Japan confront uneven access to yttrium, a little-known rare-earth metal used in heat-resistant coatings for semiconductor manufacturing too…",
           "press": "Digitimes",
-          "time": "2026-09-25T00:54:24Z",
-          "url": "https://www.digitimes.com/news/a20260921VL213/semicon-investment-packaging-incentives-financing.html"
+          "time": "2026-09-25T05:18:55Z",
+          "url": "https://www.digitimes.com/news/a20260925VL202/manufacturing-materials.html"
         },
         {
-          "title": "Stocks in news: Waaree Energies, PB Fintech, Lemon Tree Hotels and Dr Lal PathLabs",
-          "summary": "Indian equity markets saw significant declines, with the NSE Nifty 50 index dropping by over 380 points. PB Fintech experienced a sharp 36% plunge after regulatory changes. Waaree Energies expanded into the specialty gases business to supply semiconductor man…",
+          "title": "IPO multibagger ESDS shares hit 5% lower circuit as Q1 net profit more than halves. Time to sell?",
+          "summary": "Newly-listed ESDS Software Solution hit the 5% lower circuit at Rs 1,758 after Q1 FY27 net profit fell 57% sequentially to Rs 29.3 crore. Despite stellar post-IPO gains, analysts advise fresh investors to avoid chasing elevated valuations and suggest allotted…",
           "press": "The Times of India",
-          "time": "2026-09-25T00:30:00Z",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-waaree-energies-pb-fintech-lemon-tree-hotels-and-dr-lal-pathlabs/articleshow/134467817.cms"
+          "time": "2026-09-25T05:06:48Z",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-multibagger-esds-shares-hit-5-lower-circuit-as-q1-net-profit-more-than-halves-time-to-sell/articleshow/134475720.cms"
         },
         {
-          "title": "Dangling-bond-free, chemically anisotropic semiconductors for ultrahigh-resolution X-ray imaging",
-          "summary": "Zero-dimensional structured materials are proposed to eliminate dangling bonds in all crystallographic directions while driving one-dimensional columnar crystal growth without compromising electronic isotropy. An X-ray scintillator based on zero-dimensional s…",
-          "press": "Nature.com",
-          "time": "2026-09-25T00:00:00Z",
-          "url": "https://www.nature.com/articles/s41566-026-02013-y"
+          "title": "DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal",
+          "summary": "DensityAI's rapid rise highlights the growing demand for specialized AI chips, potentially reshaping the semiconductor industry landscape.\nThe post DensityAI nears $10B valuation with hundreds of millions in funding and AWS deal appeared first on Crypto Brief…",
+          "press": "Crypto Briefing",
+          "time": "2026-09-25T04:53:12Z",
+          "url": "https://cryptobriefing.com/densityai-10b-valuation-aws-deal/"
         },
         {
-          "title": "High-sensitivity deep shortwave infrared organic photodetectors enabled by selenium-integrated quinoidal molecular semiconductor",
-          "summary": "Organic photodetectors for deep shortwave infrared light remain limited in sensitivity and spectral reach. Wei et al. developed a selenium-integrated molecule with a high specific detectivity exceeding 1011 Jones across 500–1400 nm, which enables flexible ima…",
-          "press": "Nature.com",
-          "time": "2026-09-25T00:00:00Z",
-          "url": "https://www.nature.com/articles/s41467-026-78139-y.pdf"
+          "title": "Manipur selects 25 graduates for semiconductor SMT training at IIT Madras",
+          "summary": "Manipur has selected 25 graduates from Minority, OBC and SC communities for a 15-day residential Semiconductor Surface Mount Technology (SMT) training programme at IIT Madras. The state government will cover training, accommodation and travel costs, while IIT…",
+          "press": "The Times of India",
+          "time": "2026-09-25T04:39:39Z",
+          "url": "https://economictimes.indiatimes.com/industry/services/education/manipur-selects-25-graduates-for-semiconductor-smt-training-at-iit-madras/articleshow/134475341.cms"
         },
         {
-          "title": "OpenAI's research chief talks of ‘cultural reset’ after wild few weeks",
-          "summary": "Mark Chen discusses how the Hugging Face cybersecurity incident prompted a pivot to safety — and giving AI models a sense of 'taste'.",
-          "press": "Nature.com",
-          "time": "2026-09-25T00:00:00Z",
-          "url": "https://www.nature.com/articles/d41586-026-03028-9"
+          "title": "Beyond Generative AI: CATL and Aramco Ventures Bet on DeepCtrls to Power AI's Second Act in the Physical World",
+          "summary": "DeepCtrls has completed its Series B+ financing round, led by CATL, with strategic investment from Aramco Ventures, alongside participation from Taiping ...",
+          "press": "Antaranews.com",
+          "time": "2026-09-25T04:09:56Z",
+          "url": "https://en.antaranews.com/news/432671/beyond-generative-ai-catl-and-aramco-ventures-bet-on-deepctrls-to-power-ais-second-act-in-the-physical-world"
         },
         {
-          "title": "MetaOptics Ltd establishes American Depositary Receipt (\"ADR\") Programme on OTCQX in the U.S., with J.P. Morgan as the Depositary Bank",
-          "summary": "SINGAPORE, Sept. 24, 2026 /PRNewswire/ -- MetaOptics Ltd (Catalist: 9MT) (\"MetaOptics\" or the \"Company\", and together with its subsidiaries, the \"Group\"), a leading-edge semiconductor optics company, today announced the establishment of its sponsored Level 1 …",
-          "press": "PRNewswire",
-          "time": "2026-09-24T23:46:00Z",
-          "url": "https://www.prnewswire.com/news-releases/metaoptics-ltd-establishes-american-depositary-receipt-adr-programme-on-otcqx-in-the-us-with-jp-morgan-as-the-depositary-bank-302889874.html"
+          "title": "Stocks to watch: PB Fintech, MCX, NSE, Inox Green, Waaree Energies, Dr Lal",
+          "summary": "PB Fintech flagged potential pressure on general insurance revenue and agent commissions, while saying its life insurance business would see limited impact.",
+          "press": "Business Standard",
+          "time": "2026-09-25T02:36:31Z",
+          "url": "https://www.business-standard.com/markets/news/stocks-to-watch-pb-fintech-mcx-nse-inox-green-waaree-energies-dr-lal-126092500100_1.html"
         },
         {
-          "title": "Wall Street Banks Finance Both Sides Of America’s AI Race With China",
-          "summary": "Wall Street banks are raising billions for Chinese tech companies while helping finance America’s massive AI infrastructure buildout.",
-          "press": "The Daily Caller",
-          "time": "2026-09-24T21:55:17Z",
-          "url": "https://dailycaller.com/2026/09/24/wall-street-banks-finance-both-sides-of-americas-ai-race-with-china"
-        },
-        {
-          "title": "Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach",
-          "summary": "The post Why Semiconductor Investors Are Rotating From SMH’s Nvidia Concentration to PSI’s Equal-Weight Approach appeared first on 24/7 Wall St..\nIf you own the VanEck Semiconductor ETF (NASDAQ:SMH), you own the default way to bet on chips. The fund is the la…",
-          "press": "Biztoc.com",
-          "time": "2026-09-24T21:07:23Z",
-          "url": "https://biztoc.com/x/12e18c2638c5f362"
-        },
-        {
-          "title": "InspireSemi Announces Results of Annual General and Special Meeting and Notice of Hearing of Final Order",
-          "summary": "VANCOUVER, British Columbia and AUSTIN, Texas, Sept. 24, 2026 (GLOBE NEWSWIRE) — Inspire Semiconductor Holdings Inc. (“InspireSemi” or the “Company”) is pleased to announce that at its annual general and special meeting of shareholders held on September 24, 2…",
-          "press": "Financial Post",
-          "time": "2026-09-24T19:25:04Z",
-          "url": "https://financialpost.com/globe-newswire/inspiresemi-announces-results-of-annual-general-and-special-meeting-and-notice-of-hearing-of-final-order"
-        },
-        {
-          "title": "SoftBank Expands AI Investments With 1.76 Trillion Yen Bond Issue",
-          "summary": "SoftBank Group announced on September 24 that it will issue approximately 1.76 trillion yen worth of foreign currency-denominated bonds, the largest simultaneous bond offering in its history, to finance a further $10 billion investment in OpenAI as founder Ma…",
-          "press": "Newsonjapan.com",
-          "time": "2026-09-24T19:17:26Z",
-          "url": "https://newsonjapan.com/article/150858.php"
+          "title": "KOSPI Closes at 7,080.92 Up 0.9% as Samsung Leads Into Chuseok After Giving Back Open",
+          "summary": "South Korea's KOSPI gained 0.9% to 7,080.92, led by Samsung Electronics and SK hynix, as investors adjusted positions before the four-day Chuseok holiday break.",
+          "press": "Ibtimes.com.au",
+          "time": "2026-09-25T02:24:34Z",
+          "url": "https://www.ibtimes.com.au/south-korea-kospi-rises-chip-stocks-chuseok-1875840"
         }
       ]
     },
@@ -239,74 +239,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Ellidy Pullin, 34, sparks backlash after taking daughter Minnie on horse-drawn carriage ride",
-          "summary": "Ellidy Pullin has faced backlash from animal activists after she was seen riding in a horse-drawn carriage with her daughter Minnie and mother Karen during a European getaway.",
-          "press": "Dailymail.com",
-          "time": "2026-09-25T01:13:02Z",
-          "url": "https://www.dailymail.com/tvshowbiz/article-16155631/ellidy-pullin-horse-drawn-carriage-backlash.html"
+          "title": "“Transformation visible across sectors!”: PM Modi marks 12 years of Make in India amid manufacturing, investment push",
+          "summary": "Prime Minister Narendra Modi recently celebrated the 12th anniversary of the 'Make in India' initiative. This campaign has significantly improved India's manufacturing, foreign investments, and export capabilities over the years. Key achievements include subs…",
+          "press": "The Times of India",
+          "time": "2026-09-25T06:34:55Z",
+          "url": "https://economictimes.indiatimes.com/news/india/transformation-visible-across-sectors-pm-modi-marks-12-years-of-make-in-india-amid-manufacturing-investment-push/articleshow/134477462.cms"
         },
         {
-          "title": "TIER IV to co-host educational autonomous driving event, advancing tech outreach and youth talent development",
-          "summary": "TOKYO, Sept. 24, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, will co-host an educational event for junior and senior high school students on September 26 at the National Museum of Emerging Science and…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T01:00:00Z",
-          "url": "https://www.prnewswire.com/news-releases/tier-iv-to-co-host-educational-autonomous-driving-event-advancing-tech-outreach-and-youth-talent-development-302888481.html"
+          "title": "Designed + Built In Detroit: The Shinola Monster GMT Automatic",
+          "summary": "This is the Shinola Monster GMT Automatic, it’s one of the American watchmaker’s more high-end watches, each one is designed and built in Detroit,...\nThe post Designed + Built In Detroit: The Shinola Monster GMT Automatic appeared first on Silodrome.",
+          "press": "Silodrome.com",
+          "time": "2026-09-25T06:30:40Z",
+          "url": "https://silodrome.com/shinola-monster-gmt-automatic/"
         },
         {
-          "title": "Rockets are booked until 2029, and suppliers won't expand without firm orders",
-          "summary": "A new customer booking Ariane 6 today would find the earliest opening in 2029. The space industry is not short of demand; it is short of people willing to build the factory before the orders are certain.",
-          "press": "Digitimes",
-          "time": "2026-09-25T00:53:03Z",
-          "url": "https://www.digitimes.com/news/a20260921VL221/demand-launch.html"
+          "title": "Youngest retired Artiste Spio Jungo appointed to fantafest 2026 planning committee",
+          "summary": "Francis Spio Jungo, the Ghanaian creative entrepreneur popularly tagged as one of the youngest artistes to retire from music after a remarkably short career, has secured another major role in the entertainment and events industry. Jungo has been appointed as …",
+          "press": "Thechronicle.com.gh",
+          "time": "2026-09-25T06:14:44Z",
+          "url": "https://thechronicle.com.gh/youngest-retired-artiste-spio-jungo-appointed-to-fantafest-2026-planning-committee/"
         },
         {
-          "title": "FG to end regulated gas pricing in 2028",
-          "summary": "The Federal Government plans to end regulated pricing in Nigeria’s domestic gas market by 2028, transitioning to a willing-buyer, willing-seller framework.\n\nRead More: https://punchng.com/fg-to-end-regulated-gas-pricing-in-2028/",
-          "press": "The Punch",
-          "time": "2026-09-25T00:40:44Z",
-          "url": "https://punchng.com/fg-to-end-regulated-gas-pricing-in-2028/"
+          "title": "IRDAI reforms: Life insurers with high credit-life exposure may benefit from lower commissions",
+          "summary": "Centrum says IRDAI’s proposed lower commissions and tighter expense caps could benefit life insurers with higher credit-life exposure, driving focus on retail protection and leaner operations.",
+          "press": "BusinessLine",
+          "time": "2026-09-25T06:06:53Z",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/irdai-reforms-life-insurers-with-high-credit-life-exposure-may-benefit-from-lower-commissions/article71507081.ece"
         },
         {
-          "title": "This is a national emergency - but all Burnham does is dither and waffle: NIGEL FARAGE",
-          "summary": "Ours is an island nation with one of the most sophisticated, best-funded border forces in the world, writes NIGEAL FARAGE. Yet boats continue to arrive without the authorities even knowing.",
-          "press": "Dailymail.com",
-          "time": "2026-09-25T00:01:05Z",
-          "url": "https://www.dailymail.com/debate/article-16158731/immigration-national-emergency-Burnham-dither-waffle-NIGEL-FARAGE.html"
+          "title": "Justice Department Warns AI Critics Could Face Prosecution Under Foreign Agent Rules",
+          "summary": "The Justice Department has instructed citizens and noncitizens that furthering the goals of a foreign power in any public activity, including public demonstrations, may require formal notification to the government to avoid arrest and prosecution, according t…",
+          "press": "Naturalnews.com",
+          "time": "2026-09-25T06:00:00Z",
+          "url": "https://www.naturalnews.com/2026-09-25-justice-department-warns-ai-critics-could-face-prosecution.html"
         },
         {
-          "title": "Control of ice thickness in cryo-EM via confinement",
-          "summary": "This study explores the use of graphene reservoirs formed over perforated supporting films as a method to precisely control ice thickness during cryo-EM sample preparation.",
-          "press": "Nature.com",
-          "time": "2026-09-25T00:00:00Z",
-          "url": "https://www.nature.com/articles/s41592-026-03244-1"
+          "title": "Google to Launch Experimental Satellite Data Center on SpaceX Falcon 9",
+          "summary": "Google is preparing to launch a refrigerator-sized experimental satellite with the computing power of a single server as part of a research effort known as Project Suncatcher, according to a report by the New York Times (NYT). The prototype is designed to tes…",
+          "press": "Naturalnews.com",
+          "time": "2026-09-25T06:00:00Z",
+          "url": "https://www.naturalnews.com/2026-09-25-google-to-launch-experimental-satellite-data-server.html"
         },
         {
-          "title": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-          "summary": "Washington (AP) — Two leading progressive lawmakers, Sen. Bernie Sanders and Rep. Greg Casar, are unveiling legislation Wednesday that would ban artificial superintelligence and create a federal agency to oversee advanced AI as some of the industry’s own lead…",
-          "press": "Freerepublic.com",
-          "time": "2026-09-24T23:55:31Z",
-          "url": "https://freerepublic.com/focus/f-news/4396782/posts"
+          "title": "Coinbase Tokenized Stocks Just Passed $1B in Volume on Base. The Real Story Is What Comes Next.",
+          "summary": "The crypto industry has a peculiar habit of building the plumbing before the water is actually allowed to flow. We have spent years watching developers construct elaborate, high-speed pipes for assets that were, until recently, largely confined to the digital…",
+          "press": "Forkast.news",
+          "time": "2026-09-25T05:49:53Z",
+          "url": "https://forkast.news/coinbase-tokenized-stocks-just-passed-1b-in-volume-on-base-the-real-story-is-what-comes-next/"
         },
         {
-          "title": "Moonbug is in its era of “Big Feelings” as it launches “fully integrated music company”",
-          "summary": "Over a career spanning more than 30 years, Snoop Dogg has collaborated with an eclectic range of artists. He's dropped guest verses for everyone from 2pac to Katy Perry to Psy to Nicepeter and EpicLLOYD.\nNow, Snoop has teamed up with another unexpected collab…",
-          "press": "Tubefilter",
-          "time": "2026-09-24T22:22:06Z",
-          "url": "https://www.tubefilter.com/2026/09/24/moonbug-big-feelings-music-company-blippi-cocomelon/"
+          "title": "What are KV caches really?",
+          "summary": "KV caching lies sufficiently deep within the guts of how transformers  work that really understanding how it can be used goes beyond any si...",
+          "press": "Glennklockwood.com",
+          "time": "2026-09-25T05:47:02Z",
+          "url": "https://blog.glennklockwood.com/2026/09/what-are-kv-caches-really.html"
         },
         {
-          "title": "Louisiana is loaded with elite prospects in the 2027 cycle",
-          "summary": "Despite its size, the state of Louisiana remains one of the best when it comes to producing a wealth of talent on the football field. According to the Rivals Industry Rankings, a weighted average that utilizes all major recruiting media companies, there are 1…",
-          "press": "On3.com",
-          "time": "2026-09-24T22:19:34Z",
-          "url": "https://www.on3.com/rivals/news/louisiana-is-loaded-with-elite-prospects-in-the-2027-cycle/"
+          "title": "Here Are Some AI Doomsday Scenarios Researchers Say Could Put Humanity at Risk",
+          "summary": "For years, artificial intelligence researchers have warned of ways the technology could wipe out humanity: AI bots could design an unstoppable disease, unleash a nuclear war, or transform all of Earth into paper clip factories, as one thought experiment goes.…",
+          "press": "Insurance Journal",
+          "time": "2026-09-25T05:30:27Z",
+          "url": "https://www.insurancejournal.com/news/international/2026/09/25/886777.htm"
         },
         {
-          "title": "Fed proposes stablecoin rules under GENIUS Act, eyes crypto clarity",
-          "summary": "The Fed's stablecoin rules could enhance regulatory clarity, potentially fostering a supportive environment for the broader crypto market.\nThe post Fed proposes stablecoin rules under GENIUS Act, eyes crypto clarity appeared first on Crypto Briefing.",
-          "press": "Crypto Briefing",
-          "time": "2026-09-24T20:43:19Z",
-          "url": "https://cryptobriefing.com/fed-proposes-stablecoin-rules-under-genius-act-eyes-crypto-clarity/"
+          "title": "An absence of significant economic slowdown doesn't mean no signs of stagflation risks. Here's why",
+          "summary": "Keep watch for signs of stagflation, even if there isn't a significant slowdown in the economy, according to J.P. Morgan.",
+          "press": "CNBC",
+          "time": "2026-09-25T05:12:01Z",
+          "url": "https://www.cnbc.com/2026/09/25/an-absence-of-significant-economic-slowdown-doesnt-mean-no-signs-of-stagflation-risks-heres-why-.html"
         }
       ]
     },
@@ -316,74 +316,74 @@
       "count": 10,
       "news": [
         {
-          "title": "What is the closest relative to bats?",
-          "summary": "What Is The Closest Relative To Bats? Exploring Chiropteran Kinship What is the closest relative to bats? Recent genomic studies have revealed that the closest living relatives to bats are not rodents or primates as previously thought, but rather a group of m…",
-          "press": "Lifesciencesworld.com",
-          "time": "2026-09-25T01:37:35Z",
-          "url": "https://www.lifesciencesworld.com/what-is-the-closest-relative-to-bats/"
+          "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+          "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+          "press": "TechCrunch",
+          "time": "2026-09-25T17:30:00Z",
+          "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/"
         },
         {
-          "title": "The Ultimate Guide to the Massive Cast and Many Characters of ‘American Horror Story’ Season 13",
-          "summary": "The coven's all here\nThe post The Ultimate Guide to the Massive Cast and Many Characters of ‘American Horror Story’ Season 13 appeared first on TheWrap.",
-          "press": "TheWrap",
-          "time": "2026-09-25T01:20:27Z",
-          "url": "https://www.thewrap.com/creative-content/what-to-watch/ahs-13-cast-and-characters-list-details/"
+          "title": "Mass. lawmakers, robotics executives discuss how to boost investments",
+          "summary": "Tech executives said California, Texas, and even Pittsburgh are becoming more attractive options for developing companies than Massachusetts.",
+          "press": "The Boston Globe",
+          "time": "2026-09-24T21:35:29Z",
+          "url": "https://www.bostonglobe.com/2026/09/24/business/mass-robotics-ai-startups/"
         },
         {
-          "title": "Dan Priestly and Lars Lead the Tesla Semi Event",
-          "summary": "Tesla semi rollout event. Very soon the self driving features will be added. It will be a game changer truck. They have fully automated unloading and placement of battery cells into the semi truck. Semi Rollout https://t.co/eTDVRTFjOf — Tesla Semi (@tesla_sem…",
-          "press": "Next Big Future",
-          "time": "2026-09-25T01:03:00Z",
-          "url": "https://www.nextbigfuture.com/2026/09/dan-priestly-and-lars-lead-the-tesla-semi-event.html"
+          "title": "Meet Feather, the startup building the 'Android of robotics' for developers",
+          "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+          "press": "TechCrunch",
+          "time": "2026-09-24T18:52:38Z",
+          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/"
         },
         {
-          "title": "Interview: Intel director talks physical AI, business models, and robotics' future",
-          "summary": "Physical AI is accelerating like never before. Autonomous intelligent machines can walk, run, fly, swim, and assemble car parts in under a minute. New advances in AI models and technologies like dexterous hands are also pushing the boundaries of how smart and…",
-          "press": "Digitimes",
-          "time": "2026-09-25T00:54:45Z",
-          "url": "https://www.digitimes.com/news/a20260923VL223/intel-business-robotics-commercial-hardware.html"
+          "title": "China installs 59% of new factory robots as EU installations fall 11%",
+          "summary": "China installed 59% of the world's new industrial robots in 2025, the International Federation of Robotics said. The EU fell 11%.",
+          "press": "TNW",
+          "time": "2026-09-24T17:30:38Z",
+          "url": "https://thenextweb.com/news/industrial-robots-world-robotics-2026-china-59-eu-falls"
         },
         {
-          "title": "Whirlpool Spent 60 Years in an Italian Engineering Lab Just to Make Its Ovens Quieter",
-          "summary": "Here's a fun rule of thumb: the less effort something takes to use, the more effort someone spent making sure it works. Good waiters make service invisible. Good editing makes a movie feel like it was never touched. Good design, generally, hides its own homew…",
-          "press": "Yanko Design",
-          "time": "2026-09-25T00:30:53Z",
-          "url": "https://www.yankodesign.com/2026/09/24/whirlpool-spent-60-years-in-an-italian-engineering-lab-just-to-make-its-ovens-quieter/"
+          "title": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+          "summary": "RASWDC is in the process of developing a phased implementation plan to tackle issues like command structure, mission relationships and resource requirements.",
+          "press": "Breaking Defense",
+          "time": "2026-09-24T16:53:55Z",
+          "url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/"
         },
         {
-          "title": "XtalPi Submits U.S. FDA IND Application for KQTD-126, a Potential First-in-Class, Gut-Restricted Pan-TRK Inhibitor for Chronic Intestinal Pain",
-          "summary": "This milestone marks the first IND submission from XtalPi's proprietary pipeline, recently unveiled in its interim results, validating the company's AI and robotics-driven drug discovery platform and its transition to a clinical-stage organization. Preclinica…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T00:30:00Z",
-          "url": "https://www.prnewswire.com/news-releases/xtalpi-submits-us-fda-ind-application-for-kqtd-126-a-potential-first-in-class-gut-restricted-pan-trk-inhibitor-for-chronic-intestinal-pain-302889891.html"
+          "title": "Kent State to host Aeronautics, Engineering Expo Sept. 26",
+          "summary": "Event gives community up-close look at aviation history, university program Yimo, Kent State University’s robotic dog, demonstrates autonomous robotics technology during the 2025 Aeronautics and Engineering Expo. STOW — Kent State University invites the community to experience aviation history, emer",
+          "press": "akron.com",
+          "time": "2026-09-24T11:00:18Z",
+          "url": "https://www.akron.com/articles/kent-state-to-host-aeronautics-engineering-expo-sept-26/"
         },
         {
-          "title": "/C O R R E C T I O N -- ARK Investment Management LLC/",
-          "summary": "In the news release, ARK Invest Launches Its First Income Strategy, ARKY, Targeting 17.5% Income Through Its Innovation Equity Universe, issued 19-Aug-2026 by ARK Investment Management LLC over PR Newswire, we are advised by the company that there have been c…",
-          "press": "PRNewswire",
-          "time": "2026-09-24T22:43:00Z",
-          "url": "https://www.prnewswire.com/news-releases/ark-invest-launches-its-first-income-strategy-arky-targeting-17-5-income-through-its-innovation-equity-universe-302854835.html"
+          "title": "AI's Next Bottleneck Could Be Here",
+          "summary": "Robotics is emerging as the next major economic bottleneck, with a projected $2T TAM by the 2040s and $7–9T by 2050. Read what investors need to know.",
+          "press": "Seeking Alpha",
+          "time": "2026-09-24T10:16:57Z",
+          "url": "https://seekingalpha.com/article/4949341-ais-next-bottleneck-could-be-here"
         },
         {
-          "title": "Amazon to spend $100M on Indiana plant, its fourth site for building robots",
-          "summary": "Amazon.com Inc. is spending more than $100 million on a factory in Greenwood, Indiana, to build equipment for its warehouse robots, according to plans the company released today. The Wall Street Journal reported that Greenwood will be the fourth plant Amazon …",
-          "press": "SiliconANGLE News",
-          "time": "2026-09-24T22:22:32Z",
-          "url": "https://siliconangle.com/2026/09/24/amazon-to-spend-100m-on-indiana-plant-its-fourth-site-for-building-robots/"
+          "title": "Chinese humanoid robotics firm expanding globally and readying for IPO",
+          "summary": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions, according to UniX AI, citing its own experience.",
+          "press": "CNBC",
+          "time": "2026-09-24T07:29:15Z",
+          "url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html"
         },
         {
-          "title": "Robot.com Brings Robotics to NACAS Conference - Showcasing the Latest from the Leader in Campus Delivery Innovation",
-          "summary": "Live demo of R-noid loading an R-kiwi marks the first time Robot.com's humanoid and delivery robots have been sequenced together in a campus environment SAN FRANCISCO, Sept. 24, 2026 /PRNewswire/ -- Robot.com®, the company putting autonomous robots to work in…",
-          "press": "PRNewswire",
-          "time": "2026-09-24T22:05:00Z",
-          "url": "https://www.prnewswire.com/news-releases/robotcom-brings-robotics-to-nacas-conference--showcasing-the-latest-from-the-leader-in-campus-delivery-innovation-302889823.html"
+          "title": "Travis Kalanick is back: How Uber's ousted founder went from pariah to Silicon Valley hero",
+          "summary": "The Uber cofounder returns with a multibillion robotics and AI venture—and a tech sector more receptive to his hard-charging approach.",
+          "press": "Fortune",
+          "time": "2026-09-24T07:00:00Z",
+          "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/"
         },
         {
-          "title": "NASA Shares SpaceX Crew-14 Assignments for Space Station Mission",
-          "summary": "Four crew members from three space agencies will launch to the International Space Station no earlier than spring 2027 for a long-duration science expedition as part of NASA’s SpaceX Crew-14 mission. NASA astronauts Kayla Barron and Chris Birch will serve as …",
-          "press": "NASA",
-          "time": "2026-09-24T21:32:01Z",
-          "url": "https://www.nasa.gov/blogs/commercialcrew/2026/09/24/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/"
+          "title": "Why Banning AI Won't Save Jobs: It Will Only Guarantee Economic Collapse",
+          "summary": "AI and robotics pose macroeconomic risks by accelerating productivity beyond market demand, risking mass unemployment and deflationary spirals. Click for more.",
+          "press": "Seeking Alpha",
+          "time": "2026-09-23T23:08:41Z",
+          "url": "https://seekingalpha.com/article/4949188-why-banning-ai-wont-save-jobs-it-will-only-guarantee-economic-collapse"
         }
       ]
     },
@@ -393,74 +393,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Italy’s nuclear comeback is about energy security",
-          "summary": "“I am currently reading projections pointing to 2034, but I would be inclined to bring that deadline forward, given that reactors will already be tested in",
-          "press": "EUROPE SAYS",
-          "time": "2026-09-25T07:54:19Z",
-          "url": "https://www.europesays.com/3271685/"
+          "title": "Justice Department Warns AI Critics Could Face Prosecution Under Foreign Agent Rules",
+          "summary": "The Justice Department has instructed citizens and noncitizens that furthering the goals of a foreign power in any public activity, including public demonstrations, may require formal notification to the government to avoid arrest and prosecution, according t…",
+          "press": "Naturalnews.com",
+          "time": "2026-09-25T06:00:00Z",
+          "url": "https://www.naturalnews.com/2026-09-25-justice-department-warns-ai-critics-could-face-prosecution.html"
         },
         {
-          "title": "Indiana Gov. Braun announces new state-led nuclear energy program",
-          "summary": "The governor and NRC chair announced that Indiana will be considered a Nuclear Regulatory Commission Agreement State in a news conference.",
-          "press": "Chicago Tribune",
-          "time": "2026-09-24T19:09:06Z",
-          "url": "https://www.chicagotribune.com/2026/09/24/indiana-gov-braun-announces-new-state-led-nuclear-energy-program/"
+          "title": "Farmers Report âSurvival Modeâ as Diesel Prices Rise Amid U.S.-Iran Conflict",
+          "summary": "U.S. farmers and ranchers in North Carolina, Texas, and across the Corn Belt are reporting what they describe as “survival mode” operations as diesel, fertilizer, and equipment costs climb during the ongoing U.S.-Iran conflict, according to CNN, CBS News, Sky…",
+          "press": "Naturalnews.com",
+          "time": "2026-09-25T06:00:00Z",
+          "url": "https://www.naturalnews.com/2026-09-25-farmers-report-survival-mode-diesel-rise-amid-conflict.html"
         },
         {
-          "title": "Italy and new discussions on nuclear energy",
-          "summary": "Rome, Italy – Italy has agreed to return to nuclear energy—nearly four decades after abandoning it—marking a new shift in the government’s strategy to bolster",
-          "press": "EUROPE SAYS",
-          "time": "2026-09-24T06:09:22Z",
-          "url": "https://www.europesays.com/3269687/"
+          "title": "PM Mitsotakis at UN General Assembly: Greece’s geography grants it the natural role of serving as a bridge between Europe and its wider neighborhood",
+          "summary": "Prime Minister Kyriakos Mitsotakis highlighted Greece’s role as an international pillar of stability and energy security in his address to the United Nations General Assembly, while also sending a message…\nPM Mitsotakis at UN General Assembly: Greece’s geogra…",
+          "press": "Naftemporiki.gr",
+          "time": "2026-09-25T05:59:50Z",
+          "url": "https://www.naftemporiki.gr/english/2166464/pm-mitsotakis-at-un-general-assembly-greeces-geography-grants-it-the-natural-role-of-serving-as-a-bridge-between-europe-and-its-wider-neighborhood/"
         },
         {
-          "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
-          "summary": "The measure cleared the upper house 81-51 with seven abstentions. It marks a major step in Premier Giorgia Meloni’s drive to bolster energy security and meet climate goals, even though the construction of possible new reactors is still years away.",
-          "press": "Los Angeles Times",
-          "time": "2026-09-23T17:22:43Z",
-          "url": "https://www.latimes.com/world-nation/story/2026-09-23/40-years-after-chernobyl-italy-greenlights-return-to-nuclear-energy"
+          "title": "How Trump's diplomatic week exposed the limits of his power",
+          "summary": "US President Donald Trump sought to project diplomatic strength through his UN address and summit with Chinese President Xi Jinping, but the week produced limited breakthroughs. The Iran war, strained ties with allies, Ukraine and the US-China relationship co…",
+          "press": "The Times of India",
+          "time": "2026-09-25T05:35:29Z",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/how-trumps-diplomatic-week-exposed-the-limits-of-his-power/articleshow/134476105.cms"
         },
         {
-          "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
-          "summary": "ROME (AP) — Italy’s Senate on Wednesday gave final approval to legislation paving the way for a return to nuclear power nearly four decades after the",
-          "press": "EUROPE SAYS",
-          "time": "2026-09-23T16:16:25Z",
-          "url": "https://www.europesays.com/3268518/"
+          "title": "Resurrecting the Green New Deal",
+          "summary": "By Chris TalgoFar-left candidates, especially members of the Democratic Socialists of America, are doubling down on the GND.",
+          "press": "Americanthinker.com",
+          "time": "2026-09-25T04:00:00Z",
+          "url": "https://www.americanthinker.com/blog/2026/09/resurrecting-the-green-new-deal/"
         },
         {
-          "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
-          "summary": "Italy’s Senate has given final approval to legislation paving the way for a return to nuclear power. The vote marks a major step in Premier Giorgia Meloni’s drive to bolster energy security and...",
-          "press": "SFGATE",
-          "time": "2026-09-23T15:45:21Z",
-          "url": "https://www.sfgate.com/news/world/article/italy-s-parliament-paves-the-way-for-a-return-to-22445430.php"
+          "title": "Scattering neutrinos to probe the fundamental laws of the universe",
+          "summary": "As part of Ricochet, an international collaboration that studies neutrinos, MIT PhD student Faith Reyes progressed from learning the basics of the experiment to helping guide the work of other scientists.",
+          "press": "Mit.edu",
+          "time": "2026-09-25T04:00:00Z",
+          "url": "https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925"
         },
         {
-          "title": "Italy's parliament paves the way for a return to nuclear energy",
-          "summary": "Italy’s Senate has given final approval to legislation paving the way for a return to nuclear power.",
-          "press": "WDIV ClickOnDetroit",
-          "time": "2026-09-23T15:04:42Z",
-          "url": "https://www.clickondetroit.com/business/2026/09/23/italys-parliament-paves-the-way-for-a-return-to-nuclear-energy/"
+          "title": "Allies unite behind Saudi Arabia as Houthis step up attacks",
+          "summary": "Saudi Arabia, Turkey and Pakistan will hold an urgent, high-level meeting under a joint defence pact to discuss ways to support the kingdom amid attacks by Yemen's Iran-aligned Houthis, while Tehran sought to distance itself from the",
+          "press": "The Times of India",
+          "time": "2026-09-25T02:24:03Z",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/allies-unite-behind-saudi-arabia-as-houthis-step-up-attacks/articleshow/134473330.cms"
         },
         {
-          "title": "East Feliciana backs effort to land nuclear energy project",
-          "summary": "East Feliciana could be in line for what the U.S. Department of Energy is calling a “Nuclear Lifecycle Innovation Campus.”",
-          "press": "Baton Rouge Advocate",
-          "time": "2026-09-23T12:00:00Z",
-          "url": "https://www.theadvocate.com/baton_rouge/news/east-feliciana-police-jury-agrees-to-support-effort-to-land-nuclear-energy-project/article_a49b2825-49ec-429a-928a-bbac31df00fa.html"
+          "title": "How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
+          "summary": "My guest today is Tania de Jong, co-founder of Mind Medicine Australia. Tania and her husband, Peter, helped lead the push that, in 2023, made Australia the first country in the world to allow MDMA and psilocybin to be prescribed for psychiatric conditions. I…",
+          "press": "Tim.blog",
+          "time": "2026-09-25T02:20:31Z",
+          "url": "https://tim.blog/2026/09/24/kevin-ryan/"
         },
         {
-          "title": "East Feliciana PJ agrees to support state’s effort to land a nuclear energy project in the parish",
-          "summary": "The East Feliciana Parish Police Jury expressed support via a resolution Sept. 21 for the state’s effort to land a federally backed project that could involve recycling spent fuel rods",
-          "press": "Baton Rouge Advocate",
-          "time": "2026-09-23T12:00:00Z",
-          "url": "https://www.theadvocate.com/baton_rouge/news/communities/east_feliciana/east-feliciana-pj-agrees-to-support-state-s-effort-to-land-a-nuclear-energy-project/article_d56ab20b-5514-439f-8a49-e8420ee0f4ea.html"
+          "title": "Google’s first Project Suncatcher AI satellite set to blast off into orbit next week",
+          "summary": "Google LLC’s plan to put artificial intelligence data centers into low-Earth orbit is taking shape, as it prepares to launch its first satellite on a SpaceX Corp. rocket next week. In a blog post today, the company said Project Suncatcher will launch a protot…",
+          "press": "SiliconANGLE News",
+          "time": "2026-09-25T02:08:58Z",
+          "url": "https://siliconangle.com/2026/09/24/googles-first-project-suncatcher-ai-satellite-set-to-blast-off-into-orbit-next-week/"
         },
         {
-          "title": "Chernobyl Ban on Nuclear Energy",
-          "summary": "Senate gave final approval to legislation paving the way for a return to nuclear power nearly four decades after the Chernobyl disaster.",
-          "press": "Breitbart News Network",
-          "time": "2026-09-23T09:13:48Z",
-          "url": "https://www.breitbart.com/europe/2026/09/23/italy-overturns-post-chernobyl-ban-on-nuclear-energy-clears-way-to-build-new-plants/"
+          "title": "Trump-Xi dinner: Elon Musk, Jeff Bezos, Sam Altman, Huang, Nadella among star-studded guest list",
+          "summary": "Billionaires and leaders from the technology sector gathered at the White House for a state dinner. This event hosted Chinese President Xi Jinping and his wife, Peng Liyuan, with various US officials. The discussions included trade, artificial intelligence, a…",
+          "press": "The Times of India",
+          "time": "2026-09-25T02:02:27Z",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-xi-dinner-elon-musk-jeff-bezos-sam-altman-huang-nadella-among-star-studded-guest-list/articleshow/134473026.cms"
         }
       ]
     },
@@ -469,6 +469,27 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Paramount’s David Ellison Attends Trump White House State Dinner for Chinese President; CNN and MS NOW Reporters Barred From Event",
+          "summary": "David Ellison, CEO of Paramount Skydance, dined at the White House Thursday evening at the state dinner held for visiting Chinese President Xi Jinping — but the White House shut out reporters for CNN, the Warner Bros. Discovery-owned news network Ellison is a…",
+          "press": "Variety",
+          "time": "2026-09-25T03:53:16Z",
+          "url": "https://variety.com/2026/film/news/david-ellison-trump-white-house-state-dinner-chinese-president-cnn-1236875329/"
+        },
+        {
+          "title": "US tech titans attend Trump-Xi dinner. Who wasn’t invited?",
+          "summary": "Virtually all of America’s most powerful technology executives joined US President Donald Trump and Chinese leader Xi Jinping for a lavish White House state dinner, as AI emerged as a major theme of the Chinese leader’s visit.",
+          "press": "RT",
+          "time": "2026-09-25T02:46:26Z",
+          "url": "https://www.rt.com/news/646222-trump-xi-dinner-tech-ai-giants/"
+        },
+        {
+          "title": "Trump-Xi dinner: Elon Musk, Jeff Bezos, Sam Altman, Huang, Nadella among star-studded guest list",
+          "summary": "Billionaires and leaders from the technology sector gathered at the White House for a state dinner. This event hosted Chinese President Xi Jinping and his wife, Peng Liyuan, with various US officials. The discussions included trade, artificial intelligence, a…",
+          "press": "The Times of India",
+          "time": "2026-09-25T02:02:27Z",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-xi-dinner-elon-musk-jeff-bezos-sam-altman-huang-nadella-among-star-studded-guest-list/articleshow/134473026.cms"
+        },
         {
           "title": "Who was invited to China state dinner: White House releases guest list",
           "summary": "The White House has released the guest list for the dinner hosted Thursday by President Donald Trump and Melania Trump for Chinese President Xi Jinping and his wife, Peng Liyuan",
@@ -517,27 +538,6 @@
           "press": "9to5google.com",
           "time": "2026-09-24T11:00:00Z",
           "url": "http://9to5google.com/2026/09/24/oh-no-here-come-the-ai-tamagotchis/"
-        },
-        {
-          "title": "The Real AI Threat: China",
-          "summary": "This post The Real AI Threat: China appeared first on Daily Reckoning.\nJim Rickards explains why we’re getting bombarded with AI doomers, and where the real threat lies…\nThe post The Real AI Threat: China appeared first on Daily Reckoning.",
-          "press": "Dailyreckoning.com",
-          "time": "2026-09-23T20:00:54Z",
-          "url": "https://dailyreckoning.com/the-real-ai-threat-china/"
-        },
-        {
-          "title": "Coffee Break: Effective Altruism Is a Misnomer Just Ask Ezra Klein",
-          "summary": "The effective altruist movement supported by \"journalists\" Ezra Klein and Matt Yglesias has already changed the world dramatically.",
-          "press": "Nakedcapitalism.com",
-          "time": "2026-09-23T18:00:28Z",
-          "url": "https://www.nakedcapitalism.com/2026/09/effective-altruism-misnomer-ezra-klein-matt-yglesias-vox-trump-david-sacks.html"
-        },
-        {
-          "title": "VGT Holders Bought ‘Tech’ and Own No Google, Meta, or Amazon: The Sector Rule That Decides What’s Inside",
-          "summary": "VGT promises tech exposure, but a classification rule buried in the index methodology quietly excludes three of the biggest names most investors assume they...",
-          "press": "24/7 Wall St.",
-          "time": "2026-09-22T22:15:04Z",
-          "url": "https://247wallst.com/investing/etf/2026/09/22/vgt-holders-bought-tech-and-own-no-google-meta-or-amazon-the-sector-rule-that-decides-whats-inside/"
         }
       ]
     }
