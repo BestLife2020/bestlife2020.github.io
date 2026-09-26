@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T11:44:24.298644+00:00",
+  "updated": "2026-09-26T15:07:42.286100+00:00",
   "provider": "gnews,newsapi",
   "categories": {
     "ai": {
@@ -7,6 +7,20 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Try Not to Laugh as Kamala Harris Explains Artificial Intelligence and Algorithms (VIDEO)",
+          "summary": "During a recent podcast appearance, former Vice President Kamala Harris tried to explain artificial intelligence and algorithms.",
+          "press": "The Gateway Pundit",
+          "time": "2026-09-26T03:00:43Z",
+          "url": "https://www.thegatewaypundit.com/2026/09/try-not-laugh-as-kamala-harris-explains-artificial/"
+        },
+        {
+          "title": "Synopsys Stock Gets New Street-High $700 Price Target from HSBC - Here’s Why",
+          "summary": "Chip design software company Synopsys (SNPS) received a major upgrade from HSBC (HSBC) on Friday as the bank argued that artificial intelligence...",
+          "press": "Markets Insider",
+          "time": "2026-09-25T23:45:00Z",
+          "url": "https://markets.businessinsider.com/news/stocks/synopsys-stock-gets-new-street-high-700-price-target-from-hsbc-here-s-why-1036575879"
+        },
         {
           "title": "UN Tries to Build Momentum on Pandemic Preparedness, but Hits a Speed Bump",
           "summary": "NEW YORK (AP) — Six years after COVID-19 forced the U.N. General Assembly 's annual meeting of world leaders to go virtual for the first time ever, pandemics no longer dominate the conversation at the global gathering. Wars, natural disasters, geopolitical polarization and this year's hot-button wor",
@@ -62,20 +76,6 @@
           "press": "New York Post",
           "time": "2026-09-25T18:52:04Z",
           "url": "https://nypost.com/2026/09/25/business/ai-doomer-pr-firm-worked-for-jacob-coxon-as-he-sparked-furor-over-safety-while-denying-third-party-help-report/"
-        },
-        {
-          "title": "Xi acknowledges risks of AI even as Trump dismisses them",
-          "summary": "After chief executives at top artificial intelligence companies called on the U.S. government to cooperate with China to contain the dangers of the technology, President Donald Trump began his summit with Chinese President Xi Jinping by suggesting that he wasn’t interested.",
-          "press": "Spokane Spokesman-Review",
-          "time": "2026-09-25T18:36:00Z",
-          "url": "https://www.spokesman.com/stories/2026/sep/25/xi-acknowledges-risks-of-ai-even-as-trump-dismisse/"
-        },
-        {
-          "title": "Pope Leo warns a 'paradise of machines' could undermine humanity as he opens France trip",
-          "summary": "Pope Leo XIV raised concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
-          "press": "KABC-TV",
-          "time": "2026-09-25T17:59:00Z",
-          "url": "https://abc7.com/post/pope-leo-ai-news-xiv-warns-paradise-machines-could-undermine-humanity-he-opens-france-trip/19872061/"
         }
       ]
     },
@@ -85,74 +85,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity boom",
-          "summary": "Tower Semiconductor's strategic positioning in AI optical connectivity could significantly enhance its market influence and financial growth.\nThe post Mizuho initiates Tower Semiconductor at Outperform with $300 price target, citing AI optical connectivity bo…",
-          "press": "Crypto Briefing",
-          "time": "2026-09-25T11:36:05Z",
-          "url": "https://cryptobriefing.com/mizuho-tower-semiconductor-outperform-ai-optics/"
+          "title": "Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub",
+          "summary": "Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.",
+          "press": "Tom's Hardware UK",
+          "time": "2026-09-25T15:00:22Z",
+          "url": "https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029"
         },
         {
-          "title": "Tech Bros and the Trump Administration Are Building an AI Empire—In the Philippines",
-          "summary": "In a move that upended the international conversation about AI, earlier this month, a researcher at the AI company Anthropic named Jacob Coxon resigned and took to X to sound the alarm about what he saw as a dangerous trajectory. “The people building AI earne…",
-          "press": "Mother Jones",
-          "time": "2026-09-25T11:30:00Z",
-          "url": "https://www.motherjones.com/politics/2026/09/tech-bros-and-the-trump-administration-are-building-an-ai-empire-in-the-philippines-pax-silica/"
+          "title": "Memory Prices Are on Track to Rise 400%. Your Next Phone Is Paying for AI.",
+          "summary": "If your next phone costs more than your last one, or ships with less memory than you expected, the reason is not in the phone. It is in a data center several states away. J.P. Morgan Global Research estimates that DRAM prices will have risen more than 400 per…",
+          "press": "Techpinions.com",
+          "time": "2026-09-25T15:00:00Z",
+          "url": "https://techpinions.com/memory-shortage-smartphone-prices-ai-2026/"
         },
         {
-          "title": "Tech Bros and the Trump Administration Are Building an AI Empire—In the Philippines",
-          "summary": "In a move that upended the international conversation about AI, earlier this month, a researcher at the AI company Anthropic named Jacob Coxon resigned and took to X to sound the alarm about what he saw as a dangerous trajectory. “The people building AI earne…",
-          "press": "Mother Jones",
-          "time": "2026-09-25T11:30:00Z",
-          "url": "https://www.motherjones.com/politics/2026/09/tech-bros-and-the-trump-administration-are-building-an-ai-empire-in-the-philippines/"
+          "title": "CEA flags US ties, energy as headwinds, calls for strategic buffers",
+          "summary": "CEA V Anantha Nageswaran says India cannot afford to choose between global blocs and must build strategic buffers and forge partnerships with foreign technology firms",
+          "press": "Business Standard",
+          "time": "2026-09-25T14:01:26Z",
+          "url": "https://www.business-standard.com/economy/news/cea-flags-us-ties-energy-as-headwinds-calls-for-strategic-buffers-126092500912_1.html"
         },
         {
-          "title": "ACL Digital Recognized with 2026 TSMC OIP Partner of the Year Award for Design Service Excellence",
-          "summary": "ACL Digital earns recognition at the TSMC 2026 North America OIP Ecosystem Forum for delivering advanced design services for mutual customers across AI, Data Center, and IoT markets. SAN JOSE, Calif., Sept. 25, 2026 /PRNewswire/ -- ACL Digital, part of the AL…",
+          "title": "Position Sensor Market worth $23.40 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Position Sensor Market is projected to grow from USD 14.53 billion in 2026 to USD 23.40 billion by 2032, at a CAGR of 8.3% during the forecast period. Browse 150 market da…",
           "press": "PRNewswire",
-          "time": "2026-09-25T11:30:00Z",
-          "url": "https://www.prnewswire.com/news-releases/acl-digital-recognized-with-2026-tsmc-oip-partner-of-the-year-award-for-design-service-excellence-302890075.html"
+          "time": "2026-09-25T14:01:00Z",
+          "url": "https://www.prnewswire.com/news-releases/position-sensor-market-worth-23-40-billion-by-2032---exclusive-report-by-marketsandmarkets-302889080.html"
         },
         {
-          "title": "MetaOptics Ltd. Begins Trading on OTCQX Best Market",
-          "summary": "NEW YORK, Sept. 25, 2026 (GLOBE NEWSWIRE) — OTC Markets Group Inc. (OTCQX: OTCM), operator of regulated markets for trading 12,000 U.S. and international securities, today announced MetaOptics Ltd. (SGX: 9MT; OTCQX: MEAOF, MOTLY), a leading-edge semiconductor…",
-          "press": "Financial Post",
-          "time": "2026-09-25T11:00:38Z",
-          "url": "https://financialpost.com/globe-newswire/metaoptics-ltd-begins-trading-on-otcqx-best-market"
+          "title": "Position Sensor Market worth $23.40 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Position Sensor Market is projected to grow from USD 14.53 billion in 2026 to USD 23.40 billion by 2032, at a CAGR of 8.3% during the forecast period. Browse 150 market da…",
+          "press": "PR Newswire UK",
+          "time": "2026-09-25T14:01:00Z",
+          "url": "https://www.prnewswire.co.uk/news-releases/position-sensor-market-worth-23-40-billion-by-2032---exclusive-report-by-marketsandmarkets-302889084.html"
         },
         {
-          "title": "TSMC Begins A14 Pilot Production, Risk Production Next Year",
-          "summary": "TSMC's A14 node, which produces 1.4 nm chips, has reportedly begun pilot production runs at Hsinchu Science Park's Baoshan Fab 20 and Central Taiwan Science Park's Fab 25, where TSMC's latest and most advanced nodes are developed. According to UDN, TSMC is co…",
-          "press": "Techpowerup.com",
-          "time": "2026-09-25T10:53:33Z",
-          "url": "https://www.techpowerup.com/353087/tsmc-begins-a14-pilot-production-risk-production-next-year"
+          "title": "More agents go rogue — but AI companies aren’t slowing down yet",
+          "summary": "It’s becoming more apparent every day that artificial intelligence agents are escaping our control — but it’s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of them from OpenAI, hack…",
+          "press": "SiliconANGLE News",
+          "time": "2026-09-25T14:00:16Z",
+          "url": "https://siliconangle.com/2026/09/25/more-agents-go-rogue-but-ai-companies-arent-slowing-down-yet/"
         },
         {
-          "title": "Sensex today | Stock Market Highlights: Sensex gains 315 pts, Nifty ends at 23,140 as oil prices bite; Rupee closes at 95.80/$",
-          "summary": "Sensex, Nifty, Share Prices Highlights: Indian shares posted modest gains ⁠on Friday in a partial rebound after previous session's slide, but still logged their longest weekly losing streak in six years as high oil prices drove ‌up bond yields and inflationar…",
-          "press": "BusinessLine",
-          "time": "2026-09-25T10:36:08Z",
-          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-25-september-2026/article71503684.ece"
+          "title": "Thai finance minister sees 2.5% growth next year on investment-led policies",
+          "summary": "BANGKOK, Sept 25 : Thailand's economy is expected to retain its momentum and grow by 2.5 per cent next year and could reach 3 per cent expansion within the next three years, the finance minister said on Friday, as the government pushes for new investments int…",
+          "press": "CNA",
+          "time": "2026-09-25T13:41:54Z",
+          "url": "https://www.channelnewsasia.com/business/thai-finance-minister-sees-25-growth-next-year-investment-led-policies-6411271"
         },
         {
-          "title": "Sequans Communications completes Bitcoin treasury exit after selling final 314 Bitcoin",
-          "summary": "Sequans' strategic Bitcoin exit reflects a broader corporate shift towards stabilizing financial structures over speculative crypto investments.\nThe post Sequans Communications completes Bitcoin treasury exit after selling final 314 Bitcoin appeared first on …",
-          "press": "Crypto Briefing",
-          "time": "2026-09-25T10:09:06Z",
-          "url": "https://cryptobriefing.com/sequans-communications-exits-bitcoin-treasury/"
+          "title": "189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club",
+          "summary": "The post 189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club appeared first on 24/7 Wall St..\nAMD (NASDAQ:AMD) just did something few semiconductor companies ever accomplish: it joined the trillion dollar club. Shares are up 187.87% ye…",
+          "press": "Biztoc.com",
+          "time": "2026-09-25T13:08:12Z",
+          "url": "https://biztoc.com/x/87e998b9a4d83e34"
         },
         {
-          "title": "Anisotropic magnetic properties of the magnetic semiconductor ${\\mathrm{YbCuS}}_{2}$ with an Yb zigzag chain investigated using twinned crystals",
-          "summary": "In magnetically frustrated systems, competing exchange interactions suppress long-range magnetic order and give rise to nontrivial ground states. In this study, we investigate the magnetic semiconductor ${\\text{YbCuS}}_{2}$, which crystallizes in the orthorho…",
-          "press": "Aps.org",
-          "time": "2026-09-25T10:00:00Z",
-          "url": "https://link.aps.org/doi/10.1103/tdnw-wk8c"
+          "title": "Gamemax RGB PRO 750G power supply review: Efficient, but pricey for an average unit with pretty lights",
+          "summary": "Gamemax charges $105 for an average power supply with RGB lighting. The Sohoo platform underneath measures well enough, but the fan, the capacitors, and the warranty all sit below what the price should buy.",
+          "press": "Tom's Hardware UK",
+          "time": "2026-09-25T13:00:00Z",
+          "url": "https://www.tomshardware.com/pc-components/power-supplies/gamemax-rgb-pro-750g-power-supply-review"
         },
         {
-          "title": "Interlayer-coupling control of high-harmonic generation in bilayer ${\\mathrm{WS}}_{2}$",
-          "summary": "We investigate how interlayer coupling shapes high-harmonic generation (HHG) in AA-stacked bilayer ${\\mathrm{WS}}_{2}$ using real-time time-dependent density functional theory and semiconductor Bloch equations. The bilayer harmonic yield is found to depart fr…",
-          "press": "Aps.org",
-          "time": "2026-09-25T10:00:00Z",
-          "url": "https://link.aps.org/doi/10.1103/yzdw-vsf5"
+          "title": "Why investors need to be cautious after run-up in small-cap funds",
+          "summary": "With pockets of this segment turning expensive, investors should rebalance if overweight and invest in a staggered manner",
+          "press": "Business Standard",
+          "time": "2026-09-25T12:49:23Z",
+          "url": "https://www.business-standard.com/finance/personal-finance/why-investors-need-to-be-cautious-after-run-up-in-small-cap-funds-126092500963_1.html"
         }
       ]
     },
@@ -162,74 +162,74 @@
       "count": 10,
       "news": [
         {
-          "title": "David Kistin to lead Roadrunner Quantum Lab in Albuquerque",
-          "summary": "Former Sandia National Laboratories manager David Kistin will direct Roadrunner Quantum Lab, a $25 million New Mexico effort to grow quantum technology companies in Albuquerque.",
-          "press": "Albuquerque Journal",
-          "time": "2026-09-25T21:30:00Z",
-          "url": "https://www.abqjournal.com/business/ex-sandia-manager-tapped-to-direct-roadrunner-quantum-lab/3128812"
+          "title": "Intel CEO Lip-Bu Tan Is Impressed By Photonic Quantum Computing",
+          "summary": "Tan calls agentic AI 'amazing' and checks its progress first thing each morning — the same tech he says will drive CPU demand.",
+          "press": "Wccftech",
+          "time": "2026-09-26T01:34:30Z",
+          "url": "https://wccftech.com/intel-ceo-lip-bu-tan-is-impressed-by-photonic-quantum-computing-says-he-now-leans-on-ai-agents-to-do-his-homework/"
         },
         {
-          "title": "Bifrost Electronics names New Mexico native Doug Campbell CEO",
-          "summary": "Colorado quantum technology company Bifrost Electronics has named New Mexico native Doug Campbell CEO ahead of the commercial launch of its Heimdall Amplifier.",
-          "press": "Albuquerque Journal",
-          "time": "2026-09-24T13:00:00Z",
-          "url": "https://www.abqjournal.com/business/quantum-startup-names-new-mexico-native-as-ceo/3127468"
+          "title": "Everyone's Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
+          "summary": "IonQ just claimed a genuine quantum computing breakthrough, but its stock tells a bleaker story and its financials tell a bleaker one still. Before you chase",
+          "press": "EUROPE SAYS",
+          "time": "2026-09-24T12:41:06Z",
+          "url": "https://www.europesays.com/3270189/"
         },
         {
-          "title": "D-Wave Disappoints Again: A Quantum Company Without Commercial Momentum",
-          "summary": "D-Wave Quantum continues to underperform, missing revenue expectations despite advanced annealing technology. Read why QBTS stock is a Sell.",
-          "press": "Seeking Alpha",
-          "time": "2026-09-22T08:10:15Z",
-          "url": "https://seekingalpha.com/article/4948519-d-wave-disappoints-again-a-quantum-company-without-commercial-momentum"
+          "title": "A Company Shared a Breakthrough In Quantum Computing. Its Shares Are Climbing.",
+          "summary": "IonQ announced the first end-to-end real-time quantum error decoder.",
+          "press": "International Business Times",
+          "time": "2026-09-23T14:21:23Z",
+          "url": "https://www.ibtimes.com/company-shared-breakthrough-quantum-computing-its-shares-are-climbing-3807786"
         },
         {
-          "title": "IonQ, SDT announce multi-year strategic partnership",
-          "summary": "IonQ (IONQ) announced a strategic partnership with Korea-based quantum technology and software company SDT, Inc. Under this multi-year collabora...",
+          "title": "IonQ shares rally after company says it made a major quantum computing breakthrough",
+          "summary": "Shares of quantum computing company IonQ surged in premarket following its successful test of the industry's first real time end-to-end error decoder.",
+          "press": "CNBC",
+          "time": "2026-09-23T12:35:15Z",
+          "url": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html"
+        },
+        {
+          "title": "EU Regulators Warn Quantum Computing Could Threaten Blockchains",
+          "summary": "EU financial supervisors warn of a future threat to blockchain cryptography as Bitcoin developers propose a migration plan and Ethereum targets 2029.",
+          "press": "Cointelegraph",
+          "time": "2026-09-23T12:22:56Z",
+          "url": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks"
+        },
+        {
+          "title": "Why IonQ Stock Is Surging After Hours - and What Wall Street Expects Next",
+          "summary": "IonQ (NYSE:IONQ) is climbing about 8% in Tuesday’s after-hours trading after unveiling progress on one of quantum computing’s toughest technical...",
           "press": "Markets Insider",
-          "time": "2026-09-22T00:35:07Z",
-          "url": "https://markets.businessinsider.com/news/stocks/ionq-sdt-announce-multi-year-strategic-partnership-1036562519"
+          "time": "2026-09-22T22:36:34Z",
+          "url": "https://markets.businessinsider.com/news/stocks/why-ionq-stock-is-surging-after-hours-and-what-wall-street-expects-next-1036566068"
         },
         {
-          "title": "Walmart has a rollback on the VIZIO 65-inch QLED TV for a limited time",
-          "summary": "The VIZIO 65-inch Mini LED Quantum 4K QLED HDR Smart TV is a 2026 model combining a Mini-LED display with Quantum/QLED technology and broad HDR support.",
-          "press": "syracuse.com",
-          "time": "2026-09-18T16:00:00Z",
-          "url": "https://www.syracuse.com/shopping/2026/09/walmart-has-a-rollback-on-the-vizio-65-inch-qled-tv-for-a-limited-time.html"
+          "title": "Microsoft to give DARPA hands-on access to quantum system at new Maryland site",
+          "summary": "Microsoft on Tuesday said it will give the US Defense Advanced Research Projects Agency direct, on-site access to its latest quantum ​computing hardware as part of a new research center the company ‌opened in Maryland alongside the University of Maryland and other industry partners.",
+          "press": "Reuters",
+          "time": "2026-09-22T20:03:39Z",
+          "url": "https://www.reuters.com/business/microsoft-give-darpa-hands-on-access-to-quantum-system-new-maryland-site-2026-09-22/"
         },
         {
-          "title": "run matchmaking program to force quantum technology into the marketplace – NaturalNews.com",
-          "summary": "Beijing launched the Scenario Handshake Plan to connect quantum companies with government and industrial customers. The program targets six pilot applications including underwater sensing, secured communications and materials simulation. None of the six projects has yet demonstrated quantum advantag",
-          "press": "Natural News",
-          "time": "2026-09-16T11:10:17Z",
-          "url": "https://www.naturalnews.com/2026-09-16-beijing-state-run-quantum-technology.html"
+          "title": "Why mathematicians are hiding research results in zero-knowledge proofs",
+          "summary": "Google made a major breakthrough in quantum computing. To prevent the results from being misused, the company kept them secret. That backfired",
+          "press": "Scientific American",
+          "time": "2026-09-22T18:00:00Z",
+          "url": "https://www.scientificamerican.com/article/why-mathematicians-are-hiding-research-results-in-zero-knowledge-proofs/"
         },
         {
-          "title": "Mitsubishi Electric Invests in OptQC Startup Developing Optical Quantum Computer Hardware",
-          "summary": "Leveraging optical quantum technology and market insights for industrial use",
-          "press": "EUROPE SAYS",
-          "time": "2026-09-15T04:29:19Z",
-          "url": "https://www.europesays.com/3251916/"
+          "title": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
+          "summary": "Quantum computing stocks are struggling with a major industry conference on tap as investors eye roadmap to commercialization.",
+          "press": "Investor's Business Daily",
+          "time": "2026-09-22T12:00:23Z",
+          "url": "https://www.investors.com/news/technology/quantum-computing-stocks-world-quantum-conference-2026/"
         },
         {
-          "title": "Tennessee bets big on the future of quantum tech",
-          "summary": "Tennessee is investing 43 million dollars into a new grant program to expand quantum technology across the state.",
-          "press": "Knoxville News-Sentinel",
-          "time": "2026-09-14T20:25:21Z",
-          "url": "https://www.knoxnews.com/story/news/local/2026/09/14/tennessee-launches-43-million-quantum-grant-program/91764572007/"
-        },
-        {
-          "title": "CNM CAMINO Collaborative aims to grow New Mexico's tech workforce",
-          "summary": "Central New Mexico Community College's CAMINO Collaborative with Sandia National Laboratories will expand training for advanced manufacturing, quantum technology and other high-demand New Mexico careers.",
-          "press": "Albuquerque Journal",
-          "time": "2026-09-13T09:24:00Z",
-          "url": "https://www.abqjournal.com/opinion/opinion-camino-collaborative-is-key-to-nms-tech-economy/3118044"
-        },
-        {
-          "title": "UNM Boosts Quantum Science & Tech Education",
-          "summary": "As New Mexico makes significant investments to establish itself as a leader in quantum technology, The University of New Mexico is expanding its academic",
-          "press": "EUROPE SAYS",
-          "time": "2026-09-10T14:31:33Z",
-          "url": "https://www.europesays.com/3243744/"
+          "title": "British quantum computing company establishing US headquarters in Arlington",
+          "summary": "British quantum computing company Phasecraft is opening its U.S. headquarters in Arlington, Virginia, Gov. Abigail Spanberger announced Monday.The company plans",
+          "press": "WJLA",
+          "time": "2026-09-21T14:22:56Z",
+          "url": "https://wjla.com/news/local/british-quantum-computing-company-establishing-us-headquarters-arlington-virginia-abigail-spanberger-jobs-economy-construction-growth-property"
         }
       ]
     },
@@ -239,74 +239,74 @@
       "count": 10,
       "news": [
         {
-          "title": "iLOQ and Kimi Räikkönen unlock the next generation in new global campaign",
-          "summary": "New campaign builds on iLOQ's longstanding relationship with the Räikkönen family, bringing Kimi and aspiring young racer Robin together to explore what one generation can give the next – and a new chapter in Kimi's life as father and mentor OULU, Finland, Se…",
+          "title": "Triptii Dimri reveals what she does when work gets hectic: 'Laila' shares her simple home remedy, self-care ritual and one thing she avoids",
+          "summary": "Triptii Dimri has shared her simple approach to skincare and self-care, revealing that she often relies on traditional home remedies such as besan, curd and turmeric packs. In an interview, the actor also spoke about avoiding extreme beauty trends, taking qui…",
+          "press": "The Times of India",
+          "time": "2026-09-25T14:57:09Z",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/triptii-dimri-reveals-what-she-does-when-work-gets-hectic-laila-shares-her-simple-home-remedy-self-care-ritual-and-one-thing-she-avoids/articleshow/134487893.cms"
+        },
+        {
+          "title": "WhiteFiber Continuum Goes Commercial, Scaling Its 83 km Two-Site GPU Supercluster Design to 136 Tbps",
+          "summary": "WhiteFiber has made WhiteFiber Continuum commercially available, turning the two-site GPU supercluster it first detailed as Project Redwood in July into a product enterprises can deploy. WhiteFiber calls Continuum its highest-performance cross-data-center net…",
+          "press": "Storagereview.com",
+          "time": "2026-09-25T14:56:39Z",
+          "url": "https://www.storagereview.com/news/whitefiber-continuum-goes-commercial-scaling-its-83-km-two-site-gpu-supercluster-design-to-136-tbps"
+        },
+        {
+          "title": "Assistant – Royalty Accounting – Y Royalties – London",
+          "summary": "ABOUT Y ROYALTIES Y Royalties is a data-led and innovative workplace with a growing presence in the music rights space. We sit at the crossroads of music, data and finance […]\nThe post is from Music Ally.",
+          "press": "Music Ally",
+          "time": "2026-09-25T14:50:31Z",
+          "url": "https://musically.com/2026/09/25/assistant-royalty-accounting-y-royalties-london/"
+        },
+        {
+          "title": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
+          "summary": "Tesla is now building several hundred Optimus humanoid robots per week at Fremont, roughly 10 times its Q2 output, according to a new report. But the robots coming off the line still can’t handle generalized tasks – limiting their usefulness.\n\n\n\nThe report al…",
+          "press": "Electrek",
+          "time": "2026-09-25T14:45:34Z",
+          "url": "http://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/"
+        },
+        {
+          "title": "Shadow AI Risk & Governance Market worth $8.64 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Shadow AI Risk & Governance Market is projected to grow from USD 1.39 billion in 2026 to USD 8.64 billion by 2032 at a CAGR of 35.6% during the forecast period. Browse 400…",
+          "press": "PR Newswire UK",
+          "time": "2026-09-25T14:30:00Z",
+          "url": "https://www.prnewswire.co.uk/news-releases/shadow-ai-risk--governance-market-worth-8-64-billion-by-2032--exclusive-report-by-marketsandmarkets-302889437.html"
+        },
+        {
+          "title": "Liquid Handling System Market worth $7.79 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Liquid Handling System Market is projected to reach USD 7.79 billion by 2031 from USD 5.26 billion in 2026, at a CAGR of 8.2% during the forecast period. Browse 250 market…",
           "press": "PRNewswire",
-          "time": "2026-09-25T11:31:00Z",
-          "url": "https://www.prnewswire.com/news-releases/iloq-and-kimi-raikkonen-unlock-the-next-generation-in-new-global-campaign-302890230.html"
+          "time": "2026-09-25T14:30:00Z",
+          "url": "https://www.prnewswire.com/news-releases/liquid-handling-system-market-worth-7-79-billion-by-2031---exclusive-report-by-marketsandmarkets-302889228.html"
         },
         {
-          "title": "When the machine should stop and call a human",
-          "summary": "Agentic AI needs human judgment built into workflows before automated actions go too far.",
-          "press": "Fortune",
-          "time": "2026-09-25T11:30:00Z",
-          "url": "https://fortune.com/2026/09/25/agentic-ai-human-judgment-governance/"
+          "title": "Nebraska’s Offense Looks the Part — Now Comes the Real Test",
+          "summary": "Three games. Three wins. Plenty of points and, perhaps most importantly, an offense that finally looks like it has multiple ways to hurt a defense. Nebraska cruised through its non-conference schedule at 3-0, averaging 46.7 points and more than 520 yards of o…",
+          "press": "Corn Nation",
+          "time": "2026-09-25T14:30:00Z",
+          "url": "https://www.cornnation.com/nebraska-football-recruiting/102113/nebraskas-offense-looks-the-part-now-comes-the-real-test"
         },
         {
-          "title": "iLOQ and Kimi Räikkönen unlock the next generation in new global campaign",
-          "summary": "New campaign builds on iLOQ's longstanding relationship with the Räikkönen family, bringing Kimi and aspiring young racer Robin together to explore what one generation can give the next – and a new chapter in Kimi's life as father and mentor OULU, Finland, Se…",
+          "title": "Liquid Handling System Market worth $7.79 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Liquid Handling System Market is projected to reach USD 7.79 billion by 2031 from USD 5.26 billion in 2026, at a CAGR of 8.2% during the forecast period. Browse 250 market…",
+          "press": "PR Newswire UK",
+          "time": "2026-09-25T14:30:00Z",
+          "url": "https://www.prnewswire.co.uk/news-releases/liquid-handling-system-market-worth-7-79-billion-by-2031---exclusive-report-by-marketsandmarkets-302889231.html"
+        },
+        {
+          "title": "Shadow AI Risk & Governance Market worth $8.64 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Shadow AI Risk & Governance Market is projected to grow from USD 1.39 billion in 2026 to USD 8.64 billion by 2032 at a CAGR of 35.6% during the forecast period. Browse 400…",
           "press": "PRNewswire",
-          "time": "2026-09-25T11:28:00Z",
-          "url": "https://www.prnewswire.com/news-releases/iloq-and-kimi-raikkonen-unlock-the-next-generation-in-new-global-campaign-302890227.html"
+          "time": "2026-09-25T14:30:00Z",
+          "url": "https://www.prnewswire.com/news-releases/shadow-ai-risk--governance-market-worth-8-64-billion-by-2032--exclusive-report-by-marketsandmarkets-302889440.html"
         },
         {
-          "title": "The Tim Ferriss Show Transcripts: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
-          "summary": "Please enjoy this transcript of my interview with Kevin Ryan, one of the leading entrepreneurs and investors in New York. Often called the “Godfather of NYC tech,” he is the founder and CEO of AlleyCorp, a New York based venture capital firm that incubates an…",
-          "press": "Tim.blog",
-          "time": "2026-09-25T11:04:04Z",
-          "url": "https://tim.blog/2026/09/25/kevin-ryan-transcript/"
-        },
-        {
-          "title": "Energy Groups Urge Gov. Hochul to Restart Indian Point During ‘Climate Week NYC’",
-          "summary": "Meanwhile, Georgia Power and Google team up for nuclear upgrades and Italy greenlights plans to return to nuclear energy.\nThe post Energy Groups Urge Gov. Hochul to Restart Indian Point During ‘Climate Week NYC’ first appeared on Le·gal In·sur·rec·tion.",
-          "press": "Legalinsurrection.com",
-          "time": "2026-09-25T11:00:25Z",
-          "url": "https://legalinsurrection.com/2026/09/energy-groups-urge-gov-hochul-to-restart-indian-point-during-climate-week-nyc/"
-        },
-        {
-          "title": "Novo is betting on its next chapter as Eli Lilly gains more ground in GLP-1s",
-          "summary": "As Novo works to turn itself around, some analysts say Lilly has advantages that could help it maintain its position at the top of the obesity drug market.",
-          "press": "CNBC",
-          "time": "2026-09-25T11:00:01Z",
-          "url": "https://www.cnbc.com/2026/09/25/novo-eli-lilly-obesity-drugs.html"
-        },
-        {
-          "title": "Presentation: Spritely: Infrastructure for the Future of the Internet",
-          "summary": "Christine Lemmer-Webber and David Thompson explain how Spritely's architecture solves core decentralization challenges. They share insights on capability-based access control with Goblins, actor-model communication via OCapN, and petname systems. Discover how…",
-          "press": "InfoQ.com",
-          "time": "2026-09-25T11:00:00Z",
-          "url": "https://www.infoq.com/presentations/spritely-decentralized-architecture/"
-        },
-        {
-          "title": "Podcast: The Future of AI: From Enterprise Adoption to Open Source Sovereignty",
-          "summary": "In this episode, Meryem Arik, Clara Higuera Cabañes, and Jeff Smith, demystify the current state of AI in the enterprise. The discussion navigates the \"industrial revolution\" moment in AI adoption, exploring why companies are rushing toward these technologies…",
-          "press": "InfoQ.com",
-          "time": "2026-09-25T11:00:00Z",
-          "url": "https://www.infoq.com/podcasts/enterprise-adoption-open-source-sovereignty/"
-        },
-        {
-          "title": "Plant Growth Regulators Market worth $5.33 billion by 2031- Exclusive Report by MarketsandMarkets™",
-          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the plant growth regulator market is estimated at USD 3.72 billion in 2026 and is projected to reach USD 5.33 billion by 2031, at a CAGR of 7.4% from 2026 to 2031. Plant Growt…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T10:59:00Z",
-          "url": "https://www.prnewswire.com/news-releases/plant-growth-regulators-market-worth-5-33-billion-by-2031-exclusive-report-by-marketsandmarkets-302889106.html"
-        },
-        {
-          "title": "What Comes Next for Brazil After ‘I’m Still Here’ and ‘The Secret Agent’? International Co-Productions Point Towards a Strong Future",
-          "summary": "In 2025, Walter Salles made history when he won Brazil with “I’m Still Here” its first-ever Oscar for a Portuguese-language film directed by a Brazilian, beating “Emilia Pérez” for Best International Film. Mere weeks after that historic night, Brazil doubled …",
-          "press": "Variety",
-          "time": "2026-09-25T10:58:10Z",
-          "url": "https://variety.com/2026/film/global/brazil-im-still-here-the-secret-agent-coproductions-1236875359/"
+          "title": "Whisker's forthcoming debut album 'Can’t You Feel It?' draws on memory, family and Rock ’n’ Roll [Interview]",
+          "summary": "For Los Angeles singer-songwriter, producer, and multi-instrumentalist Shane Patrick Cronin, music has always been part of the landscape. Growing up as the son of REO Speedwagon frontman Kevin Cronin, he…\nThe post Whisker's forthcoming debut album 'Can’t You …",
+          "press": "Earmilk.com",
+          "time": "2026-09-25T14:28:22Z",
+          "url": "https://earmilk.com/2026/09/25/whisker-steps-album-cant-you-feel-it-interview/"
         }
       ]
     },
@@ -316,102 +316,151 @@
       "count": 10,
       "news": [
         {
-          "title": "DP World Shifts Routes as Costs From War Disruptions Rise",
-          "summary": "Plus, a California startup uses 3-D printing to help make gas turbines and Amazon is boosting robotics output with an Indiana factory.",
-          "press": "Biztoc.com",
-          "time": "2026-09-25T11:09:50Z",
-          "url": "https://biztoc.com/x/0d76213155fa4c9d"
+          "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+          "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+          "press": "TechCrunch",
+          "time": "2026-09-25T17:30:00Z",
+          "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/"
         },
         {
-          "title": "The Tim Ferriss Show Transcripts: How to Spot 10-Year Trends and Build Billion-Dollar Companies — Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More (#884)",
-          "summary": "Please enjoy this transcript of my interview with Kevin Ryan, one of the leading entrepreneurs and investors in New York. Often called the “Godfather of NYC tech,” he is the founder and CEO of AlleyCorp, a New York based venture capital firm that incubates an…",
-          "press": "Tim.blog",
-          "time": "2026-09-25T11:04:04Z",
-          "url": "https://tim.blog/2026/09/25/kevin-ryan-transcript/"
+          "title": "Mass. lawmakers, robotics executives discuss how to boost investments",
+          "summary": "Tech executives said California, Texas, and even Pittsburgh are becoming more attractive options for developing companies than Massachusetts.",
+          "press": "The Boston Globe",
+          "time": "2026-09-24T21:35:29Z",
+          "url": "https://www.bostonglobe.com/2026/09/24/business/mass-robotics-ai-startups/"
         },
         {
-          "title": "autonomous robotic hand walks on its fingertips like the addams family’s thing",
-          "summary": "with no legs, wheels or robotic arm in sight, the 818-gram prototype has figured out how to get around on its own.\nThe post autonomous robotic hand walks on its fingertips like the addams family’s thing appeared first on designboom | architecture & design mag…",
-          "press": "Designboom",
-          "time": "2026-09-25T10:55:53Z",
-          "url": "https://www.designboom.com/technology/autonomous-robotic-hand-addams-familys-thing-eth-zurich/"
+          "title": "Meet Feather, the startup building the 'Android of robotics' for developers",
+          "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+          "press": "TechCrunch",
+          "time": "2026-09-24T18:52:38Z",
+          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/"
         },
         {
-          "title": "Alausa urges diaspora Nigerians to support education reforms",
-          "summary": "The Minister of Education, Dr. Tunji Alausa, has called on Nigerians in the diaspora to support the country’s education reforms through research and techno\n\nRead More: https://punchng.com/alausa-urges-diaspora-nigerians-to-support-education-reforms/",
-          "press": "The Punch",
-          "time": "2026-09-25T10:53:50Z",
-          "url": "https://punchng.com/alausa-urges-diaspora-nigerians-to-support-education-reforms/"
+          "title": "China installs 59% of new factory robots as EU installations fall 11%",
+          "summary": "China installed 59% of the world's new industrial robots in 2025, the International Federation of Robotics said. The EU fell 11%.",
+          "press": "TNW",
+          "time": "2026-09-24T17:30:38Z",
+          "url": "https://thenextweb.com/news/industrial-robots-world-robotics-2026-china-59-eu-falls"
         },
         {
-          "title": "Egypt rolls out first homegrown robot (VIDEO)",
-          "summary": "Egypt has unveiled its first locally developed industrial robot with around 80% of its components produced domestically Read Full Article at RT.com",
-          "press": "RT",
-          "time": "2026-09-25T10:53:41Z",
-          "url": "https://www.rt.com/africa/646237-egypt-unveils-locally-developed-industrial-robot/"
+          "title": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+          "summary": "RASWDC is in the process of developing a phased implementation plan to tackle issues like command structure, mission relationships and resource requirements.",
+          "press": "Breaking Defense",
+          "time": "2026-09-24T16:53:55Z",
+          "url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/"
         },
         {
-          "title": "Robo.ai Announces Groundbreaking for Phase I of ALIF Holding Group Industrial Park",
-          "summary": "Marine Security Project to Be the First Tenant, Advancing the Company's Advanced Manufacturing Strategy in the UAE UMM AL QUWAIN, UAE, Sept. 25, 2026 /PRNewswire/ -- Robo.ai Inc. (Nasdaq: AIIO) (\"Robo.ai\" or the \"Company\") today announced that a groundbreakin…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T10:47:00Z",
-          "url": "https://www.prnewswire.com/news-releases/roboai-announces-groundbreaking-for-phase-i-of-alif-holding-group-industrial-park-302890212.html"
+          "title": "Kent State to host Aeronautics, Engineering Expo Sept. 26",
+          "summary": "Event gives community up-close look at aviation history, university program Yimo, Kent State University’s robotic dog, demonstrates autonomous robotics technology during the 2025 Aeronautics and Engineering Expo. STOW — Kent State University invites the community to experience aviation history, emer",
+          "press": "akron.com",
+          "time": "2026-09-24T11:00:18Z",
+          "url": "https://www.akron.com/articles/kent-state-to-host-aeronautics-engineering-expo-sept-26/"
         },
         {
-          "title": "Robo.ai Announces Groundbreaking for Phase I of ALIF Holding Group Industrial Park",
-          "summary": "Marine Security Project to Be the First Tenant, Advancing the Company's Advanced Manufacturing Strategy in the UAE UMM AL QUWAIN, UAE, Sept. 25, 2026 /PRNewswire/ -- Robo.ai Inc. (Nasdaq: AIIO) (\"Robo.ai\" or the \"Company\") today announced that a groundbreakin…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T10:45:00Z",
-          "url": "https://www.prnewswire.com/news-releases/roboai-announces-groundbreaking-for-phase-i-of-alif-holding-group-industrial-park-302890210.html"
+          "title": "AI's Next Bottleneck Could Be Here",
+          "summary": "Robotics is emerging as the next major economic bottleneck, with a projected $2T TAM by the 2040s and $7–9T by 2050. Read what investors need to know.",
+          "press": "Seeking Alpha",
+          "time": "2026-09-24T10:16:57Z",
+          "url": "https://seekingalpha.com/article/4949341-ais-next-bottleneck-could-be-here"
         },
         {
-          "title": "HealthTech Partners Global Expands Rehabilitation Technology Portfolio with Two New Strategic Partnerships and Launch of Boston Service Operations Hub",
-          "summary": "Company strengthens leadership position in advanced neurorehabilitation and physical medicine technologies through partnerships with TecnoBody and Evolution Devices while establishing U.S. service headquarters in Greater Boston BOSTON, Sept. 25, 2026 /PRNewsw…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T10:30:00Z",
-          "url": "https://www.prnewswire.com/news-releases/healthtech-partners-global-expands-rehabilitation-technology-portfolio-with-two-new-strategic-partnerships-and-launch-of-boston-service-operations-hub-302890107.html"
+          "title": "Chinese humanoid robotics firm expanding globally and readying for IPO",
+          "summary": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions, according to UniX AI, citing its own experience.",
+          "press": "CNBC",
+          "time": "2026-09-24T07:29:15Z",
+          "url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html"
         },
         {
-          "title": "Meta debuts Tamagotchi-style AI agent",
-          "summary": "Meta is creating a tiny, portable Muse Charm device for carrying around the company's AI agent, chief executive Mark Zuckerberg has announced. Produced by Meta's new design team, led by former Apple design chief Alan Dye, the device resembles an Apple Watch b…",
-          "press": "Dezeen",
-          "time": "2026-09-25T10:15:05Z",
-          "url": "https://www.dezeen.com/2026/09/25/meta-debuts-tamagotchi-style-ai-agent/"
+          "title": "Travis Kalanick is back: How Uber's ousted founder went from pariah to Silicon Valley hero",
+          "summary": "The Uber cofounder returns with a multibillion robotics and AI venture—and a tech sector more receptive to his hard-charging approach.",
+          "press": "Fortune",
+          "time": "2026-09-24T07:00:00Z",
+          "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/"
         },
         {
-          "title": "AI infrastructure investment seen surging to $769 billion in 2026 amid growing safety concerns",
-          "summary": "OpenAI is in discussions with investors for additional funding that could value the company at around $1.2 trillion, while SoftBank has launched an $11 billion bond offering to help fund a further $10 billion investment in OpenAI",
-          "press": "BusinessLine",
-          "time": "2026-09-25T09:45:05Z",
-          "url": "https://www.thehindubusinessline.com/info-tech/ai-infrastructure-investment-seen-surging-to-769-billion-in-2026-amid-growing-safety-concerns/article71507773.ece"
+          "title": "Why Banning AI Won't Save Jobs: It Will Only Guarantee Economic Collapse",
+          "summary": "AI and robotics pose macroeconomic risks by accelerating productivity beyond market demand, risking mass unemployment and deflationary spirals. Click for more.",
+          "press": "Seeking Alpha",
+          "time": "2026-09-23T23:08:41Z",
+          "url": "https://seekingalpha.com/article/4949188-why-banning-ai-wont-save-jobs-it-will-only-guarantee-economic-collapse"
         }
       ]
     },
     "energy": {
       "title": "에너지",
       "source": "gnews",
-      "count": 3,
+      "count": 10,
       "news": [
         {
-          "title": "Nuclear SMR Stocks Are Rallying; Why NXE Got Initiated At Overweight",
-          "summary": "In a boost for struggling SMR stocks, JPMorgan highlighted uranium supply deficits and initiated NexGen Energy NXE stock at overweight.",
-          "press": "Investor's Business Daily",
-          "time": "2026-09-21T17:44:11Z",
-          "url": "https://www.investors.com/news/nuclear-smr-stocks-rally-nexgen-energy-nxe-initiated-overweight/"
+          "title": "Trump’s Diesel Export Threat Puts Britain on Edge",
+          "summary": "President Trump’s newest trade threat sent markets into a frenzy once again on Friday.  Earlier this week, Trump said he would back Republican proposals to halt exports of diesel in order to ease prices ahead of mid-term elections in November. US Treasury sec…",
+          "press": "OilPrice.com",
+          "time": "2026-09-25T15:00:00Z",
+          "url": "https://oilprice.com/Energy/Energy-General/Trumps-Diesel-Export-Threat-Puts-Britain-on-Edge.html"
         },
         {
-          "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
-          "summary": "IAEA raises its nuclear forecast as small modular reactors gain momentum, with the NRC fast-tracking a new SMR project in Michigan.",
-          "press": "OilPrice",
-          "time": "2026-09-19T17:00:00Z",
-          "url": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html"
+          "title": "Delightful pages from 1983 's Uncanny X-Men Super Activity Book (Art roundup)",
+          "summary": "Today I obtained arguably the greatest X-Men story of all time: the saga of the Alphabet Pet as featured in the Uncanny X-Men Super Activity Book.[image or embed]\r\n— Anna F Peppard PhD (@annapeppard.bsky.social) August 29, 2026 at 4:11 PM\n\n\n\n\n\n\n\n\n\n\n\n \r\nView t…",
+          "press": "Superpunch.net",
+          "time": "2026-09-25T14:30:00Z",
+          "url": "https://www.superpunch.net/2026/09/art-roundup_01056004380.html"
         },
         {
-          "title": "NuScale Power Is Launching AI Tools for Nuclear Power. How to Play SMR Stock Here.",
-          "summary": "NuScale Power is launching AI tools to support its groundbreaking SMR technology.",
-          "press": "Barchart",
-          "time": "2026-08-27T19:54:29Z",
-          "url": "https://www.barchart.com/story/news/4239486/nuscale-power-is-launching-ai-tools-for-nuclear-power-how-to-play-smr-stock-here"
+          "title": "Quantum Computers Just Recreated How Matter Was Born In The Big Bang",
+          "summary": "Researchers have successfully simulated the birth of fundamental matter on three separate quantum computers, replicating subatomic phenomena observed only in particle colliders or in situ at the immediate aftermath of the Big Bang.\n\nCentral to the breakthroug…",
+          "press": "Hot Hardware",
+          "time": "2026-09-25T14:23:00Z",
+          "url": "https://hothardware.com/news/physicists-just-simulated-the-big-bang-on-three-quantum-computers"
+        },
+        {
+          "title": "Health spending helped push New Brunswick deficit to record $1.3B in last fiscal year - New Brunswick | Globalnews.ca",
+          "summary": "Health spending helped push New Brunswick deficit to record $1.3B in last fiscal year - New Brunswick | Globalnews.caglobalnews.ca",
+          "press": "Global News",
+          "time": "2026-09-25T14:14:22Z",
+          "url": "https://globalnews.ca/news/12072903/new-brunswick-fiscal-update-3/"
+        },
+        {
+          "title": "The U.S.-Saudi Nuclear Agreement Carries Dangerous Proliferation Risks",
+          "summary": "Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons.",
+          "press": "Foreign Policy",
+          "time": "2026-09-25T14:03:14Z",
+          "url": "http://foreignpolicy.com/2026/09/25/saudi-nuclear-agreement-dangerous-proliferation-risks-trump-riyadh-mbs/"
+        },
+        {
+          "title": "Integrating zero-inflation correction and transcriptional kinetics for single-cell transcriptomic analysis",
+          "summary": "Author summary Single-cell studies demonstrate that gene expression is an inherently stochastic process driven by transcriptional bursting. Genes randomly toggle between active and inactive states, causing variable mRNA abundance even among genetically identi…",
+          "press": "Plos.org",
+          "time": "2026-09-25T14:00:00Z",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014779"
+        },
+        {
+          "title": "Is AI Going To Wipe Out Humanity? Don't Build That Bunker Yet.",
+          "summary": "Measures to slow AI development are more likely to trigger human lawsuits against AI companies than accomplish anything useful.",
+          "press": "Reason",
+          "time": "2026-09-25T13:43:22Z",
+          "url": "https://reason.com/2026/09/25/is-ai-going-to-wipe-out-humanity-dont-build-that-bunker-yet/"
+        },
+        {
+          "title": "Gas topped the equivalent of $12 a gallon in parts of Europe—and consumers are spending an extra $231 million a day on diesel",
+          "summary": "European governments are rolling out tax cuts, subsidies and other relief as soaring gasoline and diesel prices squeeze households and businesses.",
+          "press": "Fortune",
+          "time": "2026-09-25T13:41:25Z",
+          "url": "https://fortune.com/2026/09/25/europe-gas-diesel-fuel-prices/"
+        },
+        {
+          "title": "Trump-Xi Summit: Heavy of Vibes, Light on Substance",
+          "summary": "Good feelings were on display, but there was no real movement on the many areas of friction.",
+          "press": "The Diplomat",
+          "time": "2026-09-25T13:22:00Z",
+          "url": "https://thediplomat.com/2026/09/trump-xi-summit-heavy-of-vibes-light-on-substance/"
+        },
+        {
+          "title": "Italy Returns to Nuclear After 40-Year Hiatus",
+          "summary": "For the first time in nearly four decades, Italy is considering nuclear power as part of its energy calculus. The Italian Senate on Wednesday gave final approval to a government plan to restart nuclear power generation, Reuters said, almost 40 years after a r…",
+          "press": "OilPrice.com",
+          "time": "2026-09-24T19:00:00Z",
+          "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Italy-Returns-to-Nuclear-After-40-Year-Hiatus.html"
         }
       ]
     },
