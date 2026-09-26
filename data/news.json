@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T15:07:42.286100+00:00",
+  "updated": "2026-09-26T18:33:35.642195+00:00",
   "provider": "gnews,newsapi",
   "categories": {
     "ai": {
@@ -7,6 +7,55 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "OpenAI, Anthropic Brief UN Security Council On AI Risks",
+          "summary": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council (UNSC) on Sept. 23, according to CNBC and Reuters. The session, convened by France, examined artificial intelligence (AI) risks and their implications for international security. The UN confirmed Altman ",
+          "press": "Natural News",
+          "time": "2026-09-26T04:49:27Z",
+          "url": "https://www.naturalnews.com/2026-09-26-openai-anthropic-brief-unsc-on-ai-risks.html"
+        },
+        {
+          "title": "MLB postseason urgency index 2026",
+          "summary": "Everybody’s talking about AI. They ought to be talking about UI.\nThat’s the Urgency Index, the technology that is arguably more vital than artificial intelligence. Each year at this time, UI tells us how important, on a scale of 0 to 10, a World Series title would be to a",
+          "press": "MLB News",
+          "time": "2026-09-26T04:32:15Z",
+          "url": "https://www.mlb.com/news/mlb-postseason-urgency-index-2026"
+        },
+        {
+          "title": "Billionaire investor warns of risk building beneath AI boom",
+          "summary": "Thanks to artificial intelligence, Wall Street has seen one of its largest investment booms.",
+          "press": "EUROPE SAYS",
+          "time": "2026-09-26T04:03:33Z",
+          "url": "https://www.europesays.com/3273192/"
+        },
+        {
+          "title": "The US wants the world to pick a side on AI. But for many countries, China’s pitch may be more compelling",
+          "summary": "The rapid advances of Chinese artificial intelligence over the past year seem to have alerted Washington to the real possibility that the world’s second-largest economy could pull ahead of the United States in an increasingly tight technology race.",
+          "press": "Cable News Network",
+          "time": "2026-09-26T04:00:29Z",
+          "url": "https://edition.cnn.com/2026/09/26/tech/us-china-ai-explainer-intl-hnk"
+        },
+        {
+          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+          "summary": "SAN FRANCISCO (AP) — OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, di",
+          "press": "WTOP",
+          "time": "2026-09-26T03:48:28Z",
+          "url": "https://wtop.com/national/2026/09/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
+        },
+        {
+          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+          "summary": "OpenAI has disclosed its artificial intelligence models have interacted with U.S. government websites in unexpected ways.",
+          "press": "WDIV ClickOnDetroit",
+          "time": "2026-09-26T03:42:53Z",
+          "url": "https://www.clickondetroit.com/business/2026/09/26/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
+        },
+        {
+          "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+          "summary": "SAN FRANCISCO (AP) — OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the company's models' unanticipated behavior.",
+          "press": "U.S. News & World Report",
+          "time": "2026-09-26T03:42:00Z",
+          "url": "https://www.usnews.com/news/business/articles/2026-09-25/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure"
+        },
         {
           "title": "Try Not to Laugh as Kamala Harris Explains Artificial Intelligence and Algorithms (VIDEO)",
           "summary": "During a recent podcast appearance, former Vice President Kamala Harris tried to explain artificial intelligence and algorithms.",
@@ -27,55 +76,6 @@
           "press": "U.S. News & World Report",
           "time": "2026-09-25T22:57:00Z",
           "url": "https://www.usnews.com/news/world/articles/2026-09-25/un-tries-to-build-momentum-on-pandemic-preparedness-but-hits-a-speed-bump"
-        },
-        {
-          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
-          "summary": "OpenAI has disclosed its artificial intelligence models have interacted with U.S. government websites in unexpected ways. SAN FRANCISCO (AP) —",
-          "press": "Breitbart News Network",
-          "time": "2026-09-25T21:19:27Z",
-          "url": "https://www.breitbart.com/news/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
-        },
-        {
-          "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
-          "summary": "By Clare Duffy, Hadas Gold, CNN New York (CNN) — The Department of Defense can blacklist Anthropic’s artificial intelligence technology, a federal appeals court ruled on Friday. The decision is a blow to Anthropic after it won a separate challenge in a California court in August that partially inval",
-          "press": "ABC17News.com",
-          "time": "2026-09-25T21:02:39Z",
-          "url": "https://abc17news.com/money/cnn-business-consumer/2026/09/25/federal-appeals-court-rules-pentagons-blacklist-of-anthropic-was-legal/"
-        },
-        {
-          "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
-          "summary": "The Department of Defense can blacklist Anthropic’s artificial intelligence technology, a federal appeals court ruled on Friday. The decision is a blow to Anthropic after it won a separate challenge in a California court in August that partially invalidated the Trump administration’s label.",
-          "press": "Cable News Network",
-          "time": "2026-09-25T21:02:39Z",
-          "url": "https://edition.cnn.com/2026/09/25/tech/anthropic-pentagon-blacklist-dc-ruling"
-        },
-        {
-          "title": "AI Daily: Akamai announces $11.6B agreement with Anthropic",
-          "summary": "Catch up on the top artificial intelligence news and commentary by Wall Street analysts on publicly traded companies in the space with this dail...",
-          "press": "Markets Insider",
-          "time": "2026-09-25T20:55:20Z",
-          "url": "https://markets.businessinsider.com/news/stocks/ai-daily-akamai-announces-11-6b-agreement-with-anthropic-1036575813"
-        },
-        {
-          "title": "Syracuse University launches artificial intelligence research institute",
-          "summary": "Syracuse University's new Institute for Artificial Intelligence brings together researchers to study security, governance, and societal impacts.",
-          "press": "syracuse.com",
-          "time": "2026-09-25T20:02:24Z",
-          "url": "https://www.syracuse.com/syracuse-university/2026/09/syracuse-university-launches-artificial-intelligence-research-institute.html"
-        },
-        {
-          "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
-          "summary": "Joe Lonsdale, an investor in Anthropic and the co-founder of technology company Palantir , said ​on Friday that efforts by some leading artificial intelligence companies to warn of existential risks from AI amounted to a dangerous ‌attempt to shape public policy.",
-          "press": "Reuters",
-          "time": "2026-09-25T18:52:46Z",
-          "url": "https://www.reuters.com/business/media-telecom/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-sway-policy-2026-09-25/"
-        },
-        {
-          "title": "AI 'doomer' PR firm worked for Jacob Coxon as he sparked furor over safety while denying third-party help: report",
-          "summary": "A prominent PR firm with ties to AI doomsayers worked for Jacob Coxon as the ex-Anthropic researcher made national headlines for sounding the knell of the apocalypse about artificial intelligence, according to a report.",
-          "press": "New York Post",
-          "time": "2026-09-25T18:52:04Z",
-          "url": "https://nypost.com/2026/09/25/business/ai-doomer-pr-firm-worked-for-jacob-coxon-as-he-sparked-furor-over-safety-while-denying-third-party-help-report/"
         }
       ]
     },
@@ -84,6 +84,48 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders",
+          "summary": "Chip stocks rebounded on Friday after declining for two straight days. Tower Semiconductor was among the leaders.\nThe post Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders. appeared first on Investor's Business Daily.",
+          "press": "Biztoc.com",
+          "time": "2026-09-25T18:22:42Z",
+          "url": "https://biztoc.com/x/03dcce36c4c93b10"
+        },
+        {
+          "title": "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders.",
+          "summary": "Chip stocks rebounded on Friday after declining for two straight days. Tower Semiconductor was among the leaders.",
+          "press": "Investor's Business Daily",
+          "time": "2026-09-25T18:20:27Z",
+          "url": "https://www.investors.com/news/technology/chip-stocks-rise-after-two-day-skid-tower-semiconductor-among-leaders/"
+        },
+        {
+          "title": "Other Barks & Bites for Friday, September 25: UPC Will Hear Noninfringement Claim to Pre-Issue Patent; DEFEND IP Act Introduced to Target Foreign Piracy Sites; and Judge Rogers Dissents from D.C. Circuit’s Royalty Allocation Ruling",
+          "summary": "This week in Other Barks & Bites: Regulatory hurdles lead Oracle to send a force majeure notice related to its New Mexico data center project; the companion bill for the DEFEND IP Act is introduced into the U.S House of Representatives; the European Union Int…",
+          "press": "IPWatchdog.com",
+          "time": "2026-09-25T18:15:31Z",
+          "url": "https://ipwatchdog.com/2026/09/25/bites-barks-defend-ip-act-introduced-to-target-foreign-piracy-sites-judge-rogers-dissents-from-dc-circ/"
+        },
+        {
+          "title": "AI boom raises ‘too-big-to-fail’ concerns as ecosystem expands, says Kansas Fed's Jeff Schmid",
+          "summary": "Kansas City Federal Reserve President Jeff Schmid has expressed concerns about the interconnectedness of the artificial intelligence industry. He emphasized the need for better understanding of the emerging AI ecosystem and its economic significance. Schmid d…",
+          "press": "The Times of India",
+          "time": "2026-09-25T17:45:51Z",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-boom-raises-too-big-to-fail-concerns-as-ecosystem-expands-says-kansas-feds-jeff-schmid/articleshow/134490358.cms"
+        },
+        {
+          "title": "Overlord Labs Closes Oversubscribed Seed Financing, Bringing Total Funding to $10 Million to Advance Battery Intelligence for Edge AI Devices",
+          "summary": "SAN JOSE, Calif., Sept. 25, 2026 /PRNewswire/ -- Overlord Labs, Inc., a fabless semiconductor company building battery intelligence infrastructure for compute-intensive, battery-powered devices, today announced the close of its oversubscribed Seed financing, …",
+          "press": "PRNewswire",
+          "time": "2026-09-25T17:00:00Z",
+          "url": "https://www.prnewswire.com/news-releases/overlord-labs-closes-oversubscribed-seed-financing-bringing-total-funding-to-10-million-to-advance-battery-intelligence-for-edge-ai-devices-302890280.html"
+        },
+        {
+          "title": "Exclusive-SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say",
+          "summary": "NEW YORK, Sept 25 : Chipmaker SK Hynix's Solidigm is considering an initial public offering as early as next year that could value the US subsidiary at up to $150 billion, according to three people familiar with the matter. Solidigm held pitch meetings this w…",
+          "press": "CNA",
+          "time": "2026-09-25T16:48:42Z",
+          "url": "https://www.channelnewsasia.com/business/exclusive-sk-hynixs-solidigm-weighs-ipo-could-value-unit-up-150-billion-sources-say-6411646"
+        },
         {
           "title": "Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub",
           "summary": "Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.",
@@ -111,48 +153,6 @@
           "press": "PRNewswire",
           "time": "2026-09-25T14:01:00Z",
           "url": "https://www.prnewswire.com/news-releases/position-sensor-market-worth-23-40-billion-by-2032---exclusive-report-by-marketsandmarkets-302889080.html"
-        },
-        {
-          "title": "Position Sensor Market worth $23.40 billion by 2032 - Exclusive Report by MarketsandMarkets™",
-          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Position Sensor Market is projected to grow from USD 14.53 billion in 2026 to USD 23.40 billion by 2032, at a CAGR of 8.3% during the forecast period. Browse 150 market da…",
-          "press": "PR Newswire UK",
-          "time": "2026-09-25T14:01:00Z",
-          "url": "https://www.prnewswire.co.uk/news-releases/position-sensor-market-worth-23-40-billion-by-2032---exclusive-report-by-marketsandmarkets-302889084.html"
-        },
-        {
-          "title": "More agents go rogue — but AI companies aren’t slowing down yet",
-          "summary": "It’s becoming more apparent every day that artificial intelligence agents are escaping our control — but it’s not yet apparent who or what is going to rein them in. This week a researcher found that a swarm of AI agents, at least two of them from OpenAI, hack…",
-          "press": "SiliconANGLE News",
-          "time": "2026-09-25T14:00:16Z",
-          "url": "https://siliconangle.com/2026/09/25/more-agents-go-rogue-but-ai-companies-arent-slowing-down-yet/"
-        },
-        {
-          "title": "Thai finance minister sees 2.5% growth next year on investment-led policies",
-          "summary": "BANGKOK, Sept 25 : Thailand's economy is expected to retain its momentum and grow by 2.5 per cent next year and could reach 3 per cent expansion within the next three years, the finance minister said on Friday, as the government pushes for new investments int…",
-          "press": "CNA",
-          "time": "2026-09-25T13:41:54Z",
-          "url": "https://www.channelnewsasia.com/business/thai-finance-minister-sees-25-growth-next-year-investment-led-policies-6411271"
-        },
-        {
-          "title": "189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club",
-          "summary": "The post 189%: The Year to Date Number That Pushed AMD Into the Trillion Dollar Club appeared first on 24/7 Wall St..\nAMD (NASDAQ:AMD) just did something few semiconductor companies ever accomplish: it joined the trillion dollar club. Shares are up 187.87% ye…",
-          "press": "Biztoc.com",
-          "time": "2026-09-25T13:08:12Z",
-          "url": "https://biztoc.com/x/87e998b9a4d83e34"
-        },
-        {
-          "title": "Gamemax RGB PRO 750G power supply review: Efficient, but pricey for an average unit with pretty lights",
-          "summary": "Gamemax charges $105 for an average power supply with RGB lighting. The Sohoo platform underneath measures well enough, but the fan, the capacitors, and the warranty all sit below what the price should buy.",
-          "press": "Tom's Hardware UK",
-          "time": "2026-09-25T13:00:00Z",
-          "url": "https://www.tomshardware.com/pc-components/power-supplies/gamemax-rgb-pro-750g-power-supply-review"
-        },
-        {
-          "title": "Why investors need to be cautious after run-up in small-cap funds",
-          "summary": "With pockets of this segment turning expensive, investors should rebalance if overweight and invest in a staggered manner",
-          "press": "Business Standard",
-          "time": "2026-09-25T12:49:23Z",
-          "url": "https://www.business-standard.com/finance/personal-finance/why-investors-need-to-be-cautious-after-run-up-in-small-cap-funds-126092500963_1.html"
         }
       ]
     },
@@ -161,6 +161,20 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Bu Tan Is Impressed By Photonic Quantum Computing",
+          "summary": "Intel CEO Lip-Bu Tan believes that for quantum computing to be viable, companies have to address market areas with actual demand. The executive discussed",
+          "press": "EUROPE SAYS",
+          "time": "2026-09-26T04:04:30Z",
+          "url": "https://www.europesays.com/3273194/"
+        },
+        {
+          "title": "Quantum computing could help cut US reliance on China rare earths",
+          "summary": "Quantum computing could help the U.S. reduce reliance on China for critical rare earth elements. Pasqal is partnering with USA Rare Earth and Riven Systems to improve processing efficiency.",
+          "press": "Fox Business",
+          "time": "2026-09-26T03:57:46Z",
+          "url": "https://www.foxbusiness.com/technology/quantum-computing-could-help-us-reduce-reliance-chinas-rare-earth-supply-chain-tech-ceo-says"
+        },
         {
           "title": "Intel CEO Lip-Bu Tan Is Impressed By Photonic Quantum Computing",
           "summary": "Tan calls agentic AI 'amazing' and checks its progress first thing each morning — the same tech he says will drive CPU demand.",
@@ -216,20 +230,6 @@
           "press": "Scientific American",
           "time": "2026-09-22T18:00:00Z",
           "url": "https://www.scientificamerican.com/article/why-mathematicians-are-hiding-research-results-in-zero-knowledge-proofs/"
-        },
-        {
-          "title": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
-          "summary": "Quantum computing stocks are struggling with a major industry conference on tap as investors eye roadmap to commercialization.",
-          "press": "Investor's Business Daily",
-          "time": "2026-09-22T12:00:23Z",
-          "url": "https://www.investors.com/news/technology/quantum-computing-stocks-world-quantum-conference-2026/"
-        },
-        {
-          "title": "British quantum computing company establishing US headquarters in Arlington",
-          "summary": "British quantum computing company Phasecraft is opening its U.S. headquarters in Arlington, Virginia, Gov. Abigail Spanberger announced Monday.The company plans",
-          "press": "WJLA",
-          "time": "2026-09-21T14:22:56Z",
-          "url": "https://wjla.com/news/local/british-quantum-computing-company-establishing-us-headquarters-arlington-virginia-abigail-spanberger-jobs-economy-construction-growth-property"
         }
       ]
     },
@@ -239,74 +239,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Triptii Dimri reveals what she does when work gets hectic: 'Laila' shares her simple home remedy, self-care ritual and one thing she avoids",
-          "summary": "Triptii Dimri has shared her simple approach to skincare and self-care, revealing that she often relies on traditional home remedies such as besan, curd and turmeric packs. In an interview, the actor also spoke about avoiding extreme beauty trends, taking qui…",
-          "press": "The Times of India",
-          "time": "2026-09-25T14:57:09Z",
-          "url": "https://economictimes.indiatimes.com/news/new-updates/triptii-dimri-reveals-what-she-does-when-work-gets-hectic-laila-shares-her-simple-home-remedy-self-care-ritual-and-one-thing-she-avoids/articleshow/134487893.cms"
+          "title": "Julia Morris on returning to 'school' with fresh ADHD diagnosis",
+          "summary": "The principal of Class Clowns Academy — an admittedly fake school whose only pupils are comedians — talks returning to the classroom for her new show, as someone diagnosed with ADHD later in life.",
+          "press": "ABC News (AU)",
+          "time": "2026-09-25T18:30:00Z",
+          "url": "https://www.abc.net.au/news/2026-09-26/julia-morris-im-a-celebrity-jungle-class-clowns-school-adhd/107184692"
         },
         {
-          "title": "WhiteFiber Continuum Goes Commercial, Scaling Its 83 km Two-Site GPU Supercluster Design to 136 Tbps",
-          "summary": "WhiteFiber has made WhiteFiber Continuum commercially available, turning the two-site GPU supercluster it first detailed as Project Redwood in July into a product enterprises can deploy. WhiteFiber calls Continuum its highest-performance cross-data-center net…",
-          "press": "Storagereview.com",
-          "time": "2026-09-25T14:56:39Z",
-          "url": "https://www.storagereview.com/news/whitefiber-continuum-goes-commercial-scaling-its-83-km-two-site-gpu-supercluster-design-to-136-tbps"
+          "title": "Jeff Koons On Balloon Dogs, Time and Why He Changed His Mind About Luxury",
+          "summary": "Marking his new collaboration with watchmaker Hublot, the artist describes how a small object like a watch can carry the same philosophical weight as a monumental sculpture. For Koons, the collaboration circles back to a familiar theme in his work: how object…",
+          "press": "Observer",
+          "time": "2026-09-25T18:08:23Z",
+          "url": "https://observer.com/2026/09/artist-interview-jeff-koons-luxury-hublot-watches-balloon-dog/"
         },
         {
-          "title": "Assistant – Royalty Accounting – Y Royalties – London",
-          "summary": "ABOUT Y ROYALTIES Y Royalties is a data-led and innovative workplace with a growing presence in the music rights space. We sit at the crossroads of music, data and finance […]\nThe post is from Music Ally.",
-          "press": "Music Ally",
-          "time": "2026-09-25T14:50:31Z",
-          "url": "https://musically.com/2026/09/25/assistant-royalty-accounting-y-royalties-london/"
+          "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
+          "summary": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
+          "press": "Highsnobiety",
+          "time": "2026-09-25T18:03:51Z",
+          "url": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/"
         },
         {
-          "title": "Tesla ramps Optimus to hundreds a week, but the robots can’t generalize",
-          "summary": "Tesla is now building several hundred Optimus humanoid robots per week at Fremont, roughly 10 times its Q2 output, according to a new report. But the robots coming off the line still can’t handle generalized tasks – limiting their usefulness.\n\n\n\nThe report al…",
-          "press": "Electrek",
-          "time": "2026-09-25T14:45:34Z",
-          "url": "http://electrek.co/2026/09/25/tesla-optimus-production-ramp-hands-ai-generalization-problems/"
+          "title": "AI Companies’ Shaky New Plan to Police Themselves",
+          "summary": "Third-party evaluators will be allowed inside companies to monitor the models. But how much access and influence will they really have?",
+          "press": "The Atlantic",
+          "time": "2026-09-25T17:56:16Z",
+          "url": "https://www.theatlantic.com/technology/2026/09/ai-companies-evaluators-risk/688785/?utm_source=feed"
         },
         {
-          "title": "Shadow AI Risk & Governance Market worth $8.64 billion by 2032 - Exclusive Report by MarketsandMarkets™",
-          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Shadow AI Risk & Governance Market is projected to grow from USD 1.39 billion in 2026 to USD 8.64 billion by 2032 at a CAGR of 35.6% during the forecast period. Browse 400…",
-          "press": "PR Newswire UK",
-          "time": "2026-09-25T14:30:00Z",
-          "url": "https://www.prnewswire.co.uk/news-releases/shadow-ai-risk--governance-market-worth-8-64-billion-by-2032--exclusive-report-by-marketsandmarkets-302889437.html"
+          "title": "EB5 Capital Announces I-956F Approval for JF47 – The Aletto at Boca Raton",
+          "summary": "I-956F approval clears path for investor green card petitions through first trophy office in downtown Boca Raton in 25+ years WASHINGTON, Sept. 25, 2026 (GLOBE NEWSWIRE) — EB5 Capital announced today that the United States Citizenship and Immigration Services…",
+          "press": "Financial Post",
+          "time": "2026-09-25T17:43:42Z",
+          "url": "https://financialpost.com/globe-newswire/eb5-capital-announces-i-956f-approval-for-jf47-the-aletto-at-boca-raton"
         },
         {
-          "title": "Liquid Handling System Market worth $7.79 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Liquid Handling System Market is projected to reach USD 7.79 billion by 2031 from USD 5.26 billion in 2026, at a CAGR of 8.2% during the forecast period. Browse 250 market…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T14:30:00Z",
-          "url": "https://www.prnewswire.com/news-releases/liquid-handling-system-market-worth-7-79-billion-by-2031---exclusive-report-by-marketsandmarkets-302889228.html"
+          "title": "Asteroids Named After Tom Lehrer and 'Weird Al' Yankovic",
+          "summary": "\"Weird Al\" Yankovic's name has just been approved for a new asteroid — (14331) Alyankovic = 1981 EC26 — by the International Astronomical Union, reports Space.com. \n\nYankovic's asteroid was championed by planetary scientist Allison McGraw joined by \"several h…",
+          "press": "Slashdot.org",
+          "time": "2026-09-25T17:34:00Z",
+          "url": "https://science.slashdot.org/story/26/09/24/009238/asteroids-named-after-tom-lehrer-and-weird-al-yankovic"
         },
         {
-          "title": "Nebraska’s Offense Looks the Part — Now Comes the Real Test",
-          "summary": "Three games. Three wins. Plenty of points and, perhaps most importantly, an offense that finally looks like it has multiple ways to hurt a defense. Nebraska cruised through its non-conference schedule at 3-0, averaging 46.7 points and more than 520 yards of o…",
-          "press": "Corn Nation",
-          "time": "2026-09-25T14:30:00Z",
-          "url": "https://www.cornnation.com/nebraska-football-recruiting/102113/nebraskas-offense-looks-the-part-now-comes-the-real-test"
+          "title": "Trump to usher in ‘golden age’ of American tech with DC bash showcasing powerful new tool",
+          "summary": "Trump and JD Vance will unveil America.gov, a new AI tool designed to be a one-stop shop for navigating federal government services.",
+          "press": "Fox News",
+          "time": "2026-09-25T16:49:56Z",
+          "url": "https://www.foxnews.com/politics/trump-usher-golden-age-american-tech-dc-bash-showcasing-powerful-new-tool"
         },
         {
-          "title": "Liquid Handling System Market worth $7.79 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Liquid Handling System Market is projected to reach USD 7.79 billion by 2031 from USD 5.26 billion in 2026, at a CAGR of 8.2% during the forecast period. Browse 250 market…",
-          "press": "PR Newswire UK",
-          "time": "2026-09-25T14:30:00Z",
-          "url": "https://www.prnewswire.co.uk/news-releases/liquid-handling-system-market-worth-7-79-billion-by-2031---exclusive-report-by-marketsandmarkets-302889231.html"
+          "title": "From rappers to nonnas, Demna hits shuffle on Gucci stereotypes for SS27",
+          "summary": "For the Georgian designer’s third runway show as creative director, at Milan Fashion Week, Demna took inspiration from the characters who have shaped the brand's legacy",
+          "press": "Dazed",
+          "time": "2026-09-25T16:48:00Z",
+          "url": "https://www.dazeddigital.com/fashion/article/71042/1/demna-hits-shuffle-on-gucci-stereotypes-for-ss27-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-rappers-to-nonnas-demna-hits-shuffle-on-gucci-stereotypes-for-ss27"
         },
         {
-          "title": "Shadow AI Risk & Governance Market worth $8.64 billion by 2032 - Exclusive Report by MarketsandMarkets™",
-          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Shadow AI Risk & Governance Market is projected to grow from USD 1.39 billion in 2026 to USD 8.64 billion by 2032 at a CAGR of 35.6% during the forecast period. Browse 400…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T14:30:00Z",
-          "url": "https://www.prnewswire.com/news-releases/shadow-ai-risk--governance-market-worth-8-64-billion-by-2032--exclusive-report-by-marketsandmarkets-302889440.html"
+          "title": "Big Tech Is Destroying Democracy. Here’s How to Fight Back.",
+          "summary": "A conversation with Nobel laureate Maria Ressa.",
+          "press": "Foreign Policy",
+          "time": "2026-09-25T16:43:45Z",
+          "url": "http://foreignpolicy.com/2026/09/25/maria-ressa-big-tech-democracy-ai-autocracy/"
         },
         {
-          "title": "Whisker's forthcoming debut album 'Can’t You Feel It?' draws on memory, family and Rock ’n’ Roll [Interview]",
-          "summary": "For Los Angeles singer-songwriter, producer, and multi-instrumentalist Shane Patrick Cronin, music has always been part of the landscape. Growing up as the son of REO Speedwagon frontman Kevin Cronin, he…\nThe post Whisker's forthcoming debut album 'Can’t You …",
-          "press": "Earmilk.com",
-          "time": "2026-09-25T14:28:22Z",
-          "url": "https://earmilk.com/2026/09/25/whisker-steps-album-cant-you-feel-it-interview/"
+          "title": "4 Astronauts Headed Into Space for ISS Mission",
+          "summary": "NASA’s SpaceX Crew-14 will send four astronauts to the ISS in 2027 for science research supporting Moon and Mars missions.",
+          "press": "Incrediblethings.com",
+          "time": "2026-09-25T18:31:47Z",
+          "url": "https://incrediblethings.com/nasa-spacex-crew-14-mission/"
         }
       ]
     },
@@ -315,6 +315,13 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Kraken Robotics Systems Inc (PNG) Receives a Buy from RBC Capital",
+          "summary": "In a report released yesterday, James McGarragle CFA from RBC Capital maintained a Buy rating on Kraken Robotics Systems Inc, with a price targe...",
+          "press": "Markets Insider",
+          "time": "2026-09-26T03:46:27Z",
+          "url": "https://markets.businessinsider.com/news/stocks/kraken-robotics-systems-inc-png-receives-a-buy-from-rbc-capital-1036575930"
+        },
         {
           "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
           "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
@@ -377,13 +384,6 @@
           "press": "Fortune",
           "time": "2026-09-24T07:00:00Z",
           "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/"
-        },
-        {
-          "title": "Why Banning AI Won't Save Jobs: It Will Only Guarantee Economic Collapse",
-          "summary": "AI and robotics pose macroeconomic risks by accelerating productivity beyond market demand, risking mass unemployment and deflationary spirals. Click for more.",
-          "press": "Seeking Alpha",
-          "time": "2026-09-23T23:08:41Z",
-          "url": "https://seekingalpha.com/article/4949188-why-banning-ai-wont-save-jobs-it-will-only-guarantee-economic-collapse"
         }
       ]
     },
@@ -393,74 +393,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Trump’s Diesel Export Threat Puts Britain on Edge",
-          "summary": "President Trump’s newest trade threat sent markets into a frenzy once again on Friday.  Earlier this week, Trump said he would back Republican proposals to halt exports of diesel in order to ease prices ahead of mid-term elections in November. US Treasury sec…",
-          "press": "OilPrice.com",
-          "time": "2026-09-25T15:00:00Z",
-          "url": "https://oilprice.com/Energy/Energy-General/Trumps-Diesel-Export-Threat-Puts-Britain-on-Edge.html"
+          "title": "Foreign secretary Vikram Misri flags tariff move in talks with US undersecretary",
+          "summary": "India's Foreign Secretary Vikram Misri conducted meetings in New York regarding several bilateral issues. He raised concerns about the potential effect of Russia and Iran sanctions on India-US relations. Misri's discussions with US Undersecretary of State All…",
+          "press": "The Times of India",
+          "time": "2026-09-25T18:33:20Z",
+          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/foreign-secretary-vikram-misri-flags-tariff-move-in-talks-with-us-undersecretary/articleshow/134491135.cms"
         },
         {
-          "title": "Delightful pages from 1983 's Uncanny X-Men Super Activity Book (Art roundup)",
-          "summary": "Today I obtained arguably the greatest X-Men story of all time: the saga of the Alphabet Pet as featured in the Uncanny X-Men Super Activity Book.[image or embed]\r\n— Anna F Peppard PhD (@annapeppard.bsky.social) August 29, 2026 at 4:11 PM\n\n\n\n\n\n\n\n\n\n\n\n \r\nView t…",
-          "press": "Superpunch.net",
-          "time": "2026-09-25T14:30:00Z",
-          "url": "https://www.superpunch.net/2026/09/art-roundup_01056004380.html"
+          "title": "CISF personnel on sensitive duties to undergo psychometric assessment",
+          "summary": "The central paramilitary force will also get its medical officers and unit commanders trained to \"identify\" early behavioral changes, signs of acute stress, and psychiatric emergencies among the staff",
+          "press": "Business Standard",
+          "time": "2026-09-25T18:16:45Z",
+          "url": "https://www.business-standard.com/india-news/cisf-personnel-on-sensitive-duties-to-undergo-psychometric-assessment-126092501105_1.html"
         },
         {
-          "title": "Quantum Computers Just Recreated How Matter Was Born In The Big Bang",
-          "summary": "Researchers have successfully simulated the birth of fundamental matter on three separate quantum computers, replicating subatomic phenomena observed only in particle colliders or in situ at the immediate aftermath of the Big Bang.\n\nCentral to the breakthroug…",
-          "press": "Hot Hardware",
-          "time": "2026-09-25T14:23:00Z",
-          "url": "https://hothardware.com/news/physicists-just-simulated-the-big-bang-on-three-quantum-computers"
+          "title": "Pezeshkian tells Fox News: “Iran does not want a nuclear bomb” – “I saw Mojtaba for seven hours, he is not appearing for security reasons”",
+          "summary": "The Iranian president stressed that his country is ready to accept international inspections of its nuclear programme, but not under a regime of pressure – He accused the US and Israel of starting the war and said he had no knowledge of Chinese assistance in …",
+          "press": "Protothema.gr",
+          "time": "2026-09-25T18:01:45Z",
+          "url": "https://en.protothema.gr/2026/09/25/pezeshkian-tells-fox-news-iran-does-not-want-a-nuclear-bomb-i-saw-mojtaba-for-seven-hours-he-is-not-appearing-for-security-reasons/"
         },
         {
-          "title": "Health spending helped push New Brunswick deficit to record $1.3B in last fiscal year - New Brunswick | Globalnews.ca",
-          "summary": "Health spending helped push New Brunswick deficit to record $1.3B in last fiscal year - New Brunswick | Globalnews.caglobalnews.ca",
-          "press": "Global News",
-          "time": "2026-09-25T14:14:22Z",
-          "url": "https://globalnews.ca/news/12072903/new-brunswick-fiscal-update-3/"
+          "title": "How Greenland Fits Into the Arctic Strategies of the U.S., China, Russia and Canada",
+          "summary": "The September 22, 2026, agreement between the United States, Denmark, and Greenland expands U.S.\nThe post How Greenland Fits Into the Arctic Strategies of the U.S., China, Russia and Canada appeared first on The Gateway Pundit.",
+          "press": "Thegatewaypundit.com",
+          "time": "2026-09-25T18:00:27Z",
+          "url": "https://www.thegatewaypundit.com/2026/09/how-greenland-fits-arctic-strategies-u-s-china/"
         },
         {
-          "title": "The U.S.-Saudi Nuclear Agreement Carries Dangerous Proliferation Risks",
-          "summary": "Congress should add extra safeguards to prevent Riyadh from obtaining nuclear weapons.",
-          "press": "Foreign Policy",
-          "time": "2026-09-25T14:03:14Z",
-          "url": "http://foreignpolicy.com/2026/09/25/saudi-nuclear-agreement-dangerous-proliferation-risks-trump-riyadh-mbs/"
+          "title": "Saudis have not ruled out developing nuclear weapons, U.S. intel assesses...",
+          "summary": "Classified documents provided to Congress include an assessment by the U.S. intelligence community that Saudi Arabia has not ruled out the option of developing a nuclear weapons program, U.S. officia… [+7693 chars]",
+          "press": "Archive.is",
+          "time": "2026-09-25T18:00:12Z",
+          "url": "https://archive.is/2026.09.25-171651/https://www.washingtonpost.com/national-security/2026/09/25/saudis-have-not-ruled-out-developing-nuclear-weapons-us-intelligence-assesses/"
         },
         {
-          "title": "Integrating zero-inflation correction and transcriptional kinetics for single-cell transcriptomic analysis",
-          "summary": "Author summary Single-cell studies demonstrate that gene expression is an inherently stochastic process driven by transcriptional bursting. Genes randomly toggle between active and inactive states, causing variable mRNA abundance even among genetically identi…",
-          "press": "Plos.org",
-          "time": "2026-09-25T14:00:00Z",
-          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014779"
+          "title": "Will the AI Bubble Destroy our Retirement?",
+          "summary": "Wow, how about that stock market?  It’s a phrase we keep having to dust off and use again, as the years go by and the market keeps surprising us.  When it crashes, some of us worry because we see our retirement stash shrinking.  But even when it rises to reco…",
+          "press": "Mrmoneymustache.com",
+          "time": "2026-09-25T17:57:07Z",
+          "url": "https://www.mrmoneymustache.com/2026/09/25/will-the-ai-bubble-destroy-our-retirement/"
         },
         {
-          "title": "Is AI Going To Wipe Out Humanity? Don't Build That Bunker Yet.",
-          "summary": "Measures to slow AI development are more likely to trigger human lawsuits against AI companies than accomplish anything useful.",
-          "press": "Reason",
-          "time": "2026-09-25T13:43:22Z",
-          "url": "https://reason.com/2026/09/25/is-ai-going-to-wipe-out-humanity-dont-build-that-bunker-yet/"
+          "title": "‘Seattle’s answer to YC Demo Day’: 25 startups pitch investors from across the country at AI House",
+          "summary": "AI House brought investors from Boston, New York, Colorado, the Bay Area and other cities to Seattle for a demo day where 25 early-stage startups pitched, many of them from outside the incubator's own portfolio. The goal was to bring more outside capital to l…",
+          "press": "GeekWire",
+          "time": "2026-09-25T17:38:24Z",
+          "url": "https://www.geekwire.com/2026/seattles-answer-to-yc-demo-day-25-startups-pitch-investors-from-across-the-country-at-ai-house/"
         },
         {
-          "title": "Gas topped the equivalent of $12 a gallon in parts of Europe—and consumers are spending an extra $231 million a day on diesel",
-          "summary": "European governments are rolling out tax cuts, subsidies and other relief as soaring gasoline and diesel prices squeeze households and businesses.",
+          "title": "Rockefeller Foundation President: America is losing its global standing. Here’s how to fix it",
+          "summary": "One-third of the world sees America as a threat. Here’s how we can win back their trust.",
           "press": "Fortune",
-          "time": "2026-09-25T13:41:25Z",
-          "url": "https://fortune.com/2026/09/25/europe-gas-diesel-fuel-prices/"
+          "time": "2026-09-25T17:20:57Z",
+          "url": "https://fortune.com/2026/09/25/rockefeller-foundation-president-america-is-losing-its-global-standing-heres-how-to-fix-it/"
         },
         {
-          "title": "Trump-Xi Summit: Heavy of Vibes, Light on Substance",
-          "summary": "Good feelings were on display, but there was no real movement on the many areas of friction.",
-          "press": "The Diplomat",
-          "time": "2026-09-25T13:22:00Z",
-          "url": "https://thediplomat.com/2026/09/trump-xi-summit-heavy-of-vibes-light-on-substance/"
+          "title": "Google is launching AI chips into space to see if they survive up there",
+          "summary": "MVP is not a data center. It is a small test platform carrying four of Google's tensor processing units, or TPUs. The chips provide roughly the computing capacity of a single data-center server. Solar panels will produce about one kilowatt of electricity, eno…",
+          "press": "TechSpot",
+          "time": "2026-09-25T17:16:00Z",
+          "url": "https://www.techspot.com/news/113989-google-launching-ai-chips-space-see-if-they.html"
         },
         {
-          "title": "Italy Returns to Nuclear After 40-Year Hiatus",
-          "summary": "For the first time in nearly four decades, Italy is considering nuclear power as part of its energy calculus. The Italian Senate on Wednesday gave final approval to a government plan to restart nuclear power generation, Reuters said, almost 40 years after a r…",
-          "press": "OilPrice.com",
-          "time": "2026-09-24T19:00:00Z",
-          "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Italy-Returns-to-Nuclear-After-40-Year-Hiatus.html"
+          "title": "AI’s nuclear power push runs into cost and regulatory hurdles",
+          "summary": "Investors have poured US$4.6 billion into United States nuclear startups so far this year, up from US$3.8 billion raised in 2025. Read here",
+          "press": "Financial Post",
+          "time": "2026-09-25T16:34:31Z",
+          "url": "https://financialpost.com/commodities/energy/ais-nuclear-power-push-hurdles"
         }
       ]
     },
@@ -469,6 +469,20 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Trump-Xi state dinner at White House attended by 21 billionaires with combined wealth almost equal to Canada’s GDP",
+          "summary": "On September 24, US President Donald Trump hosted a high-profile state dinner welcoming Chinese President Xi Jinping. The event saw the presence of over 130 distinguished guests, including key figures from the tech and business sectors of both nations. The di…",
+          "press": "The Times of India",
+          "time": "2026-09-25T17:55:11Z",
+          "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-xi-state-dinner-at-white-house-attended-by-21-billionaires-with-combined-wealth-equivalent-to-almost-the-gdp-of-canada/articleshow/134490208.cms"
+        },
+        {
+          "title": "Leading Lights of AI Join Trump and Xi at State Dinner -- Anthropic's Dario Amodei Not in the Room",
+          "summary": "President Donald Trump hosted Chinese President Xi Jinping at a White House state dinner Thursday, joined by the Masters of the AI Universe. Anthropic's Dario Amodei was notably missing from the guest list that features Jensen Huang, Sam Altman, and Elon Musk…",
+          "press": "Breitbart News",
+          "time": "2026-09-25T16:39:25Z",
+          "url": "https://www.breitbart.com/tech/2026/09/25/leading-lights-of-ai-join-trump-and-xi-at-state-dinner-anthropics-dario-amodei-not-in-the-room/"
+        },
         {
           "title": "Amazon doesn’t want Meta’s AI agent to shop on its site—where does that leave users of personal bots?",
           "summary": "Meta’s Muse has gained popularity as a personal AI agent—enough for Amazon to bar it in its own business interest. Expect a corporate fight over which agents get access to what—and with luck, a treaty of mutual operability that won’t force us to hire multiple…",
@@ -524,20 +538,6 @@
           "press": "Deadline",
           "time": "2026-09-25T00:17:44Z",
           "url": "http://deadline.com/2026/09/david-ellison-trump-china-dinner-1237113399/"
-        },
-        {
-          "title": "Can You Be a Boglehead Tech Investor?",
-          "summary": "A reader, Most of my friends work in tech and while they understand the Boglehead philosophy, the concern is that there is limited upside in public equities and most of the value is captured while companies are private these days. If the most valuable new com…",
-          "press": "Awealthofcommonsense.com",
-          "time": "2026-09-24T18:46:08Z",
-          "url": "https://awealthofcommonsense.com/2026/09/can-you-be-a-boglehead-tech-investor/"
-        },
-        {
-          "title": "Trump’s dinner for Xi Jinping looks more like a Silicon Valley Summit, but China CEO's are missing; here's the guest list",
-          "summary": "US President Donald Trump's dinner with Chinese Supremo Xi Jinping is currently the talk of the tech industry as most of the business elites are invited to attend the high profile event. Here's a tentative guest list on who all are expected to at tonight's su…",
-          "press": "The Times of India",
-          "time": "2026-09-24T18:15:00Z",
-          "url": "https://economictimes.indiatimes.com/news/international/us/trumps-dinner-for-xi-jinping-looks-more-like-a-silicon-valley-summit-but-china-ceos-are-missing-heres-the-guest-list/articleshow/134467886.cms"
         }
       ]
     }
