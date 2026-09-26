@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:33:35.642195+00:00",
+  "updated": "2026-09-26T21:29:55.394273+00:00",
   "provider": "gnews,newsapi",
   "categories": {
     "ai": {
@@ -7,6 +7,27 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "AI overreliance at work risks eroding people skills, expert warns",
+          "summary": "Overreliance on artificial intelligence in the workplace may be eroding people skills and interpersonal communication, according to an etiquette and protocol expert.",
+          "press": "Fox Business",
+          "time": "2026-09-26T09:09:29Z",
+          "url": "https://www.foxbusiness.com/technology/overreliance-ai-could-replace-social-intelligence-workplace-protocol-expert-warns"
+        },
+        {
+          "title": "How the AI ‘tidal wave’ is transforming LSU",
+          "summary": "Generative artificial intelligence tools are radically changing the student experience at LSU.",
+          "press": "Baton Rouge Advocate",
+          "time": "2026-09-26T09:00:00Z",
+          "url": "https://www.theadvocate.com/baton_rouge/news/education/lsu-students-faculty-ai-use/article_200e7dcf-1cb3-48b9-a4d1-c892733eeceb.html"
+        },
+        {
+          "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+          "summary": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
+          "press": "NPR",
+          "time": "2026-09-26T06:59:45Z",
+          "url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity"
+        },
         {
           "title": "OpenAI, Anthropic Brief UN Security Council On AI Risks",
           "summary": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei briefed the United Nations Security Council (UNSC) on Sept. 23, according to CNBC and Reuters. The session, convened by France, examined artificial intelligence (AI) risks and their implications for international security. The UN confirmed Altman ",
@@ -55,27 +76,6 @@
           "press": "U.S. News & World Report",
           "time": "2026-09-26T03:42:00Z",
           "url": "https://www.usnews.com/news/business/articles/2026-09-25/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure"
-        },
-        {
-          "title": "Try Not to Laugh as Kamala Harris Explains Artificial Intelligence and Algorithms (VIDEO)",
-          "summary": "During a recent podcast appearance, former Vice President Kamala Harris tried to explain artificial intelligence and algorithms.",
-          "press": "The Gateway Pundit",
-          "time": "2026-09-26T03:00:43Z",
-          "url": "https://www.thegatewaypundit.com/2026/09/try-not-laugh-as-kamala-harris-explains-artificial/"
-        },
-        {
-          "title": "Synopsys Stock Gets New Street-High $700 Price Target from HSBC - Here’s Why",
-          "summary": "Chip design software company Synopsys (SNPS) received a major upgrade from HSBC (HSBC) on Friday as the bank argued that artificial intelligence...",
-          "press": "Markets Insider",
-          "time": "2026-09-25T23:45:00Z",
-          "url": "https://markets.businessinsider.com/news/stocks/synopsys-stock-gets-new-street-high-700-price-target-from-hsbc-here-s-why-1036575879"
-        },
-        {
-          "title": "UN Tries to Build Momentum on Pandemic Preparedness, but Hits a Speed Bump",
-          "summary": "NEW YORK (AP) — Six years after COVID-19 forced the U.N. General Assembly 's annual meeting of world leaders to go virtual for the first time ever, pandemics no longer dominate the conversation at the global gathering. Wars, natural disasters, geopolitical polarization and this year's hot-button wor",
-          "press": "U.S. News & World Report",
-          "time": "2026-09-25T22:57:00Z",
-          "url": "https://www.usnews.com/news/world/articles/2026-09-25/un-tries-to-build-momentum-on-pandemic-preparedness-but-hits-a-speed-bump"
         }
       ]
     },
@@ -84,6 +84,13 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
+          "summary": "The visit comes at an important time for both men.",
+          "press": "NPR",
+          "time": "2026-09-25T19:11:47Z",
+          "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
+        },
         {
           "title": "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders",
           "summary": "Chip stocks rebounded on Friday after declining for two straight days. Tower Semiconductor was among the leaders.\nThe post Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders. appeared first on Investor's Business Daily.",
@@ -141,18 +148,11 @@
           "url": "https://techpinions.com/memory-shortage-smartphone-prices-ai-2026/"
         },
         {
-          "title": "CEA flags US ties, energy as headwinds, calls for strategic buffers",
-          "summary": "CEA V Anantha Nageswaran says India cannot afford to choose between global blocs and must build strategic buffers and forge partnerships with foreign technology firms",
-          "press": "Business Standard",
-          "time": "2026-09-25T14:01:26Z",
-          "url": "https://www.business-standard.com/economy/news/cea-flags-us-ties-energy-as-headwinds-calls-for-strategic-buffers-126092500912_1.html"
-        },
-        {
-          "title": "Position Sensor Market worth $23.40 billion by 2032 - Exclusive Report by MarketsandMarkets™",
-          "summary": "DELRAY BEACH, Fla., Sept. 25, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Position Sensor Market is projected to grow from USD 14.53 billion in 2026 to USD 23.40 billion by 2032, at a CAGR of 8.3% during the forecast period. Browse 150 market da…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T14:01:00Z",
-          "url": "https://www.prnewswire.com/news-releases/position-sensor-market-worth-23-40-billion-by-2032---exclusive-report-by-marketsandmarkets-302889080.html"
+          "title": "Trump says he will meet Xi again in November in China",
+          "summary": "US and Chinese officials signalled progress on trade talks, while differences over Taiwan, artificial intelligence, semiconductors and rare earths remain",
+          "press": "Bloomberg",
+          "time": "2026-09-25T18:35:16Z",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-25/trump-hosts-xi-for-tea-with-final-day-of-summit-underway"
         }
       ]
     },
@@ -239,74 +239,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Julia Morris on returning to 'school' with fresh ADHD diagnosis",
-          "summary": "The principal of Class Clowns Academy — an admittedly fake school whose only pupils are comedians — talks returning to the classroom for her new show, as someone diagnosed with ADHD later in life.",
-          "press": "ABC News (AU)",
-          "time": "2026-09-25T18:30:00Z",
-          "url": "https://www.abc.net.au/news/2026-09-26/julia-morris-im-a-celebrity-jungle-class-clowns-school-adhd/107184692"
+          "title": "Wise Words from Colin Kaepernick, D.M.C. and More at the 2026 Black Footwear Forum",
+          "summary": "The 2026 Black Footwear Forum in Detroit gathered icons of the fashion industry and students alike for a series of conversations related to this year's conference theme: Rooted in CommUnity.",
+          "press": "WWD",
+          "time": "2026-09-25T21:27:32Z",
+          "url": "http://wwd.com/footwear-news/shoe-industry-news/2026-black-footwear-forum-overview-1239226460/"
         },
         {
-          "title": "Jeff Koons On Balloon Dogs, Time and Why He Changed His Mind About Luxury",
-          "summary": "Marking his new collaboration with watchmaker Hublot, the artist describes how a small object like a watch can carry the same philosophical weight as a monumental sculpture. For Koons, the collaboration circles back to a familiar theme in his work: how object…",
-          "press": "Observer",
-          "time": "2026-09-25T18:08:23Z",
-          "url": "https://observer.com/2026/09/artist-interview-jeff-koons-luxury-hublot-watches-balloon-dog/"
+          "title": "Web Review, Week 2026-39",
+          "summary": "Let’s go for my web review for the week 2026-39.\n\nThe Test\nTags: tech, culture, business, politics\nYes, the preposterous statements from the tech moguls have a use. They allow them to gauge how obedient you are. This is thus a political function and a way to …",
+          "press": "Ipsquad.net",
+          "time": "2026-09-25T21:13:27Z",
+          "url": "https://ervin.ipsquad.net/blog/2026/09/25/web-review-week-2026-39/"
         },
         {
-          "title": "Ronnie Fieg Knows He's Him (EXCLUSIVE)",
-          "summary": "As Kith turns 15, Ronnie Fieg is taking a well-deserved look back on his unimpeachable archive of nearly 2,000 collaborative shoes.",
-          "press": "Highsnobiety",
-          "time": "2026-09-25T18:03:51Z",
-          "url": "https://www.highsnobiety.com/p/kith-ronnie-fieg-15th-anniversary-interview/"
+          "title": "Securitize leads tokenized stocks market cap growth with $251M increase",
+          "summary": "The rapid growth of tokenized stocks could revolutionize equity markets, offering enhanced liquidity, fractional ownership, and 24/7 trading.\nThe post Securitize leads tokenized stocks market cap growth with $251M increase appeared first on Crypto Briefing.",
+          "press": "Crypto Briefing",
+          "time": "2026-09-25T20:45:07Z",
+          "url": "https://cryptobriefing.com/securitize-tokenized-stocks-market-cap-growth/"
         },
         {
-          "title": "AI Companies’ Shaky New Plan to Police Themselves",
-          "summary": "Third-party evaluators will be allowed inside companies to monitor the models. But how much access and influence will they really have?",
-          "press": "The Atlantic",
-          "time": "2026-09-25T17:56:16Z",
-          "url": "https://www.theatlantic.com/technology/2026/09/ai-companies-evaluators-risk/688785/?utm_source=feed"
+          "title": "How Harvard scientists built genomics outpost on Gloucester harbor",
+          "summary": "It started with idea to help beleaguered fishermen. Now marine science lab promotes healthy fisheries, trains local workforce, seeks clues to longevity",
+          "press": "Harvard School of Engineering and Applied Sciences",
+          "time": "2026-09-25T20:41:06Z",
+          "url": "https://news.harvard.edu/gazette/story/2026/09/how-harvard-scientists-built-genomics-outpost-on-gloucester-harbor/"
         },
         {
-          "title": "EB5 Capital Announces I-956F Approval for JF47 – The Aletto at Boca Raton",
-          "summary": "I-956F approval clears path for investor green card petitions through first trophy office in downtown Boca Raton in 25+ years WASHINGTON, Sept. 25, 2026 (GLOBE NEWSWIRE) — EB5 Capital announced today that the United States Citizenship and Immigration Services…",
+          "title": "Elmhurst 1925 Launches Clean Protein™ in Canada, Redefining Ready-to-Drink Nutrition",
+          "summary": "Built on Elmhurst’s signature simplicity, the new ready-to-drink lineup enters the Canadian market packed with 27g of premium plant protein, 190 calories, as little as 3g of sugar, and absolutely nothing artificial 27g high-quality plant-based protein: Clean …",
           "press": "Financial Post",
-          "time": "2026-09-25T17:43:42Z",
-          "url": "https://financialpost.com/globe-newswire/eb5-capital-announces-i-956f-approval-for-jf47-the-aletto-at-boca-raton"
+          "time": "2026-09-25T20:28:39Z",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/elmhurst-1925-launches-clean-protein-in-canada-redefining-ready-to-drink-nutrition"
         },
         {
-          "title": "Asteroids Named After Tom Lehrer and 'Weird Al' Yankovic",
-          "summary": "\"Weird Al\" Yankovic's name has just been approved for a new asteroid — (14331) Alyankovic = 1981 EC26 — by the International Astronomical Union, reports Space.com. \n\nYankovic's asteroid was championed by planetary scientist Allison McGraw joined by \"several h…",
-          "press": "Slashdot.org",
-          "time": "2026-09-25T17:34:00Z",
-          "url": "https://science.slashdot.org/story/26/09/24/009238/asteroids-named-after-tom-lehrer-and-weird-al-yankovic"
+          "title": "Jil Sander Teases Latest Sneakers With Puma in Milan",
+          "summary": "Jil Sander teased its third release with Puma at its spring 2027 runway show in Milan. The new collection includes the Speedcat and Suede sneakers.",
+          "press": "WWD",
+          "time": "2026-09-25T20:14:08Z",
+          "url": "http://wwd.com/footwear-news/sneaker-news/jil-sander-puma-speedcat-suede-milan-fashion-week-1239265223/"
         },
         {
-          "title": "Trump to usher in ‘golden age’ of American tech with DC bash showcasing powerful new tool",
-          "summary": "Trump and JD Vance will unveil America.gov, a new AI tool designed to be a one-stop shop for navigating federal government services.",
-          "press": "Fox News",
-          "time": "2026-09-25T16:49:56Z",
-          "url": "https://www.foxnews.com/politics/trump-usher-golden-age-american-tech-dc-bash-showcasing-powerful-new-tool"
+          "title": "Fabrizio Corneli creates dramatic installation for glasses brand Lindberg",
+          "summary": "Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the minimalist installation opened on 24 September as part of the …",
+          "press": "Dezeen",
+          "time": "2026-09-25T20:00:15Z",
+          "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/"
         },
         {
-          "title": "From rappers to nonnas, Demna hits shuffle on Gucci stereotypes for SS27",
-          "summary": "For the Georgian designer’s third runway show as creative director, at Milan Fashion Week, Demna took inspiration from the characters who have shaped the brand's legacy",
-          "press": "Dazed",
-          "time": "2026-09-25T16:48:00Z",
-          "url": "https://www.dazeddigital.com/fashion/article/71042/1/demna-hits-shuffle-on-gucci-stereotypes-for-ss27-milan-fashion-week?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=from-rappers-to-nonnas-demna-hits-shuffle-on-gucci-stereotypes-for-ss27"
+          "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+          "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to…",
+          "press": "NASA",
+          "time": "2026-09-25T19:53:03Z",
+          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
         },
         {
-          "title": "Big Tech Is Destroying Democracy. Here’s How to Fight Back.",
-          "summary": "A conversation with Nobel laureate Maria Ressa.",
-          "press": "Foreign Policy",
-          "time": "2026-09-25T16:43:45Z",
-          "url": "http://foreignpolicy.com/2026/09/25/maria-ressa-big-tech-democracy-ai-autocracy/"
+          "title": "At Climate Week, Attendees Talked About Everything But The Weather",
+          "summary": "The Climate Leaders Roundtable Breakfast promised candid dialogues on topics within the intersection of technology, fashion, and climate.",
+          "press": "WWD",
+          "time": "2026-09-25T19:22:22Z",
+          "url": "http://wwd.com/sourcing-journal/sustainability/climate-leaders-roundtable-breakfast-fashion-circular-1239264644/"
         },
         {
-          "title": "4 Astronauts Headed Into Space for ISS Mission",
-          "summary": "NASA’s SpaceX Crew-14 will send four astronauts to the ISS in 2027 for science research supporting Moon and Mars missions.",
-          "press": "Incrediblethings.com",
-          "time": "2026-09-25T18:31:47Z",
-          "url": "https://incrediblethings.com/nasa-spacex-crew-14-mission/"
+          "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources",
+          "summary": "HRV Pharma CEO Hari Kiran Chereddi says investing in capacity at partner facilities, exploring acquisitions for market access; forecasts Rs 1,000 crore revenue in FY28",
+          "press": "The Times of India",
+          "time": "2026-09-25T19:19:32Z",
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/virtual-pharma-api-firm-hrv-preparing-for-ipo-drhp-likely-in-h1-of-2027-sources/articleshow/134491851.cms"
         }
       ]
     },
@@ -393,74 +393,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Foreign secretary Vikram Misri flags tariff move in talks with US undersecretary",
-          "summary": "India's Foreign Secretary Vikram Misri conducted meetings in New York regarding several bilateral issues. He raised concerns about the potential effect of Russia and Iran sanctions on India-US relations. Misri's discussions with US Undersecretary of State All…",
+          "title": "2026/db260925.doc.htm",
+          "summary": "In Nepal, the World Food Programme (WFP) is delivering food and relief supplies to flood-affected communities in the north by truck, helicopter and humanitarian cargo drones.  It has provided 127 metric tons of food to more than 15,000 people and is now deliv…",
+          "press": "UN News",
+          "time": "2026-09-25T21:11:58Z",
+          "url": "https://press.un.org/en/2026/db260925"
+        },
+        {
+          "title": "BESS Is Still a Science Project",
+          "summary": "Batteries can be useful tools, but they are not magic. And at present, in the places where New York most wants to rely upon them, they remain a science project.\nThe post BESS Is Still a Science Project appeared first on Watts Up With That?.",
+          "press": "Wattsupwiththat.com",
+          "time": "2026-09-25T21:00:00Z",
+          "url": "https://wattsupwiththat.com/2026/09/25/bess-is-still-a-science-project/"
+        },
+        {
+          "title": "More Republicans running in close races calling for end to Iran war",
+          "summary": "Several Republicans running in competitive races are joining growing calls in their party to end the Iran war with less than 40 days until the midterms.",
+          "press": "Abcnews.com",
+          "time": "2026-09-25T20:48:19Z",
+          "url": "https://abcnews.com/Politics/republicans-running-close-races-calling-end-iran-war/story?id=136648964"
+        },
+        {
+          "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+          "summary": "The PKG Center expands Code.Tulsa, an internship program that places MIT students with tribal nations and Tulsa nonprofits to develop AI and data science projects while gaining humanistic perspectives on technology&#039;s role in community development. Code.T…",
+          "press": "Mit.edu",
+          "time": "2026-09-25T20:15:00Z",
+          "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925"
+        },
+        {
+          "title": "US intelligence: Saudi Arabia has not ruled out nuclear weapons program",
+          "summary": "Classified documents show US intelligence believes Saudi Arabia has not ruled out nuclear weapons, raising concerns over Trump’s civilian nuclear deal.",
+          "press": "Israelnationalnews.com",
+          "time": "2026-09-25T19:31:22Z",
+          "url": "https://www.israelnationalnews.com/news/433665"
+        },
+        {
+          "title": "Uncle Sam coughs up $1.9B for grid upgrades as datacenters hit a power wall",
+          "summary": "Better conductors and improved sensing capabilities expected to unlock at least 23 gigawatts of additional capacity",
+          "press": "Theregister.com",
+          "time": "2026-09-25T19:26:34Z",
+          "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276"
+        },
+        {
+          "title": "This $249 Clip-on Device Shines ‘Invisible’ Infrared Sunlight On You To Boost Your Mood",
+          "summary": "Amsterdam gets around 1,600 hours of sunshine a year. Los Angeles gets close to 2,500. Anne Berends spent years feeling that difference, which is a very common Dutch experience and a very uncommon reason to start a hardware company. She was a nanomaterials sc…",
+          "press": "Yanko Design",
+          "time": "2026-09-25T19:20:36Z",
+          "url": "https://www.yankodesign.com/2026/09/25/this-249-clip-on-device-shines-invisible-infrared-sunlight-on-you-to-boost-your-mood/"
+        },
+        {
+          "title": "Regulation and cost deter AI's N-power growth depite $4.6 billion push",
+          "summary": "This year, investment in US nuclear startups has skyrocketed to $4.6 billion, showing strong investor confidence. However, challenges such as regulatory hurdles and the complexities of construction loom large for new nuclear power plants. As the appetite for …",
           "press": "The Times of India",
-          "time": "2026-09-25T18:33:20Z",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/foreign-secretary-vikram-misri-flags-tariff-move-in-talks-with-us-undersecretary/articleshow/134491135.cms"
+          "time": "2026-09-25T19:11:22Z",
+          "url": "https://economictimes.indiatimes.com/news/international/business/regulation-and-cost-deter-ais-n-power-growth-depite-4-6-billion-push/articleshow/134491596.cms"
         },
         {
-          "title": "CISF personnel on sensitive duties to undergo psychometric assessment",
-          "summary": "The central paramilitary force will also get its medical officers and unit commanders trained to \"identify\" early behavioral changes, signs of acute stress, and psychiatric emergencies among the staff",
-          "press": "Business Standard",
-          "time": "2026-09-25T18:16:45Z",
-          "url": "https://www.business-standard.com/india-news/cisf-personnel-on-sensitive-duties-to-undergo-psychometric-assessment-126092501105_1.html"
+          "title": "There’s Another Nukes Problem in the Middle East, Classified Docs Say",
+          "summary": "Saudi Arabia has not ruled out developing a nuclear weapons program, according to U.S. intelligence. The Washington Post reports that in classified documents provided to Congress, American intelligence agencies assess that the Saudi government wants to keep t…",
+          "press": "The New Republic",
+          "time": "2026-09-25T19:09:11Z",
+          "url": "https://newrepublic.com/post/215885/saudi-arabia-middle-east-nuclear-weapons-us-intel"
         },
         {
-          "title": "Pezeshkian tells Fox News: “Iran does not want a nuclear bomb” – “I saw Mojtaba for seven hours, he is not appearing for security reasons”",
-          "summary": "The Iranian president stressed that his country is ready to accept international inspections of its nuclear programme, but not under a regime of pressure – He accused the US and Israel of starting the war and said he had no knowledge of Chinese assistance in …",
-          "press": "Protothema.gr",
-          "time": "2026-09-25T18:01:45Z",
-          "url": "https://en.protothema.gr/2026/09/25/pezeshkian-tells-fox-news-iran-does-not-want-a-nuclear-bomb-i-saw-mojtaba-for-seven-hours-he-is-not-appearing-for-security-reasons/"
-        },
-        {
-          "title": "How Greenland Fits Into the Arctic Strategies of the U.S., China, Russia and Canada",
-          "summary": "The September 22, 2026, agreement between the United States, Denmark, and Greenland expands U.S.\nThe post How Greenland Fits Into the Arctic Strategies of the U.S., China, Russia and Canada appeared first on The Gateway Pundit.",
-          "press": "Thegatewaypundit.com",
-          "time": "2026-09-25T18:00:27Z",
-          "url": "https://www.thegatewaypundit.com/2026/09/how-greenland-fits-arctic-strategies-u-s-china/"
-        },
-        {
-          "title": "Saudis have not ruled out developing nuclear weapons, U.S. intel assesses...",
-          "summary": "Classified documents provided to Congress include an assessment by the U.S. intelligence community that Saudi Arabia has not ruled out the option of developing a nuclear weapons program, U.S. officia… [+7693 chars]",
-          "press": "Archive.is",
-          "time": "2026-09-25T18:00:12Z",
-          "url": "https://archive.is/2026.09.25-171651/https://www.washingtonpost.com/national-security/2026/09/25/saudis-have-not-ruled-out-developing-nuclear-weapons-us-intelligence-assesses/"
-        },
-        {
-          "title": "Will the AI Bubble Destroy our Retirement?",
-          "summary": "Wow, how about that stock market?  It’s a phrase we keep having to dust off and use again, as the years go by and the market keeps surprising us.  When it crashes, some of us worry because we see our retirement stash shrinking.  But even when it rises to reco…",
-          "press": "Mrmoneymustache.com",
-          "time": "2026-09-25T17:57:07Z",
-          "url": "https://www.mrmoneymustache.com/2026/09/25/will-the-ai-bubble-destroy-our-retirement/"
-        },
-        {
-          "title": "‘Seattle’s answer to YC Demo Day’: 25 startups pitch investors from across the country at AI House",
-          "summary": "AI House brought investors from Boston, New York, Colorado, the Bay Area and other cities to Seattle for a demo day where 25 early-stage startups pitched, many of them from outside the incubator's own portfolio. The goal was to bring more outside capital to l…",
-          "press": "GeekWire",
-          "time": "2026-09-25T17:38:24Z",
-          "url": "https://www.geekwire.com/2026/seattles-answer-to-yc-demo-day-25-startups-pitch-investors-from-across-the-country-at-ai-house/"
-        },
-        {
-          "title": "Rockefeller Foundation President: America is losing its global standing. Here’s how to fix it",
-          "summary": "One-third of the world sees America as a threat. Here’s how we can win back their trust.",
-          "press": "Fortune",
-          "time": "2026-09-25T17:20:57Z",
-          "url": "https://fortune.com/2026/09/25/rockefeller-foundation-president-america-is-losing-its-global-standing-heres-how-to-fix-it/"
-        },
-        {
-          "title": "Google is launching AI chips into space to see if they survive up there",
-          "summary": "MVP is not a data center. It is a small test platform carrying four of Google's tensor processing units, or TPUs. The chips provide roughly the computing capacity of a single data-center server. Solar panels will produce about one kilowatt of electricity, eno…",
-          "press": "TechSpot",
-          "time": "2026-09-25T17:16:00Z",
-          "url": "https://www.techspot.com/news/113989-google-launching-ai-chips-space-see-if-they.html"
-        },
-        {
-          "title": "AI’s nuclear power push runs into cost and regulatory hurdles",
-          "summary": "Investors have poured US$4.6 billion into United States nuclear startups so far this year, up from US$3.8 billion raised in 2025. Read here",
-          "press": "Financial Post",
-          "time": "2026-09-25T16:34:31Z",
-          "url": "https://financialpost.com/commodities/energy/ais-nuclear-power-push-hurdles"
+          "title": "Deal Could Let Saudis Pursue Nuclear Weapons: US Report",
+          "summary": "Saudi Arabia hasn't taken nuclear weapons off the table, according to a classified US intelligence assessment that's now in the hands of Congress, reports the Washington Post . That finding is colliding with President Trump's new agreement to help Riyadh buil…",
+          "press": "Newser",
+          "time": "2026-09-25T18:44:00Z",
+          "url": "https://www.newser.com/story/397087/deal-could-let-saudis-pursue-nuclear-weapons-us-report.html"
         }
       ]
     },
