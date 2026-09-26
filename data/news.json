@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T21:29:55.394273+00:00",
+  "updated": "2026-09-26T23:46:38.600106+00:00",
   "provider": "gnews,newsapi",
   "categories": {
     "ai": {
@@ -7,6 +7,20 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "FAA installing controversial AI software at US airports",
+          "summary": "The Federal Aviation Administration has started to deploy new artificial intelligence-based technology into the nation’s air traffic control system.",
+          "press": "SFGATE",
+          "time": "2026-09-26T11:00:00Z",
+          "url": "https://www.sfgate.com/travel/article/air-traffic-control-ai-22447588.php"
+        },
+        {
+          "title": "Some lawmakers doubt a Congress that’s ‘barely capable of email’ can regulate AI",
+          "summary": "WASHINGTON — Amid warnings that artificial intelligence could soon wipe out humanity, some lawmakers are not confident that Congress has the expertise or ability to regulate AI.",
+          "press": "NBC News",
+          "time": "2026-09-26T11:00:00Z",
+          "url": "https://www.nbcnews.com/politics/congress/lawmakers-doubt-congress-s-barely-capable-email-can-regulate-ai-rcna599824"
+        },
         {
           "title": "AI overreliance at work risks eroding people skills, expert warns",
           "summary": "Overreliance on artificial intelligence in the workplace may be eroding people skills and interpersonal communication, according to an etiquette and protocol expert.",
@@ -62,20 +76,6 @@
           "press": "WTOP",
           "time": "2026-09-26T03:48:28Z",
           "url": "https://wtop.com/national/2026/09/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
-        },
-        {
-          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
-          "summary": "OpenAI has disclosed its artificial intelligence models have interacted with U.S. government websites in unexpected ways.",
-          "press": "WDIV ClickOnDetroit",
-          "time": "2026-09-26T03:42:53Z",
-          "url": "https://www.clickondetroit.com/business/2026/09/26/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/"
-        },
-        {
-          "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
-          "summary": "SAN FRANCISCO (AP) — OpenAI disclosed Friday that its artificial intelligence agents had interacted with several U.S. government websites in unexpected ways, discovered as part of an ongoing review into the company's models' unanticipated behavior.",
-          "press": "U.S. News & World Report",
-          "time": "2026-09-26T03:42:00Z",
-          "url": "https://www.usnews.com/news/business/articles/2026-09-25/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure"
         }
       ]
     },
@@ -84,6 +84,34 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Inside The Texas Factory Racing To Break China’s Grip On EV Magnets",
+          "summary": "MP Materials' rare earth magnet factory is on the cusp of making history. Will it be enough?",
+          "press": "InsideEVs ",
+          "time": "2026-09-25T23:28:02Z",
+          "url": "https://insideevs.com/news/809663/general-motors-mp-materials-rare-earth-magnets-evs/"
+        },
+        {
+          "title": "Manipulation of ferromagnetism with a light-driven nonlinear Edelstein-Zeeman field",
+          "summary": "Ultrafast non-thermal control of magnetism is a major goal of spintronics, however, in centrosymmetric materials, symmetry typically forbids direct control via electric fields. Here, Lv, Meese and coauthors use the non-linear Edelstein effect to create a non-…",
+          "press": "Nature.com",
+          "time": "2026-09-25T23:09:30Z",
+          "url": "https://www.nature.com/articles/s41467-026-77965-4.pdf"
+        },
+        {
+          "title": "Bill Gates Warns AI Could Drive Events Causing 'A Billion Deaths'",
+          "summary": "As President Donald Trump hosted Chinese President Xi Jinping at a White House summit that put artificial intelligence, technology competition and semiconductor policy at the center of discussions between the world's two largest economies, Microsoft co-founde…",
+          "press": "Biztoc.com",
+          "time": "2026-09-25T22:53:04Z",
+          "url": "https://biztoc.com/x/47757cf565b105ff"
+        },
+        {
+          "title": "Micron investors brace for revenue shifts amid Nvidia product ramp",
+          "summary": "Micron's reliance on Nvidia's product timeline highlights the semiconductor industry's vulnerability to supply chain and demand shifts.\nThe post Micron investors brace for revenue shifts amid Nvidia product ramp appeared first on Crypto Briefing.",
+          "press": "Crypto Briefing",
+          "time": "2026-09-25T22:03:15Z",
+          "url": "https://cryptobriefing.com/micron-revenue-shifts-nvidia-ramp/"
+        },
         {
           "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
           "summary": "The visit comes at an important time for both men.",
@@ -120,39 +148,11 @@
           "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-boom-raises-too-big-to-fail-concerns-as-ecosystem-expands-says-kansas-feds-jeff-schmid/articleshow/134490358.cms"
         },
         {
-          "title": "Overlord Labs Closes Oversubscribed Seed Financing, Bringing Total Funding to $10 Million to Advance Battery Intelligence for Edge AI Devices",
-          "summary": "SAN JOSE, Calif., Sept. 25, 2026 /PRNewswire/ -- Overlord Labs, Inc., a fabless semiconductor company building battery intelligence infrastructure for compute-intensive, battery-powered devices, today announced the close of its oversubscribed Seed financing, …",
-          "press": "PRNewswire",
-          "time": "2026-09-25T17:00:00Z",
-          "url": "https://www.prnewswire.com/news-releases/overlord-labs-closes-oversubscribed-seed-financing-bringing-total-funding-to-10-million-to-advance-battery-intelligence-for-edge-ai-devices-302890280.html"
-        },
-        {
-          "title": "Exclusive-SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say",
-          "summary": "NEW YORK, Sept 25 : Chipmaker SK Hynix's Solidigm is considering an initial public offering as early as next year that could value the US subsidiary at up to $150 billion, according to three people familiar with the matter. Solidigm held pitch meetings this w…",
-          "press": "CNA",
-          "time": "2026-09-25T16:48:42Z",
-          "url": "https://www.channelnewsasia.com/business/exclusive-sk-hynixs-solidigm-weighs-ipo-could-value-unit-up-150-billion-sources-say-6411646"
-        },
-        {
-          "title": "Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub",
-          "summary": "Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level.",
-          "press": "Tom's Hardware UK",
-          "time": "2026-09-25T15:00:22Z",
-          "url": "https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029"
-        },
-        {
-          "title": "Memory Prices Are on Track to Rise 400%. Your Next Phone Is Paying for AI.",
-          "summary": "If your next phone costs more than your last one, or ships with less memory than you expected, the reason is not in the phone. It is in a data center several states away. J.P. Morgan Global Research estimates that DRAM prices will have risen more than 400 per…",
-          "press": "Techpinions.com",
-          "time": "2026-09-25T15:00:00Z",
-          "url": "https://techpinions.com/memory-shortage-smartphone-prices-ai-2026/"
-        },
-        {
-          "title": "Trump says he will meet Xi again in November in China",
-          "summary": "US and Chinese officials signalled progress on trade talks, while differences over Taiwan, artificial intelligence, semiconductors and rare earths remain",
-          "press": "Bloomberg",
-          "time": "2026-09-25T18:35:16Z",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-25/trump-hosts-xi-for-tea-with-final-day-of-summit-underway"
+          "title": "Philly’s Robot Dogs Are Here. What Could Possibly Go Wrong?",
+          "summary": "In chaotic conflicts like active crime scenes and urban warfare, closed doors can be as dangerous as explosives. The officers or troops who barge in […]",
+          "press": "phillymag.com",
+          "time": "2026-09-25T22:00:06Z",
+          "url": "https://www.phillymag.com/news/2026/09/25/robot-dogs-ghost-asylon/"
         }
       ]
     },
@@ -162,74 +162,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Bu Tan Is Impressed By Photonic Quantum Computing",
-          "summary": "Intel CEO Lip-Bu Tan believes that for quantum computing to be viable, companies have to address market areas with actual demand. The executive discussed",
-          "press": "EUROPE SAYS",
-          "time": "2026-09-26T04:04:30Z",
-          "url": "https://www.europesays.com/3273194/"
+          "title": "David Kistin to lead Roadrunner Quantum Lab in Albuquerque",
+          "summary": "Former Sandia National Laboratories manager David Kistin will direct Roadrunner Quantum Lab, a $25 million New Mexico effort to grow quantum technology companies in Albuquerque.",
+          "press": "Albuquerque Journal",
+          "time": "2026-09-25T21:30:00Z",
+          "url": "https://www.abqjournal.com/business/ex-sandia-manager-tapped-to-direct-roadrunner-quantum-lab/3128812"
         },
         {
-          "title": "Quantum computing could help cut US reliance on China rare earths",
-          "summary": "Quantum computing could help the U.S. reduce reliance on China for critical rare earth elements. Pasqal is partnering with USA Rare Earth and Riven Systems to improve processing efficiency.",
-          "press": "Fox Business",
-          "time": "2026-09-26T03:57:46Z",
-          "url": "https://www.foxbusiness.com/technology/quantum-computing-could-help-us-reduce-reliance-chinas-rare-earth-supply-chain-tech-ceo-says"
+          "title": "Bifrost Electronics names New Mexico native Doug Campbell CEO",
+          "summary": "Colorado quantum technology company Bifrost Electronics has named New Mexico native Doug Campbell CEO ahead of the commercial launch of its Heimdall Amplifier.",
+          "press": "Albuquerque Journal",
+          "time": "2026-09-24T13:00:00Z",
+          "url": "https://www.abqjournal.com/business/quantum-startup-names-new-mexico-native-as-ceo/3127468"
         },
         {
-          "title": "Intel CEO Lip-Bu Tan Is Impressed By Photonic Quantum Computing",
-          "summary": "Tan calls agentic AI 'amazing' and checks its progress first thing each morning — the same tech he says will drive CPU demand.",
-          "press": "Wccftech",
-          "time": "2026-09-26T01:34:30Z",
-          "url": "https://wccftech.com/intel-ceo-lip-bu-tan-is-impressed-by-photonic-quantum-computing-says-he-now-leans-on-ai-agents-to-do-his-homework/"
+          "title": "D-Wave Disappoints Again: A Quantum Company Without Commercial Momentum",
+          "summary": "D-Wave Quantum continues to underperform, missing revenue expectations despite advanced annealing technology. Read why QBTS stock is a Sell.",
+          "press": "Seeking Alpha",
+          "time": "2026-09-22T08:10:15Z",
+          "url": "https://seekingalpha.com/article/4948519-d-wave-disappoints-again-a-quantum-company-without-commercial-momentum"
         },
         {
-          "title": "Everyone's Talking About IonQ. Smart Money Is Watching Nvidia Instead.",
-          "summary": "IonQ just claimed a genuine quantum computing breakthrough, but its stock tells a bleaker story and its financials tell a bleaker one still. Before you chase",
-          "press": "EUROPE SAYS",
-          "time": "2026-09-24T12:41:06Z",
-          "url": "https://www.europesays.com/3270189/"
-        },
-        {
-          "title": "A Company Shared a Breakthrough In Quantum Computing. Its Shares Are Climbing.",
-          "summary": "IonQ announced the first end-to-end real-time quantum error decoder.",
-          "press": "International Business Times",
-          "time": "2026-09-23T14:21:23Z",
-          "url": "https://www.ibtimes.com/company-shared-breakthrough-quantum-computing-its-shares-are-climbing-3807786"
-        },
-        {
-          "title": "IonQ shares rally after company says it made a major quantum computing breakthrough",
-          "summary": "Shares of quantum computing company IonQ surged in premarket following its successful test of the industry's first real time end-to-end error decoder.",
-          "press": "CNBC",
-          "time": "2026-09-23T12:35:15Z",
-          "url": "https://www.cnbc.com/2026/09/23/ionq-shares-rally-after-company-says-it-made-a-major-quantum-computing-breakthrough.html"
-        },
-        {
-          "title": "EU Regulators Warn Quantum Computing Could Threaten Blockchains",
-          "summary": "EU financial supervisors warn of a future threat to blockchain cryptography as Bitcoin developers propose a migration plan and Ethereum targets 2029.",
-          "press": "Cointelegraph",
-          "time": "2026-09-23T12:22:56Z",
-          "url": "https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks"
-        },
-        {
-          "title": "Why IonQ Stock Is Surging After Hours - and What Wall Street Expects Next",
-          "summary": "IonQ (NYSE:IONQ) is climbing about 8% in Tuesday’s after-hours trading after unveiling progress on one of quantum computing’s toughest technical...",
+          "title": "IonQ, SDT announce multi-year strategic partnership",
+          "summary": "IonQ (IONQ) announced a strategic partnership with Korea-based quantum technology and software company SDT, Inc. Under this multi-year collabora...",
           "press": "Markets Insider",
-          "time": "2026-09-22T22:36:34Z",
-          "url": "https://markets.businessinsider.com/news/stocks/why-ionq-stock-is-surging-after-hours-and-what-wall-street-expects-next-1036566068"
+          "time": "2026-09-22T00:35:07Z",
+          "url": "https://markets.businessinsider.com/news/stocks/ionq-sdt-announce-multi-year-strategic-partnership-1036562519"
         },
         {
-          "title": "Microsoft to give DARPA hands-on access to quantum system at new Maryland site",
-          "summary": "Microsoft on Tuesday said it will give the US Defense Advanced Research Projects Agency direct, on-site access to its latest quantum ​computing hardware as part of a new research center the company ‌opened in Maryland alongside the University of Maryland and other industry partners.",
-          "press": "Reuters",
-          "time": "2026-09-22T20:03:39Z",
-          "url": "https://www.reuters.com/business/microsoft-give-darpa-hands-on-access-to-quantum-system-new-maryland-site-2026-09-22/"
+          "title": "Walmart has a rollback on the VIZIO 65-inch QLED TV for a limited time",
+          "summary": "The VIZIO 65-inch Mini LED Quantum 4K QLED HDR Smart TV is a 2026 model combining a Mini-LED display with Quantum/QLED technology and broad HDR support.",
+          "press": "syracuse.com",
+          "time": "2026-09-18T16:00:00Z",
+          "url": "https://www.syracuse.com/shopping/2026/09/walmart-has-a-rollback-on-the-vizio-65-inch-qled-tv-for-a-limited-time.html"
         },
         {
-          "title": "Why mathematicians are hiding research results in zero-knowledge proofs",
-          "summary": "Google made a major breakthrough in quantum computing. To prevent the results from being misused, the company kept them secret. That backfired",
-          "press": "Scientific American",
-          "time": "2026-09-22T18:00:00Z",
-          "url": "https://www.scientificamerican.com/article/why-mathematicians-are-hiding-research-results-in-zero-knowledge-proofs/"
+          "title": "run matchmaking program to force quantum technology into the marketplace – NaturalNews.com",
+          "summary": "Beijing launched the Scenario Handshake Plan to connect quantum companies with government and industrial customers. The program targets six pilot applications including underwater sensing, secured communications and materials simulation. None of the six projects has yet demonstrated quantum advantag",
+          "press": "Natural News",
+          "time": "2026-09-16T11:10:17Z",
+          "url": "https://www.naturalnews.com/2026-09-16-beijing-state-run-quantum-technology.html"
+        },
+        {
+          "title": "Mitsubishi Electric Invests in OptQC Startup Developing Optical Quantum Computer Hardware",
+          "summary": "Leveraging optical quantum technology and market insights for industrial use",
+          "press": "EUROPE SAYS",
+          "time": "2026-09-15T04:29:19Z",
+          "url": "https://www.europesays.com/3251916/"
+        },
+        {
+          "title": "Tennessee bets big on the future of quantum tech",
+          "summary": "Tennessee is investing 43 million dollars into a new grant program to expand quantum technology across the state.",
+          "press": "Knoxville News-Sentinel",
+          "time": "2026-09-14T20:25:21Z",
+          "url": "https://www.knoxnews.com/story/news/local/2026/09/14/tennessee-launches-43-million-quantum-grant-program/91764572007/"
+        },
+        {
+          "title": "CNM CAMINO Collaborative aims to grow New Mexico's tech workforce",
+          "summary": "Central New Mexico Community College's CAMINO Collaborative with Sandia National Laboratories will expand training for advanced manufacturing, quantum technology and other high-demand New Mexico careers.",
+          "press": "Albuquerque Journal",
+          "time": "2026-09-13T09:24:00Z",
+          "url": "https://www.abqjournal.com/opinion/opinion-camino-collaborative-is-key-to-nms-tech-economy/3118044"
+        },
+        {
+          "title": "UNM Boosts Quantum Science & Tech Education",
+          "summary": "As New Mexico makes significant investments to establish itself as a leader in quantum technology, The University of New Mexico is expanding its academic",
+          "press": "EUROPE SAYS",
+          "time": "2026-09-10T14:31:33Z",
+          "url": "https://www.europesays.com/3243744/"
         }
       ]
     },
@@ -239,74 +239,74 @@
       "count": 10,
       "news": [
         {
+          "title": "What A.I.’s Most Powerful Leaders Said at Observer’s A.I. Power Index Party",
+          "summary": "From Bloomberg's ASKB to Candidly's mission to bring expert financial guidance to everyone, Observer's first A.I. Power Index Party celebrated the leaders putting A.I. to work, and what they say comes next.",
+          "press": "Observer",
+          "time": "2026-09-25T23:09:17Z",
+          "url": "https://observer.com/2026/09/what-a-i-s-most-powerful-leaders-said-at-observers-a-i-power-index-party/"
+        },
+        {
+          "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+          "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+          "press": "CNBC",
+          "time": "2026-09-25T22:31:32Z",
+          "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html"
+        },
+        {
+          "title": "This Week in Space 229: Is It Starship's Time?",
+          "summary": "This week it's Rod and Tariq working through the most important space headlines. The big story: Starship could launch test flight 14 as early as Monday the 28th. We've seen lots of tests, but this is the first attempt at an orbital flight, the success of whic…",
+          "press": "Twit.tv",
+          "time": "2026-09-25T22:14:30Z",
+          "url": "https://twit.tv/shows/this-week-in-space/episodes/229"
+        },
+        {
+          "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+          "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the in…",
+          "press": "The Verge",
+          "time": "2026-09-25T22:13:20Z",
+          "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
+        },
+        {
+          "title": "Philly’s Robot Dogs Are Here. What Could Possibly Go Wrong?",
+          "summary": "In chaotic conflicts like active crime scenes and urban warfare, closed doors can be as dangerous as explosives. The officers or troops who barge in […]",
+          "press": "phillymag.com",
+          "time": "2026-09-25T22:00:06Z",
+          "url": "https://www.phillymag.com/news/2026/09/25/robot-dogs-ghost-asylon/"
+        },
+        {
+          "title": "Mayoral debate shows wide gulf over urban sprawl",
+          "summary": "Ottawa mayoral hopefuls are taking different positions on how far the city should sprawl to make space for hundreds of thousands more residents expected in the coming decades.",
+          "press": "CBC News",
+          "time": "2026-09-25T21:46:58Z",
+          "url": "https://www.cbc.ca/news/canada/ottawa/mayoral-debate-shows-wide-gulf-over-urban-sprawl-9.7358937"
+        },
+        {
+          "title": "Atlas Free Raises Over $1.6 Million at Most Successful Gala to Date to Fight Sex Trafficking Worldwide",
+          "summary": "SEATTLE, Sept. 25, 2026 /PRNewswire/ -- Atlas Free, a Kirkland-based human trafficking organization at the forefront of the global fight against human trafficking, raised over $1.6 million at its 15th annual gala, the most successful gala in the organization'…",
+          "press": "PRNewswire",
+          "time": "2026-09-25T21:43:00Z",
+          "url": "https://www.prnewswire.com/news-releases/atlas-free-raises-over-1-6-million-at-most-successful-gala-to-date-to-fight-sex-trafficking-worldwide-302890652.html"
+        },
+        {
+          "title": "Solar energy powers ahead as America’s strongest industry for career growth",
+          "summary": "A new study from Lemon.io identifies solar electric power generation as America’s fastest-growing industry for career prospects, with employment projected to rise 179% by 2034. Renewable energy, software, cloud computing and scientific research dominate the r…",
+          "press": "Digital Journal",
+          "time": "2026-09-25T21:39:03Z",
+          "url": "https://www.digitaljournal.com/article/solar-energy-powers-ahead-as-americas-strongest-industry-for-career-growth/"
+        },
+        {
+          "title": "MTV used to rule pop culture. Now it mostly breaks through once a year.",
+          "summary": "MTV, the 45-year-old network and music video pioneer, was once the arbiter of cool. They played all the hottest new songs from some of the biggest stars the country has ever seen: Madonna, David Bowie, Michael Jackson and Prince. They ushered in the era of bo…",
+          "press": "Yahoo Entertainment",
+          "time": "2026-09-25T21:37:09Z",
+          "url": "https://www.yahoo.com/entertainment/music/article/mtv-used-to-rule-pop-culture-now-it-mostly-breaks-through-once-a-year-213709140.html"
+        },
+        {
           "title": "Wise Words from Colin Kaepernick, D.M.C. and More at the 2026 Black Footwear Forum",
           "summary": "The 2026 Black Footwear Forum in Detroit gathered icons of the fashion industry and students alike for a series of conversations related to this year's conference theme: Rooted in CommUnity.",
           "press": "WWD",
           "time": "2026-09-25T21:27:32Z",
           "url": "http://wwd.com/footwear-news/shoe-industry-news/2026-black-footwear-forum-overview-1239226460/"
-        },
-        {
-          "title": "Web Review, Week 2026-39",
-          "summary": "Let’s go for my web review for the week 2026-39.\n\nThe Test\nTags: tech, culture, business, politics\nYes, the preposterous statements from the tech moguls have a use. They allow them to gauge how obedient you are. This is thus a political function and a way to …",
-          "press": "Ipsquad.net",
-          "time": "2026-09-25T21:13:27Z",
-          "url": "https://ervin.ipsquad.net/blog/2026/09/25/web-review-week-2026-39/"
-        },
-        {
-          "title": "Securitize leads tokenized stocks market cap growth with $251M increase",
-          "summary": "The rapid growth of tokenized stocks could revolutionize equity markets, offering enhanced liquidity, fractional ownership, and 24/7 trading.\nThe post Securitize leads tokenized stocks market cap growth with $251M increase appeared first on Crypto Briefing.",
-          "press": "Crypto Briefing",
-          "time": "2026-09-25T20:45:07Z",
-          "url": "https://cryptobriefing.com/securitize-tokenized-stocks-market-cap-growth/"
-        },
-        {
-          "title": "How Harvard scientists built genomics outpost on Gloucester harbor",
-          "summary": "It started with idea to help beleaguered fishermen. Now marine science lab promotes healthy fisheries, trains local workforce, seeks clues to longevity",
-          "press": "Harvard School of Engineering and Applied Sciences",
-          "time": "2026-09-25T20:41:06Z",
-          "url": "https://news.harvard.edu/gazette/story/2026/09/how-harvard-scientists-built-genomics-outpost-on-gloucester-harbor/"
-        },
-        {
-          "title": "Elmhurst 1925 Launches Clean Protein™ in Canada, Redefining Ready-to-Drink Nutrition",
-          "summary": "Built on Elmhurst’s signature simplicity, the new ready-to-drink lineup enters the Canadian market packed with 27g of premium plant protein, 190 calories, as little as 3g of sugar, and absolutely nothing artificial 27g high-quality plant-based protein: Clean …",
-          "press": "Financial Post",
-          "time": "2026-09-25T20:28:39Z",
-          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/elmhurst-1925-launches-clean-protein-in-canada-redefining-ready-to-drink-nutrition"
-        },
-        {
-          "title": "Jil Sander Teases Latest Sneakers With Puma in Milan",
-          "summary": "Jil Sander teased its third release with Puma at its spring 2027 runway show in Milan. The new collection includes the Speedcat and Suede sneakers.",
-          "press": "WWD",
-          "time": "2026-09-25T20:14:08Z",
-          "url": "http://wwd.com/footwear-news/sneaker-news/jil-sander-puma-speedcat-suede-milan-fashion-week-1239265223/"
-        },
-        {
-          "title": "Fabrizio Corneli creates dramatic installation for glasses brand Lindberg",
-          "summary": "Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the minimalist installation opened on 24 September as part of the …",
-          "press": "Dezeen",
-          "time": "2026-09-25T20:00:15Z",
-          "url": "https://www.dezeen.com/2026/09/25/fabrizio-corneli-installation-glasses-brand-lindberg/"
-        },
-        {
-          "title": "NASA Welcomes San Marino Signing the Artemis Accords",
-          "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.   “San Marino joins a growing coalition of like-minded nations committed to…",
-          "press": "NASA",
-          "time": "2026-09-25T19:53:03Z",
-          "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/"
-        },
-        {
-          "title": "At Climate Week, Attendees Talked About Everything But The Weather",
-          "summary": "The Climate Leaders Roundtable Breakfast promised candid dialogues on topics within the intersection of technology, fashion, and climate.",
-          "press": "WWD",
-          "time": "2026-09-25T19:22:22Z",
-          "url": "http://wwd.com/sourcing-journal/sustainability/climate-leaders-roundtable-breakfast-fashion-circular-1239264644/"
-        },
-        {
-          "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources",
-          "summary": "HRV Pharma CEO Hari Kiran Chereddi says investing in capacity at partner facilities, exploring acquisitions for market access; forecasts Rs 1,000 crore revenue in FY28",
-          "press": "The Times of India",
-          "time": "2026-09-25T19:19:32Z",
-          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/virtual-pharma-api-firm-hrv-preparing-for-ipo-drhp-likely-in-h1-of-2027-sources/articleshow/134491851.cms"
         }
       ]
     },
@@ -316,74 +316,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Kraken Robotics Systems Inc (PNG) Receives a Buy from RBC Capital",
-          "summary": "In a report released yesterday, James McGarragle CFA from RBC Capital maintained a Buy rating on Kraken Robotics Systems Inc, with a price targe...",
-          "press": "Markets Insider",
-          "time": "2026-09-26T03:46:27Z",
-          "url": "https://markets.businessinsider.com/news/stocks/kraken-robotics-systems-inc-png-receives-a-buy-from-rbc-capital-1036575930"
+          "title": "What A.I.’s Most Powerful Leaders Said at Observer’s A.I. Power Index Party",
+          "summary": "From Bloomberg's ASKB to Candidly's mission to bring expert financial guidance to everyone, Observer's first A.I. Power Index Party celebrated the leaders putting A.I. to work, and what they say comes next.",
+          "press": "Observer",
+          "time": "2026-09-25T23:09:17Z",
+          "url": "https://observer.com/2026/09/what-a-i-s-most-powerful-leaders-said-at-observers-a-i-power-index-party/"
         },
         {
-          "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
-          "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
-          "press": "TechCrunch",
-          "time": "2026-09-25T17:30:00Z",
-          "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/"
+          "title": "Philly’s Robot Dogs Are Here. What Could Possibly Go Wrong?",
+          "summary": "In chaotic conflicts like active crime scenes and urban warfare, closed doors can be as dangerous as explosives. The officers or troops who barge in […]",
+          "press": "phillymag.com",
+          "time": "2026-09-25T22:00:06Z",
+          "url": "https://www.phillymag.com/news/2026/09/25/robot-dogs-ghost-asylon/"
         },
         {
-          "title": "Mass. lawmakers, robotics executives discuss how to boost investments",
-          "summary": "Tech executives said California, Texas, and even Pittsburgh are becoming more attractive options for developing companies than Massachusetts.",
-          "press": "The Boston Globe",
-          "time": "2026-09-24T21:35:29Z",
-          "url": "https://www.bostonglobe.com/2026/09/24/business/mass-robotics-ai-startups/"
+          "title": "New Code Geass Star Chaser Aspal Anime Reveals Teaser Trailer, 2027 Premiere",
+          "summary": "Kazuya Nomura directs new anime for Code Geass' 20th anniversary",
+          "press": "Anime News Network",
+          "time": "2026-09-25T19:35:03Z",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201"
         },
         {
-          "title": "Meet Feather, the startup building the 'Android of robotics' for developers",
-          "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-          "press": "TechCrunch",
-          "time": "2026-09-24T18:52:38Z",
-          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/"
+          "title": "RND Automation Showcases Packaging, Live Pouching and Risk Reduction at PACK EXPO International 2026",
+          "summary": "Booth N-5115 to feature live KANGA pouching, QuickPouch packaging equipment, RND's High-Risk Test Bench, package-integrity testing, and real-world robotics applications. CHICAGO, Sept. 25, 2026 /PRNewswire/ -- RND Automation will showcase its expanding packag…",
+          "press": "PRNewswire",
+          "time": "2026-09-25T19:00:00Z",
+          "url": "https://www.prnewswire.com/news-releases/rnd-automation-showcases-packaging-live-pouching-and-risk-reduction-at-pack-expo-international-2026-302890419.html"
         },
         {
-          "title": "China installs 59% of new factory robots as EU installations fall 11%",
-          "summary": "China installed 59% of the world's new industrial robots in 2025, the International Federation of Robotics said. The EU fell 11%.",
-          "press": "TNW",
-          "time": "2026-09-24T17:30:38Z",
-          "url": "https://thenextweb.com/news/industrial-robots-world-robotics-2026-china-59-eu-falls"
+          "title": "Good points from James Gilliland",
+          "summary": "It pains me to say this, but if we actually “get AGI,” the resulting boom in industrial capacity from robotics and massive society-wide wealth creation will look like a total vindication of neoliberalism.\nThe discourse about financialization and offshoring be…",
+          "press": "Biztoc.com",
+          "time": "2026-09-25T18:37:42Z",
+          "url": "https://biztoc.com/x/d115d79bf56f4c23"
         },
         {
-          "title": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
-          "summary": "RASWDC is in the process of developing a phased implementation plan to tackle issues like command structure, mission relationships and resource requirements.",
-          "press": "Breaking Defense",
-          "time": "2026-09-24T16:53:55Z",
-          "url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/"
+          "title": "4 Astronauts Headed Into Space for ISS Mission",
+          "summary": "NASA’s SpaceX Crew-14 will send four astronauts to the ISS in 2027 for science research supporting Moon and Mars missions.",
+          "press": "Incrediblethings.com",
+          "time": "2026-09-25T18:31:47Z",
+          "url": "https://incrediblethings.com/nasa-spacex-crew-14-mission/"
         },
         {
-          "title": "Kent State to host Aeronautics, Engineering Expo Sept. 26",
-          "summary": "Event gives community up-close look at aviation history, university program Yimo, Kent State University’s robotic dog, demonstrates autonomous robotics technology during the 2025 Aeronautics and Engineering Expo. STOW — Kent State University invites the community to experience aviation history, emer",
-          "press": "akron.com",
-          "time": "2026-09-24T11:00:18Z",
-          "url": "https://www.akron.com/articles/kent-state-to-host-aeronautics-engineering-expo-sept-26/"
+          "title": "An Invasion with Four Horsemen Studios' New Cosmic Legions Brainer",
+          "summary": "Ready to reach for the final frontier once again? Four Horsemen Studios continues to build up its sci-fi action figure line known as Cosmic Legions. Rather than the more grounded and medieval style of the Mythic Legions line, Cosmic Legions reaches for the st…",
+          "press": "Bleeding Cool News",
+          "time": "2026-09-25T18:22:09Z",
+          "url": "https://bleedingcool.com/collectibles/an-invasion-with-four-horsemen-studios-new-cosmic-legions-brainer/"
         },
         {
-          "title": "AI's Next Bottleneck Could Be Here",
-          "summary": "Robotics is emerging as the next major economic bottleneck, with a projected $2T TAM by the 2040s and $7–9T by 2050. Read what investors need to know.",
-          "press": "Seeking Alpha",
-          "time": "2026-09-24T10:16:57Z",
-          "url": "https://seekingalpha.com/article/4949341-ais-next-bottleneck-could-be-here"
+          "title": "Good points from James Gilliland",
+          "summary": "It pains me to say this, but if we actually “get AGI,” the resulting boom in industrial capacity from robotics and massive society-wide wealth creation will look like a total vindication of neoliberalism. The discourse about financialization and offshoring be…",
+          "press": "Marginalrevolution.com",
+          "time": "2026-09-25T18:13:07Z",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html"
         },
         {
-          "title": "Chinese humanoid robotics firm expanding globally and readying for IPO",
-          "summary": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions, according to UniX AI, citing its own experience.",
-          "press": "CNBC",
-          "time": "2026-09-24T07:29:15Z",
-          "url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html"
+          "title": "Coffee Break: Catching Up on a Few Recent Scientific Advances",
+          "summary": "This is Naked Capitalism fundraising week. 525 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and participate via our donation page, which shows how to give via check…",
+          "press": "Nakedcapitalism.com",
+          "time": "2026-09-25T18:00:03Z",
+          "url": "https://www.nakedcapitalism.com/?p=316978"
         },
         {
-          "title": "Travis Kalanick is back: How Uber's ousted founder went from pariah to Silicon Valley hero",
-          "summary": "The Uber cofounder returns with a multibillion robotics and AI venture—and a tech sector more receptive to his hard-charging approach.",
-          "press": "Fortune",
-          "time": "2026-09-24T07:00:00Z",
-          "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/"
+          "title": "Watch this little robot hop and swim like a frog",
+          "summary": "A new design showcases a way for miniaturized robots to hop or swim in spite of limitations on their power output and size.",
+          "press": "Futurity: Research News",
+          "time": "2026-09-25T17:53:10Z",
+          "url": "https://www.futurity.org/hopping-swimming-robot-3346072/"
         }
       ]
     },
@@ -393,74 +393,74 @@
       "count": 10,
       "news": [
         {
-          "title": "2026/db260925.doc.htm",
-          "summary": "In Nepal, the World Food Programme (WFP) is delivering food and relief supplies to flood-affected communities in the north by truck, helicopter and humanitarian cargo drones.  It has provided 127 metric tons of food to more than 15,000 people and is now deliv…",
-          "press": "UN News",
-          "time": "2026-09-25T21:11:58Z",
-          "url": "https://press.un.org/en/2026/db260925"
+          "title": "Coal Vs Nuclear Power Plants: Which Produces More Energy?",
+          "summary": "When looking at coal plants and nuclear plants in the U.S., you might wonder which produces more energy. It's a little complicated. Here's what we know.",
+          "press": "SlashGear",
+          "time": "2026-09-26T02:45:00Z",
+          "url": "https://www.slashgear.com/2264079/coal-vs-nuclear-power-plant-energy-production/"
         },
         {
-          "title": "BESS Is Still a Science Project",
-          "summary": "Batteries can be useful tools, but they are not magic. And at present, in the places where New York most wants to rely upon them, they remain a science project.\nThe post BESS Is Still a Science Project appeared first on Watts Up With That?.",
-          "press": "Wattsupwiththat.com",
-          "time": "2026-09-25T21:00:00Z",
-          "url": "https://wattsupwiththat.com/2026/09/25/bess-is-still-a-science-project/"
+          "title": "NextEra $9.5M Settlement Approval Advances Nuclear Wage",
+          "summary": "Class action settlements often move through the courts like ships navigating a narrow channel — plenty of room to run aground before reaching open water. This one just cleared its first major checkpoint. A Maryland federal judge has given preliminary approval to a settlement agreement that would see",
+          "press": "USA Herald",
+          "time": "2026-09-25T20:52:27Z",
+          "url": "https://usaherald.com/nextera-9-5m-settlement-approval-advances-nuclear-wage-fixing-case/"
         },
         {
-          "title": "More Republicans running in close races calling for end to Iran war",
-          "summary": "Several Republicans running in competitive races are joining growing calls in their party to end the Iran war with less than 40 days until the midterms.",
-          "press": "Abcnews.com",
-          "time": "2026-09-25T20:48:19Z",
-          "url": "https://abcnews.com/Politics/republicans-running-close-races-calling-end-iran-war/story?id=136648964"
+          "title": "2026 Election Questionnaire: Amy “Murri” Briel, Illinois State Representative, 76th District",
+          "summary": "Amy “Murri” Briel: Nuclear is clean energy, and its reliability and affordability should be leveraged. Read Briel's full election questionnaire here",
+          "press": "Shaw Local Enewspapers",
+          "time": "2026-09-25T18:07:34Z",
+          "url": "https://www.shawlocal.com/news/election/2026/09/25/2026-election-questionnaire-amy-murri-briel-illinois-state-representative-76th-district/"
         },
         {
-          "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
-          "summary": "The PKG Center expands Code.Tulsa, an internship program that places MIT students with tribal nations and Tulsa nonprofits to develop AI and data science projects while gaining humanistic perspectives on technology&#039;s role in community development. Code.T…",
-          "press": "Mit.edu",
-          "time": "2026-09-25T20:15:00Z",
-          "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925"
+          "title": "Senate considers establishing $50B nuclear energy campuses",
+          "summary": "By Alton Wallace | The Center Square Members of the Senate Committee on the Environment and Public Works on Wednesday considered a $50 billion federal plan that would fund three […]",
+          "press": "American Press",
+          "time": "2026-09-25T17:54:31Z",
+          "url": "https://americanpress.com/2026/09/25/senate-considers-establishing-50b-nuclear-energy-campuses/"
         },
         {
-          "title": "US intelligence: Saudi Arabia has not ruled out nuclear weapons program",
-          "summary": "Classified documents show US intelligence believes Saudi Arabia has not ruled out nuclear weapons, raising concerns over Trump’s civilian nuclear deal.",
-          "press": "Israelnationalnews.com",
-          "time": "2026-09-25T19:31:22Z",
-          "url": "https://www.israelnationalnews.com/news/433665"
+          "title": "Italy’s nuclear comeback is about energy security",
+          "summary": "“I am currently reading projections pointing to 2034, but I would be inclined to bring that deadline forward, given that reactors will already be tested in",
+          "press": "EUROPE SAYS",
+          "time": "2026-09-25T07:54:19Z",
+          "url": "https://www.europesays.com/3271685/"
         },
         {
-          "title": "Uncle Sam coughs up $1.9B for grid upgrades as datacenters hit a power wall",
-          "summary": "Better conductors and improved sensing capabilities expected to unlock at least 23 gigawatts of additional capacity",
-          "press": "Theregister.com",
-          "time": "2026-09-25T19:26:34Z",
-          "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276"
+          "title": "Indiana Gov. Braun announces new state-led nuclear energy program",
+          "summary": "The governor and NRC chair announced that Indiana will be considered a Nuclear Regulatory Commission Agreement State in a news conference.",
+          "press": "Chicago Tribune",
+          "time": "2026-09-24T19:09:06Z",
+          "url": "https://www.chicagotribune.com/2026/09/24/indiana-gov-braun-announces-new-state-led-nuclear-energy-program/"
         },
         {
-          "title": "This $249 Clip-on Device Shines ‘Invisible’ Infrared Sunlight On You To Boost Your Mood",
-          "summary": "Amsterdam gets around 1,600 hours of sunshine a year. Los Angeles gets close to 2,500. Anne Berends spent years feeling that difference, which is a very common Dutch experience and a very uncommon reason to start a hardware company. She was a nanomaterials sc…",
-          "press": "Yanko Design",
-          "time": "2026-09-25T19:20:36Z",
-          "url": "https://www.yankodesign.com/2026/09/25/this-249-clip-on-device-shines-invisible-infrared-sunlight-on-you-to-boost-your-mood/"
+          "title": "Italy and new discussions on nuclear energy",
+          "summary": "Rome, Italy – Italy has agreed to return to nuclear energy—nearly four decades after abandoning it—marking a new shift in the government’s strategy to bolster",
+          "press": "EUROPE SAYS",
+          "time": "2026-09-24T06:09:22Z",
+          "url": "https://www.europesays.com/3269687/"
         },
         {
-          "title": "Regulation and cost deter AI's N-power growth depite $4.6 billion push",
-          "summary": "This year, investment in US nuclear startups has skyrocketed to $4.6 billion, showing strong investor confidence. However, challenges such as regulatory hurdles and the complexities of construction loom large for new nuclear power plants. As the appetite for …",
-          "press": "The Times of India",
-          "time": "2026-09-25T19:11:22Z",
-          "url": "https://economictimes.indiatimes.com/news/international/business/regulation-and-cost-deter-ais-n-power-growth-depite-4-6-billion-push/articleshow/134491596.cms"
+          "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
+          "summary": "The measure cleared the upper house 81-51 with seven abstentions. It marks a major step in Premier Giorgia Meloni’s drive to bolster energy security and meet climate goals, even though the construction of possible new reactors is still years away.",
+          "press": "Los Angeles Times",
+          "time": "2026-09-23T17:22:43Z",
+          "url": "https://www.latimes.com/world-nation/story/2026-09-23/40-years-after-chernobyl-italy-greenlights-return-to-nuclear-energy"
         },
         {
-          "title": "There’s Another Nukes Problem in the Middle East, Classified Docs Say",
-          "summary": "Saudi Arabia has not ruled out developing a nuclear weapons program, according to U.S. intelligence. The Washington Post reports that in classified documents provided to Congress, American intelligence agencies assess that the Saudi government wants to keep t…",
-          "press": "The New Republic",
-          "time": "2026-09-25T19:09:11Z",
-          "url": "https://newrepublic.com/post/215885/saudi-arabia-middle-east-nuclear-weapons-us-intel"
+          "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
+          "summary": "ROME (AP) — Italy’s Senate on Wednesday gave final approval to legislation paving the way for a return to nuclear power nearly four decades after the",
+          "press": "EUROPE SAYS",
+          "time": "2026-09-23T16:16:25Z",
+          "url": "https://www.europesays.com/3268518/"
         },
         {
-          "title": "Deal Could Let Saudis Pursue Nuclear Weapons: US Report",
-          "summary": "Saudi Arabia hasn't taken nuclear weapons off the table, according to a classified US intelligence assessment that's now in the hands of Congress, reports the Washington Post . That finding is colliding with President Trump's new agreement to help Riyadh buil…",
-          "press": "Newser",
-          "time": "2026-09-25T18:44:00Z",
-          "url": "https://www.newser.com/story/397087/deal-could-let-saudis-pursue-nuclear-weapons-us-report.html"
+          "title": "40 years after Chernobyl, Italy greenlights a return to nuclear energy",
+          "summary": "Italy’s Senate has given final approval to legislation paving the way for a return to nuclear power. The vote marks a major step in Premier Giorgia Meloni’s drive to bolster energy security and...",
+          "press": "SFGATE",
+          "time": "2026-09-23T15:45:21Z",
+          "url": "https://www.sfgate.com/news/world/article/italy-s-parliament-paves-the-way-for-a-return-to-22445430.php"
         }
       ]
     },
