@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T23:16:54.241023+00:00",
+  "updated": "2026-09-26T01:38:30.001787+00:00",
   "market": "NASDAQ/US",
   "stocks": [
     {
@@ -83,8 +83,8 @@
       "symbol": "MRVL",
       "name": "Marvell",
       "category": "반도체",
-      "price": 261.93499755859375,
-      "change": 1.1527264764814804,
+      "price": 261.94000244140625,
+      "change": 1.1546592366964203,
       "currency": "USD",
       "revenue": 2739300000.0,
       "operatingIncome": 456900000.0,
