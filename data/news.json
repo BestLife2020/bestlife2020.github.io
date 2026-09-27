@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T01:52:41.706681+00:00",
+  "updated": "2026-09-27T07:25:06.345531+00:00",
   "provider": "gnews,newsapi",
   "categories": {
     "ai": {
@@ -8,74 +8,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Australian Prime Minister Doorstop",
-          "summary": "Australia is leading on digital safety because we want to keep Australians safe. We're living in an age of artificial intelligence. We want to shape this",
+          "title": "OpenAI pauses training of latest models after agents probed US government sites in unexpected ways",
+          "summary": "OpenAI announced it has halted development of its latest artificial intelligence models hours after it disclosed its agents scouring federal government",
+          "press": "Breitbart News Network",
+          "time": "2026-09-26T17:05:48Z",
+          "url": "https://www.breitbart.com/news/openai-pauses-training-of-latest-models-after-agents-probed-us-government-sites-in-unexpected-ways/"
+        },
+        {
+          "title": "Wright Says U.S. Power Grid Needs More Generation as Electricity Demand Rises",
+          "summary": "Energy Secretary Chris Wright said the U.S. must expand electricity generation and transmission capacity to meet rising demand, according to remarks reported by The Associated Press. Wright pointed to growth from artificial intelligence data centers and electrification as factors increasing load on ",
+          "press": "Natural News",
+          "time": "2026-09-26T17:00:17Z",
+          "url": "https://www.naturalnews.com/2026-09-26-wright-says-us-power-grid-needs-generation.html"
+        },
+        {
+          "title": "Cole County developing guidelines for employee use of artificial intelligence",
+          "summary": "“It’s our responsibility as county employees and elected officials that we use that properly and that we don’t put up anything, but then an OpenAI model that could be used for private information,” Ridenhour said.",
+          "press": "ABC17News.com",
+          "time": "2026-09-26T15:53:27Z",
+          "url": "https://abc17news.com/news/cole/2026/09/26/cole-county-developing-guidelines-for-employee-use-of-artificial-intelligence/"
+        },
+        {
+          "title": "China, as usual, uses UN speech to promote global development as solution to world's challenges",
+          "summary": "China’s vice president has unfurled the nation’s familiar list of global talking points at the U.N. He emphasized development, issued mild statements about the U.S. war with Iran, artificial intelligence and protectionism and made no direct mention of self-ruled Taiwan. The speech by Han Zheng to th",
+          "press": "The Atlanta Journal-Constitution",
+          "time": "2026-09-26T15:02:41Z",
+          "url": "https://www.ajc.com/news/2026/09/china-as-usual-uses-un-speech-to-promote-global-development-as-solution-to-worlds-challenges/"
+        },
+        {
+          "title": "China, as usual, uses UN speech to promote global development as solution to world's challenges",
+          "summary": "China’s vice president has unfurled the nation’s familiar list of global talking points at the U.N. He emphasized development, issued mild statements about the U.S. war with Iran, artificial intelligence and protectionism and made no direct mention of self-ruled Taiwan.",
+          "press": "WDIV ClickOnDetroit",
+          "time": "2026-09-26T14:58:18Z",
+          "url": "https://www.clickondetroit.com/news/world/2026/09/26/china-as-usual-uses-un-speech-to-promote-global-development-as-solution-to-worlds-challenges/"
+        },
+        {
+          "title": "China, as usual, uses UN speech to promote global development as solution to world’s challenges",
+          "summary": "By TED ANTHONY NEW YORK (AP) — A day after his boss met with President Donald Trump in Washington, China’s vice president unfurled the nation’s familiar list of global talking points, emphasizing development, issuing mild statements about the U.S. war with Iran, artificial intelligence and protectio",
+          "press": "Baltimore Sun",
+          "time": "2026-09-26T14:58:18Z",
+          "url": "https://www.baltimoresun.com/2026/09/26/china-as-usual-uses-un-speech-to-promote-global-development-as-solution-to-worlds-challenges/"
+        },
+        {
+          "title": "China, as Usual, Uses UN Speech to Promote Global Development as Solution to World's Challenges",
+          "summary": "NEW YORK (AP) — A day after his boss met with President Donald Trump in Washington, China's vice president unfurled the nation's familiar list of global talking points, emphasizing development, issuing mild statements about the U.S. war with Iran, artificial intelligence and protectionism, and makin",
+          "press": "U.S. News & World Report",
+          "time": "2026-09-26T14:58:00Z",
+          "url": "https://www.usnews.com/news/world/articles/2026-09-26/china-as-usual-uses-un-speech-to-promote-global-development-as-solution-to-worlds-challenges"
+        },
+        {
+          "title": "Rogue OpenAI agents targeted three separate US government websites",
+          "summary": "By Auzinea Bacon, CNN (CNN) — OpenAI said Friday that some of its AI agents went rogue and probed US government websites this summer — the latest revelation of the artificial intelligence company’s technology. The New York Times first reported that the AI agents went rogue and attempted to gain acce",
+          "press": "ABC17News.com",
+          "time": "2026-09-26T14:54:51Z",
+          "url": "https://abc17news.com/money/cnn-business-consumer/2026/09/26/rogue-openai-agents-targeted-three-separate-us-government-websites/"
+        },
+        {
+          "title": "Rogue OpenAI agents targeted three separate US government websites",
+          "summary": "OpenAI said Friday that some of its AI agents went rogue and probed US government websites this summer — the latest revelation of the artificial intelligence company’s technology.",
+          "press": "Cable News Network",
+          "time": "2026-09-26T14:54:41Z",
+          "url": "https://edition.cnn.com/2026/09/26/tech/openai-agents-rogue-government-websites"
+        },
+        {
+          "title": "Driven Drug Development Faces a Real Test... The Key Lies in Experimental Data [Weekend Money]",
+          "summary": "The competition for leadership in new drug development leveraging artificial intelligence (AI) is shifting from analysis algorithms to securing proprietary",
           "press": "EUROPE SAYS",
-          "time": "2026-09-26T13:28:25Z",
-          "url": "https://www.europesays.com/3273872/"
-        },
-        {
-          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
-          "summary": "OpenAI has disclosed its artificial intelligence models have interacted with U.S. government websites in unexpected ways. (AP Photo)",
-          "press": "WLTX.com",
-          "time": "2026-09-26T13:11:00Z",
-          "url": "https://www.wltx.com/article/news/nation-world/openai-models-government-websites-model-misbehavior-disclosure-artificial-intelligence-ai-rogue/507-668c1ee0-9a9c-4791-9cbf-2208b602e300"
-        },
-        {
-          "title": "Montana should not be powerless in the age of AI",
-          "summary": "Artificial intelligence has infiltrated our conversations, our airwaves and most importantly, our lives. We are living through a period of enormous technological change, and with that change come ripple effects",
-          "press": "Billings Gazette",
-          "time": "2026-09-26T13:00:00Z",
-          "url": "https://billingsgazette.com/opinion/column/article_d0668bf4-bb3c-5ef5-93aa-93100ea7fb20.html"
-        },
-        {
-          "title": "U.S., Russia stripped human oversight from global AI weapons pact",
-          "summary": "UNITED NATIONS - Early this month, hundreds of diplomats huddled in a cavernous U.N. conference room in Switzerland, working toward a muscular treaty to regulate the use of lethal autonomous weapons - the first agreement governing the use of killer artificial intelligence arms. On the last day of ne",
-          "press": "Spokane Spokesman-Review",
-          "time": "2026-09-26T12:31:00Z",
-          "url": "https://www.spokesman.com/stories/2026/sep/26/us-russia-stripped-human-oversight-from-global-ai-/"
-        },
-        {
-          "title": "Why I’m talking about coffee in a column about artificial intelligence: Letter from the Editor",
-          "summary": "A news editor uses a coffee machine analogy to explain how AI serves as a quality tool in the newsroom, while humans retain full editorial responsibility.",
-          "press": "cleveland.com",
-          "time": "2026-09-26T12:07:00Z",
-          "url": "https://www.cleveland.com/news/2026/09/why-im-talking-about-coffee-in-a-column-about-artificial-intelligence-letter-from-the-editor.html"
-        },
-        {
-          "title": "FAA installing controversial AI software at US airports",
-          "summary": "The Federal Aviation Administration has started to deploy new artificial intelligence-based technology into the nation’s air traffic control system.",
-          "press": "SFGATE",
-          "time": "2026-09-26T11:00:00Z",
-          "url": "https://www.sfgate.com/travel/article/air-traffic-control-ai-22447588.php"
-        },
-        {
-          "title": "Some lawmakers doubt a Congress that’s ‘barely capable of email’ can regulate AI",
-          "summary": "WASHINGTON — Amid warnings that artificial intelligence could soon wipe out humanity, some lawmakers are not confident that Congress has the expertise or ability to regulate AI.",
-          "press": "NBC News",
-          "time": "2026-09-26T11:00:00Z",
-          "url": "https://www.nbcnews.com/politics/congress/lawmakers-doubt-congress-s-barely-capable-email-can-regulate-ai-rcna599824"
-        },
-        {
-          "title": "AI overreliance at work risks eroding people skills, expert warns",
-          "summary": "Overreliance on artificial intelligence in the workplace may be eroding people skills and interpersonal communication, according to an etiquette and protocol expert.",
-          "press": "Fox Business",
-          "time": "2026-09-26T09:09:29Z",
-          "url": "https://www.foxbusiness.com/technology/overreliance-ai-could-replace-social-intelligence-workplace-protocol-expert-warns"
-        },
-        {
-          "title": "How the AI ‘tidal wave’ is transforming LSU",
-          "summary": "Generative artificial intelligence tools are radically changing the student experience at LSU.",
-          "press": "Baton Rouge Advocate",
-          "time": "2026-09-26T09:00:00Z",
-          "url": "https://www.theadvocate.com/baton_rouge/news/education/lsu-students-faculty-ai-use/article_200e7dcf-1cb3-48b9-a4d1-c892733eeceb.html"
-        },
-        {
-          "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-          "summary": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
-          "press": "NPR",
-          "time": "2026-09-26T06:59:45Z",
-          "url": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity"
+          "time": "2026-09-26T14:18:37Z",
+          "url": "https://www.europesays.com/3273934/"
         }
       ]
     },
@@ -84,6 +84,55 @@
       "source": "gnews",
       "count": 10,
       "news": [
+        {
+          "title": "Oliver Wyman - Communications, Media & Technology/Private Capital - Engagement Manager - Marsh & McLennan Companies - , CA",
+          "summary": "A new Oliver Wyman - Communications, Media & Technology/Private Capital - Engagement Manager job is available in California. Check it out on PR News Online.",
+          "press": "Careerwebsite.com",
+          "time": "2026-09-26T07:07:14Z",
+          "url": "https://naaia-jobs.careerwebsite.com/job/oliver-wyman-communications-media-technologyprivate-capital-engagement-manager/86157998/"
+        },
+        {
+          "title": "FIIs unlikely to return in large numbers without new growth engines in India: Bernstein",
+          "summary": "Foreign Institutional Investors are expected to remain cautious regarding Indian equities over the coming year. A report indicates that significant foreign investment will depend on India's competitiveness in various sectors. Trends show that foreign investme…",
+          "press": "The Times of India",
+          "time": "2026-09-26T06:33:37Z",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-unlikely-to-return-in-large-numbers-without-new-growth-engines-in-india-bernstein/articleshow/134499010.cms"
+        },
+        {
+          "title": "Wall Street Week Ahead: Jobs report, inflation data to test US rate path, economic strength",
+          "summary": "Upcoming reports on employment and inflation are poised to influence expectations around interest rate hikes, subsequently impacting the US stock market. Rising Treasury yields spark concerns about potential downturns if this trend persists. Analysts anticipa…",
+          "press": "The Times of India",
+          "time": "2026-09-26T05:03:46Z",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-jobs-report-inflation-data-to-test-us-rate-path-economic-strength/articleshow/134497643.cms"
+        },
+        {
+          "title": "SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say",
+          "summary": "Chipmaker SK Hynix's Solidigm is exploring a monumental initial public offering potentially worth $150 billion, aiming to secure approximately $15 billion. Currently in the early phases of planning, Solidigm specializes in NAND flash memory and solid-state dr…",
+          "press": "The Times of India",
+          "time": "2026-09-26T04:39:11Z",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-at-up-to-150-billion-sources-say/articleshow/134497293.cms"
+        },
+        {
+          "title": "Bond market performed well, equities less so: RBI Deputy Governor Poonam Gupta on what lies ahead",
+          "summary": "India's bond market has outperformed many other nations in recent years, while equities lag behind. RBI’s Gupta notes in RBI's bulletin about what lies ahead for the stock market.&nbsp;",
+          "press": "Livemint",
+          "time": "2026-09-26T04:36:24Z",
+          "url": "https://www.livemint.com/money/bond-market-performed-well-equities-less-so-rbi-deputy-governor-poonam-gupta-on-what-lies-ahead-11790392083806.html"
+        },
+        {
+          "title": "Who is Jensen Huang, the AI boss Trump calls at night?",
+          "summary": "The founder of the world's most AI valuable company has the ear of Donald Trump when it comes to the risks and potential of the cutting-edge technology.",
+          "press": "ABC News (AU)",
+          "time": "2026-09-26T04:10:47Z",
+          "url": "https://www.abc.net.au/news/2026-09-26/jensen-huang-ai-boss-trusted-by-trump/107197212"
+        },
+        {
+          "title": "China’s AI Gamble -- and America’s Leverage",
+          "summary": "Photo Credit:AI data center\n \n pixabayBy Mario Alexis PortellaThe U.S. is ahead of China in the AI race, and the Chinese know it. But the technological gap with China has narrowed dramatically.",
+          "press": "Americanthinker.com",
+          "time": "2026-09-26T04:00:00Z",
+          "url": "https://www.americanthinker.com/articles/2026/09/china-s-ai-gamble-and-america-s-leverage/"
+        },
         {
           "title": "Intel CEO Lip-Bu Tan Is Impressed By Photonic Quantum Computing – Says He Now Leans on AI Agents to Do His “Homework”",
           "summary": "Intel CEO Lip-Bu Tan believes that for quantum computing to be viable, companies have to address market areas with actual demand. The executive discussed quantum computing and how he uses artificial intelligence, among other topics, in the QuantumJane podcast…",
@@ -104,55 +153,6 @@
           "press": "Nature.com",
           "time": "2026-09-25T23:09:30Z",
           "url": "https://www.nature.com/articles/s41467-026-77965-4.pdf"
-        },
-        {
-          "title": "Bill Gates Warns AI Could Drive Events Causing 'A Billion Deaths'",
-          "summary": "As President Donald Trump hosted Chinese President Xi Jinping at a White House summit that put artificial intelligence, technology competition and semiconductor policy at the center of discussions between the world's two largest economies, Microsoft co-founde…",
-          "press": "Biztoc.com",
-          "time": "2026-09-25T22:53:04Z",
-          "url": "https://biztoc.com/x/47757cf565b105ff"
-        },
-        {
-          "title": "Micron investors brace for revenue shifts amid Nvidia product ramp",
-          "summary": "Micron's reliance on Nvidia's product timeline highlights the semiconductor industry's vulnerability to supply chain and demand shifts.\nThe post Micron investors brace for revenue shifts amid Nvidia product ramp appeared first on Crypto Briefing.",
-          "press": "Crypto Briefing",
-          "time": "2026-09-25T22:03:15Z",
-          "url": "https://cryptobriefing.com/micron-revenue-shifts-nvidia-ramp/"
-        },
-        {
-          "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-          "summary": "The visit comes at an important time for both men.",
-          "press": "NPR",
-          "time": "2026-09-25T19:11:47Z",
-          "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas"
-        },
-        {
-          "title": "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders",
-          "summary": "Chip stocks rebounded on Friday after declining for two straight days. Tower Semiconductor was among the leaders.\nThe post Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders. appeared first on Investor's Business Daily.",
-          "press": "Biztoc.com",
-          "time": "2026-09-25T18:22:42Z",
-          "url": "https://biztoc.com/x/03dcce36c4c93b10"
-        },
-        {
-          "title": "Chip Stocks Rise After Two-Day Skid. Tower Semiconductor Among Leaders.",
-          "summary": "Chip stocks rebounded on Friday after declining for two straight days. Tower Semiconductor was among the leaders.",
-          "press": "Investor's Business Daily",
-          "time": "2026-09-25T18:20:27Z",
-          "url": "https://www.investors.com/news/technology/chip-stocks-rise-after-two-day-skid-tower-semiconductor-among-leaders/"
-        },
-        {
-          "title": "Other Barks & Bites for Friday, September 25: UPC Will Hear Noninfringement Claim to Pre-Issue Patent; DEFEND IP Act Introduced to Target Foreign Piracy Sites; and Judge Rogers Dissents from D.C. Circuit’s Royalty Allocation Ruling",
-          "summary": "This week in Other Barks & Bites: Regulatory hurdles lead Oracle to send a force majeure notice related to its New Mexico data center project; the companion bill for the DEFEND IP Act is introduced into the U.S House of Representatives; the European Union Int…",
-          "press": "IPWatchdog.com",
-          "time": "2026-09-25T18:15:31Z",
-          "url": "https://ipwatchdog.com/2026/09/25/bites-barks-defend-ip-act-introduced-to-target-foreign-piracy-sites-judge-rogers-dissents-from-dc-circ/"
-        },
-        {
-          "title": "Philly’s Robot Dogs Are Here. What Could Possibly Go Wrong?",
-          "summary": "In chaotic conflicts like active crime scenes and urban warfare, closed doors can be as dangerous as explosives. The officers or troops who barge in […]",
-          "press": "phillymag.com",
-          "time": "2026-09-25T22:00:06Z",
-          "url": "https://www.phillymag.com/news/2026/09/25/robot-dogs-ghost-asylon/"
         }
       ]
     },
@@ -174,6 +174,13 @@
           "press": "ARLnow",
           "time": "2026-09-26T00:30:05Z",
           "url": "https://www.arlnow.com/2026/09/25/debrief-9252026/"
+        },
+        {
+          "title": "Exploding variance of means of exponentials: least-squares to the rescue",
+          "summary": "Article URL: https://francisbach.com/spectral_log_density_estimation/\nComments URL: https://news.ycombinator.com/item?id=49850991\nPoints: 3\n# Comments: 0",
+          "press": "Francisbach.com",
+          "time": "2026-09-25T22:48:52Z",
+          "url": "https://francisbach.com/spectral_log_density_estimation/"
         },
         {
           "title": "There's a New Way to Break RSA Encryption",
@@ -223,13 +230,6 @@
           "press": "Avidfayaz.com",
           "time": "2026-09-25T17:19:50Z",
           "url": "https://www.avidfayaz.com/writings/post-agi/the-post-agi-era"
-        },
-        {
-          "title": "tensorcircuit-nightly 1.9.1.dev20260925",
-          "summary": "High performance unified quantum computing framework for the NISQ era",
-          "press": "Pypi.org",
-          "time": "2026-09-25T17:01:28Z",
-          "url": "https://pypi.org/project/tensorcircuit-nightly/1.9.1.dev20260925/"
         }
       ]
     },
@@ -239,74 +239,74 @@
       "count": 10,
       "news": [
         {
-          "title": "I Toured the Company Mapping Space Debris. Then I Polled Worried and Hopeful Scientists",
-          "summary": "From portable radars in shipping containers to orbital cameras, I asked scientists how the space-junk tracking industry plans to avoid catastrophic crashes.",
-          "press": "CNET",
-          "time": "2026-09-18T17:54:13Z",
-          "url": "https://www.cnet.com/science/space/i-toured-the-company-mapping-space-debris-then-i-polled-worried-and-hopeful-scientists/"
+          "title": "How does increasing and decreasing the temperature impact heat transfer?",
+          "summary": "How Increasing and Decreasing the Temperature Impacts Heat Transfer How does increasing and decreasing the temperature impact heat transfer? Increasing the temperature generally increases the rate of heat transfer, while decreasing the temperature generally d…",
+          "press": "Lifesciencesworld.com",
+          "time": "2026-09-26T06:15:48Z",
+          "url": "https://www.lifesciencesworld.com/how-does-increasing-and-decreasing-the-temperature-impact-heat-transfer/"
         },
         {
-          "title": "AI use in South Carolina continues to grow unregulated",
-          "summary": "South Carolina has lagged behind other states in adopting regulations around the rapidly evolving artificial intelligence space. The Statehouse is trying to catch up, but has done little to rein in the industry.",
-          "press": "Charleston Post and Courier",
-          "time": "2026-09-18T09:00:00Z",
-          "url": "https://www.postandcourier.com/politics/south-carolina-artificial-intelligence-regulations-statehouse/article_3b8540bf-3e86-4822-b7fa-111ffd62e81d.html"
+          "title": "Colin Kaepernick Says He Still Wants to Return to the NFL",
+          "summary": "The former 49ers quarterback joined Jemele Hill at Detroit’s Black Footwear Forum to discuss football, activism and his new memoir, “The Perilous Fight.”",
+          "press": "WWD",
+          "time": "2026-09-26T06:00:00Z",
+          "url": "http://wwd.com/footwear-news/shoe-features/colin-kaepernick-nfl-taking-a-knee-black-footwear-forum-1239222561/"
         },
         {
-          "title": "Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
-          "summary": "The big question facing DoD is what happens if the Traffic Coordination System for Space program is scrapped: is US Space Command left holding the space safety bag in perpetuity?",
-          "press": "Breaking Defense",
-          "time": "2026-09-14T20:00:00Z",
-          "url": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/"
+          "title": "The plunging price of thought",
+          "summary": "Epoch AI measures how fast the cost of a given level of AI performance is falling across five benchmarks covering math, science and games of skill: about 47% per quarter, or 13x per year, since 2023, faster than electricity, compute, batteries or DNA sequenci…",
+          "press": "Epoch.ai",
+          "time": "2026-09-26T05:47:02Z",
+          "url": "https://epoch.ai/publications/the-plunging-price-of-thought"
         },
         {
-          "title": "Amazon adds 6 Ariane rocket launches as Europe races to expand space sector",
-          "summary": "The deal hands the continent's space industry a commercial boost as governments push for greater sovereign capabilities.",
+          "title": "MISSION SUCCESS: Rocket Lab Launches 97th Electron Mission",
+          "summary": "MAHIA, New Zealand, Sept. 25, 2026 (GLOBE NEWSWIRE) — Rocket Lab Corporation (Nasdaq: RKLB), a global leader in launch services and space systems, today launched its latest dedicated mission for Earth-monitoring constellation operator Synspective. The ‘Owlrig…",
+          "press": "Financial Post",
+          "time": "2026-09-26T01:47:51Z",
+          "url": "https://financialpost.com/globe-newswire/mission-success-rocket-lab-launches-97th-electron-mission"
+        },
+        {
+          "title": "Every Anime Coming to Netflix in October 2026",
+          "summary": "Image Courtesy of Netflix\n\nThe Fall 2026 anime season is almost here, and all major platforms are planning to release new shows for fans across the globe. Crunchyroll by far has the largest lineup, just like every other season. The platform always releases al…",
+          "press": "ComicBook.com",
+          "time": "2026-09-26T00:00:00Z",
+          "url": "http://comicbook.com/anime/list/every-anime-coming-to-netflix-in-october-2026/"
+        },
+        {
+          "title": "What A.I.’s Most Powerful Leaders Said at Observer’s A.I. Power Index Party",
+          "summary": "From Bloomberg's ASKB to Candidly's mission to bring expert financial guidance to everyone, Observer's first A.I. Power Index Party celebrated the leaders putting A.I. to work, and what they say comes next.",
+          "press": "Observer",
+          "time": "2026-09-25T23:09:17Z",
+          "url": "https://observer.com/2026/09/what-a-i-s-most-powerful-leaders-said-at-observers-a-i-power-index-party/"
+        },
+        {
+          "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+          "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
           "press": "CNBC",
-          "time": "2026-09-10T11:26:16Z",
-          "url": "https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html"
+          "time": "2026-09-25T22:31:32Z",
+          "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html"
         },
         {
-          "title": "What to know about Europe’s push to compete in space",
-          "summary": "PARIS (AP) — Key figures from Europe’s space industry and other international players have converged on Paris to discuss how to advance the continent’s ambition",
-          "press": "WTOP",
-          "time": "2026-09-09T16:41:46Z",
-          "url": "https://wtop.com/world/2026/09/what-to-know-about-europes-push-to-compete-in-space/"
+          "title": "This Week in Space 229: Is It Starship's Time?",
+          "summary": "This week it's Rod and Tariq working through the most important space headlines. The big story: Starship could launch test flight 14 as early as Monday the 28th. We've seen lots of tests, but this is the first attempt at an orbital flight, the success of whic…",
+          "press": "Twit.tv",
+          "time": "2026-09-25T22:14:30Z",
+          "url": "https://twit.tv/shows/this-week-in-space/episodes/229"
         },
         {
-          "title": "What to know about Europe’s push to compete in space",
-          "summary": "Key figures from Europe’s space industry and other international players have converged on Paris to discuss their ambitions.",
-          "press": "Santa Ana Orange County Register",
-          "time": "2026-09-09T16:19:21Z",
-          "url": "https://www.ocregister.com/2026/09/09/europe-space-push/"
+          "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+          "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the in…",
+          "press": "The Verge",
+          "time": "2026-09-25T22:13:20Z",
+          "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising"
         },
         {
-          "title": "What to know about Europe’s push to compete in space",
-          "summary": "Key figures from Europe’s space industry and other international players have converged on Paris to discuss their ambitions.",
-          "press": "Santa Rosa Press Democrat",
-          "time": "2026-09-09T16:19:21Z",
-          "url": "https://www.pressdemocrat.com/2026/09/09/europe-space-push/"
-        },
-        {
-          "title": "What to know about Europe’s push to compete in space",
-          "summary": "Key figures from Europe’s space industry and other international players have converged on Paris to discuss their ambitions.",
-          "press": "Norfolk Virginian-Pilot",
-          "time": "2026-09-09T16:19:21Z",
-          "url": "https://www.pilotonline.com/2026/09/09/europe-space-push/"
-        },
-        {
-          "title": "What to know about Europe’s push to compete in space",
-          "summary": "Key figures from Europe’s space industry and other international players have converged on Paris to discuss their ambitions.",
-          "press": "New York Daily News",
-          "time": "2026-09-09T16:19:21Z",
-          "url": "https://www.nydailynews.com/2026/09/09/europe-space-push/"
-        },
-        {
-          "title": "What to know about Europe’s push to compete in space",
-          "summary": "Key figures from Europe’s space industry and other international players have converged on Paris to discuss their ambitions.",
-          "press": "St. Paul Pioneer Press",
-          "time": "2026-09-09T16:19:21Z",
-          "url": "https://www.twincities.com/2026/09/09/europe-space-push/"
+          "title": "Philly’s Robot Dogs Are Here. What Could Possibly Go Wrong?",
+          "summary": "In chaotic conflicts like active crime scenes and urban warfare, closed doors can be as dangerous as explosives. The officers or troops who barge in […]",
+          "press": "phillymag.com",
+          "time": "2026-09-25T22:00:06Z",
+          "url": "https://www.phillymag.com/news/2026/09/25/robot-dogs-ghost-asylon/"
         }
       ]
     },
@@ -316,74 +316,74 @@
       "count": 10,
       "news": [
         {
-          "title": "What A.I.’s Most Powerful Leaders Said at Observer’s A.I. Power Index Party",
-          "summary": "From Bloomberg's ASKB to Candidly's mission to bring expert financial guidance to everyone, Observer's first A.I. Power Index Party celebrated the leaders putting A.I. to work, and what they say comes next.",
-          "press": "Observer",
-          "time": "2026-09-25T23:09:17Z",
-          "url": "https://observer.com/2026/09/what-a-i-s-most-powerful-leaders-said-at-observers-a-i-power-index-party/"
+          "title": "Kraken Robotics Systems Inc (PNG) Receives a Buy from RBC Capital",
+          "summary": "In a report released yesterday, James McGarragle CFA from RBC Capital maintained a Buy rating on Kraken Robotics Systems Inc, with a price targe...",
+          "press": "Markets Insider",
+          "time": "2026-09-26T03:46:27Z",
+          "url": "https://markets.businessinsider.com/news/stocks/kraken-robotics-systems-inc-png-receives-a-buy-from-rbc-capital-1036575930"
         },
         {
-          "title": "Philly’s Robot Dogs Are Here. What Could Possibly Go Wrong?",
-          "summary": "In chaotic conflicts like active crime scenes and urban warfare, closed doors can be as dangerous as explosives. The officers or troops who barge in […]",
-          "press": "phillymag.com",
-          "time": "2026-09-25T22:00:06Z",
-          "url": "https://www.phillymag.com/news/2026/09/25/robot-dogs-ghost-asylon/"
+          "title": "The Aeropod automates soil aeration without robotics - see it at TechCrunch Disrupt",
+          "summary": "Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.",
+          "press": "TechCrunch",
+          "time": "2026-09-25T17:30:00Z",
+          "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/"
         },
         {
-          "title": "New Code Geass Star Chaser Aspal Anime Reveals Teaser Trailer, 2027 Premiere",
-          "summary": "Kazuya Nomura directs new anime for Code Geass' 20th anniversary",
-          "press": "Anime News Network",
-          "time": "2026-09-25T19:35:03Z",
-          "url": "https://www.animenewsnetwork.com/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201"
+          "title": "Mass. lawmakers, robotics executives discuss how to boost investments",
+          "summary": "Tech executives said California, Texas, and even Pittsburgh are becoming more attractive options for developing companies than Massachusetts.",
+          "press": "The Boston Globe",
+          "time": "2026-09-24T21:35:29Z",
+          "url": "https://www.bostonglobe.com/2026/09/24/business/mass-robotics-ai-startups/"
         },
         {
-          "title": "RND Automation Showcases Packaging, Live Pouching and Risk Reduction at PACK EXPO International 2026",
-          "summary": "Booth N-5115 to feature live KANGA pouching, QuickPouch packaging equipment, RND's High-Risk Test Bench, package-integrity testing, and real-world robotics applications. CHICAGO, Sept. 25, 2026 /PRNewswire/ -- RND Automation will showcase its expanding packag…",
-          "press": "PRNewswire",
-          "time": "2026-09-25T19:00:00Z",
-          "url": "https://www.prnewswire.com/news-releases/rnd-automation-showcases-packaging-live-pouching-and-risk-reduction-at-pack-expo-international-2026-302890419.html"
+          "title": "Meet Feather, the startup building the 'Android of robotics' for developers",
+          "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
+          "press": "TechCrunch",
+          "time": "2026-09-24T18:52:38Z",
+          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/"
         },
         {
-          "title": "Good points from James Gilliland",
-          "summary": "It pains me to say this, but if we actually “get AGI,” the resulting boom in industrial capacity from robotics and massive society-wide wealth creation will look like a total vindication of neoliberalism.\nThe discourse about financialization and offshoring be…",
-          "press": "Biztoc.com",
-          "time": "2026-09-25T18:37:42Z",
-          "url": "https://biztoc.com/x/d115d79bf56f4c23"
+          "title": "China installs 59% of new factory robots as EU installations fall 11%",
+          "summary": "China installed 59% of the world's new industrial robots in 2025, the International Federation of Robotics said. The EU fell 11%.",
+          "press": "TNW",
+          "time": "2026-09-24T17:30:38Z",
+          "url": "https://thenextweb.com/news/industrial-robots-world-robotics-2026-china-59-eu-falls"
         },
         {
-          "title": "4 Astronauts Headed Into Space for ISS Mission",
-          "summary": "NASA’s SpaceX Crew-14 will send four astronauts to the ISS in 2027 for science research supporting Moon and Mars missions.",
-          "press": "Incrediblethings.com",
-          "time": "2026-09-25T18:31:47Z",
-          "url": "https://incrediblethings.com/nasa-spacex-crew-14-mission/"
+          "title": "Navy launches Robotics and Autonomous Systems Warfighting Development Center",
+          "summary": "RASWDC is in the process of developing a phased implementation plan to tackle issues like command structure, mission relationships and resource requirements.",
+          "press": "Breaking Defense",
+          "time": "2026-09-24T16:53:55Z",
+          "url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/"
         },
         {
-          "title": "An Invasion with Four Horsemen Studios' New Cosmic Legions Brainer",
-          "summary": "Ready to reach for the final frontier once again? Four Horsemen Studios continues to build up its sci-fi action figure line known as Cosmic Legions. Rather than the more grounded and medieval style of the Mythic Legions line, Cosmic Legions reaches for the st…",
-          "press": "Bleeding Cool News",
-          "time": "2026-09-25T18:22:09Z",
-          "url": "https://bleedingcool.com/collectibles/an-invasion-with-four-horsemen-studios-new-cosmic-legions-brainer/"
+          "title": "Kent State to host Aeronautics, Engineering Expo Sept. 26",
+          "summary": "Event gives community up-close look at aviation history, university program Yimo, Kent State University’s robotic dog, demonstrates autonomous robotics technology during the 2025 Aeronautics and Engineering Expo. STOW — Kent State University invites the community to experience aviation history, emer",
+          "press": "akron.com",
+          "time": "2026-09-24T11:00:18Z",
+          "url": "https://www.akron.com/articles/kent-state-to-host-aeronautics-engineering-expo-sept-26/"
         },
         {
-          "title": "Good points from James Gilliland",
-          "summary": "It pains me to say this, but if we actually “get AGI,” the resulting boom in industrial capacity from robotics and massive society-wide wealth creation will look like a total vindication of neoliberalism. The discourse about financialization and offshoring be…",
-          "press": "Marginalrevolution.com",
-          "time": "2026-09-25T18:13:07Z",
-          "url": "https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html"
+          "title": "AI's Next Bottleneck Could Be Here",
+          "summary": "Robotics is emerging as the next major economic bottleneck, with a projected $2T TAM by the 2040s and $7–9T by 2050. Read what investors need to know.",
+          "press": "Seeking Alpha",
+          "time": "2026-09-24T10:16:57Z",
+          "url": "https://seekingalpha.com/article/4949341-ais-next-bottleneck-could-be-here"
         },
         {
-          "title": "Coffee Break: Catching Up on a Few Recent Scientific Advances",
-          "summary": "This is Naked Capitalism fundraising week. 525 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and participate via our donation page, which shows how to give via check…",
-          "press": "Nakedcapitalism.com",
-          "time": "2026-09-25T18:00:03Z",
-          "url": "https://www.nakedcapitalism.com/?p=316978"
+          "title": "Chinese humanoid robotics firm expanding globally and readying for IPO",
+          "summary": "The humanoid robotics industry is unlikely to be affected much by existing U.S. chip export restrictions, according to UniX AI, citing its own experience.",
+          "press": "CNBC",
+          "time": "2026-09-24T07:29:15Z",
+          "url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html"
         },
         {
-          "title": "Watch this little robot hop and swim like a frog",
-          "summary": "A new design showcases a way for miniaturized robots to hop or swim in spite of limitations on their power output and size.",
-          "press": "Futurity: Research News",
-          "time": "2026-09-25T17:53:10Z",
-          "url": "https://www.futurity.org/hopping-swimming-robot-3346072/"
+          "title": "Travis Kalanick is back: How Uber's ousted founder went from pariah to Silicon Valley hero",
+          "summary": "The Uber cofounder returns with a multibillion robotics and AI venture—and a tech sector more receptive to his hard-charging approach.",
+          "press": "Fortune",
+          "time": "2026-09-24T07:00:00Z",
+          "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/"
         }
       ]
     },
@@ -393,74 +393,74 @@
       "count": 10,
       "news": [
         {
-          "title": "Iran offers US deal to reopen Strait of Hormuz within seven days",
-          "summary": "NEW YORK: Iran has offered the United States a deal under which the Strait of Hormuz could be reopened and normal maritime traffic restored within seven days if certain conditions are met, Iranian Foreign Minister Abbas Araghchi has said. Speaking to reporter…",
-          "press": "Khabarhub.com",
-          "time": "2026-09-26T01:45:08Z",
-          "url": "https://english.khabarhub.com/2026/26/569294/"
+          "title": "Lavrov, Moroccan Foreign Minister Discussed Russian-Moroccan Relations - Moscow",
+          "summary": "MOSCOW (Sputnik) - Russian Foreign Minister Sergey Lavrov and Moroccan Foreign Minister Nasser Bourita discussed priorities for further strengthening the traditionally friendly Russian-Moroccan relations during a meeting in New York, the Russian Foreign Minis…",
+          "press": "Sputnikglobe.com",
+          "time": "2026-09-26T07:20:25Z",
+          "url": "https://sputnikglobe.com/20260926/lavrov-moroccan-foreign-minister-discussed-russian-moroccan-relations---moscow-1124793410.html"
         },
         {
-          "title": "Iranian President Pezeshkian talks about proposal to reopen Strait of Hormuz",
-          "summary": "Iran's Masoud Pezeshkian, who is also a physician, says he has visited Iran's supreme leader twice and talked with CBS News' Margaret Brennan about Mojtaba Khamenei's health.",
-          "press": "CBS News",
-          "time": "2026-09-26T01:10:26Z",
-          "url": "https://www.cbsnews.com/news/iran-president-masoud-pezeshkian-proposal-trump-strait-of-hormuz-war/"
+          "title": "Bangladesh, US sign civil nuclear cooperation deal",
+          "summary": "The MoU recorded the shared position that all civil nuclear cooperation should follow the highest standards of nuclear safety, security, safeguards, and non-proliferation",
+          "press": "The Daily Star",
+          "time": "2026-09-26T06:41:29Z",
+          "url": "https://www.thedailystar.net/business/news/bangladesh-us-sign-civil-nuclear-cooperation-deal-4283266"
         },
         {
-          "title": "Saudi Arabia ‘has not ruled out’ developing nuclear weapons – WaPo",
-          "summary": "Saudi Arabia has not ruled out developing nuclear weapons, according to a classified US intelligence assessment that has fueled concerns in Congress over President Donald Trump’s nuclear cooperation agreement with Riyadh",
-          "press": "RT",
-          "time": "2026-09-26T01:03:12Z",
-          "url": "https://www.rt.com/news/646262-saudi-arabia-nuclear-weapons/"
+          "title": "China has kept its promise to stop funding overseas coal, but loopholes are helping coal expand",
+          "summary": "Chinese President Xi Jinping's 2021 pledge to halt overseas coal financing is being challenged by ongoing energy demands. While China has cancelled many coal projects, private investments continue unabated in countries like Indonesia and Vietnam. Southeast As…",
+          "press": "The Times of India",
+          "time": "2026-09-26T06:21:47Z",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-coal-funding-loopholes-the-unseen-threat-to-global-climate-goals/articleshow/134498853.cms"
         },
         {
-          "title": "The US Energy Humanism of 2026: Capital Formation is Greener Than Green",
-          "summary": "Energy sanity is not optional. Hormuz made that obvious. EQT made it measurable. The rest of the world can copy this example of Energy Humanism, or it can keep writing industrial subsidies to paper over the one it chose.\nThe post The US Energy Humanism of 202…",
-          "press": "Wattsupwiththat.com",
-          "time": "2026-09-26T01:00:00Z",
-          "url": "https://wattsupwiththat.com/2026/09/25/the-us-energy-humanism-of-2026-capital-formation-is-greener-than-green/"
+          "title": "Wright Says U.S. Power Grid Needs More Generation as Electricity Demand Rises",
+          "summary": "Energy Secretary Chris Wright said the U.S. must expand electricity generation and transmission capacity to meet rising demand, according to remarks reported by The Associated Press. Wright pointed to growth from artificial intelligence data centers and elect…",
+          "press": "Naturalnews.com",
+          "time": "2026-09-26T06:00:00Z",
+          "url": "https://www.naturalnews.com/2026-09-26-wright-says-us-power-grid-needs-generation.html"
         },
         {
-          "title": "How serious is an insulinoma?",
-          "summary": "How Serious is an Insulinoma? An insulinoma is a tumor of the pancreas that causes it to produce too much insulin, leading to dangerously low blood sugar levels; How serious is an insulinoma? It is potentially very serious due to the risk of severe hypoglycem…",
-          "press": "Lifesciencesworld.com",
-          "time": "2026-09-26T00:24:54Z",
-          "url": "https://www.lifesciencesworld.com/how-serious-is-an-insulinoma/"
+          "title": "India, France discuss EPR reactor deployment, nuclear supply chain localisation",
+          "summary": "Power Secretary Pankaj Agarwal briefs French delegation on progress in finalising India’s regulatory framework for nuclear power, including the Draft SHANTI",
+          "press": "BusinessLine",
+          "time": "2026-09-26T05:01:35Z",
+          "url": "https://www.thehindubusinessline.com/economy/india-france-discuss-epr-reactor-deployment-nuclear-supply-chain-localisation/article71511653.ece"
         },
         {
-          "title": "'Bogus as hell': Trump's rosy Saudi nuclear pitch kneecapped by his own intel",
-          "summary": "A classified U.S. intelligence assessment has found that Saudi Arabia has not ruled out building a nuclear weapons program, cutting against President Donald Trump's pitch for a deal that could let the kingdom enrich its own uranium.The assessment was part of …",
-          "press": "Raw Story",
-          "time": "2026-09-25T23:00:15Z",
-          "url": "https://www.rawstory.com/trump-saudi-arabia-2677941570/"
+          "title": "'Trump Strait': US President shares new map of Hormuz after rejecting Iran's 7-day ceasefire offer",
+          "summary": "Donald Trump has dismissed Iran's offer to restore maritime passage through the Strait of Hormuz within a week. Iranian Foreign Minister Abbas Araghchi linked the reopening of the strait to several conditions, including sanctions relief. Trump previously sugg…",
+          "press": "The Times of India",
+          "time": "2026-09-26T04:10:32Z",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-strait-us-president-shares-new-map-of-hormuz-after-rejecting-irans-7-day-ceasefire-offer/articleshow/134496963.cms"
         },
         {
-          "title": "Poland Offers Financial Incentives To US As Talks On Military Base Advance, Minister Tells RFE/RL",
-          "summary": "Poland is offering to pay $15,000 a year for every US soldier stationed on its territory and cover infrastructure costs as Warsaw and Washington move closer to agreeing on establishing a permanent American military base.",
-          "press": "Radio Free Europe/ Radio Liberty",
-          "time": "2026-09-25T22:29:22Z",
-          "url": "https://www.rferl.org/a/poland-financial-incentives-us-military-base/33864526.html"
+          "title": "Economic Pressure Is Not a One-Way Road",
+          "summary": "During talks at the recent meeting of the UN General Assembly Iran has repeated its proposal for reopening the Strait of Hormuz: Abbas Araghchi, the foreign minister, told reporters at a press briefing at the United Nations General Assembly that the proposal …",
+          "press": "Lewrockwell.com",
+          "time": "2026-09-26T04:01:00Z",
+          "url": "https://www.lewrockwell.com/2026/09/no_author/economic-pressure-is-not-a-one-way-road/"
         },
         {
-          "title": "2026/db260925.doc.htm",
-          "summary": "In Nepal, the World Food Programme (WFP) is delivering food and relief supplies to flood-affected communities in the north by truck, helicopter and humanitarian cargo drones.  It has provided 127 metric tons of food to more than 15,000 people and is now deliv…",
-          "press": "UN News",
-          "time": "2026-09-25T21:11:58Z",
-          "url": "https://press.un.org/en/2026/db260925"
+          "title": "Oil prices slide about 2% as US, Iran explore path out of war",
+          "summary": "Oil prices have dropped roughly 2%, influenced by signs of diplomatic advancement between the US and Iran concerning the Strait of Hormuz. As negotiations unfold, the US is contemplating a ban on diesel exports, impacting crude oil futures. Meanwhile, escalat…",
+          "press": "The Times of India",
+          "time": "2026-09-26T03:58:53Z",
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slide-about-2-as-us-iran-explore-path-out-of-war/articleshow/134496730.cms"
         },
         {
-          "title": "BESS Is Still a Science Project",
-          "summary": "Batteries can be useful tools, but they are not magic. And at present, in the places where New York most wants to rely upon them, they remain a science project.\nThe post BESS Is Still a Science Project appeared first on Watts Up With That?.",
-          "press": "Wattsupwiththat.com",
-          "time": "2026-09-25T21:00:00Z",
-          "url": "https://wattsupwiththat.com/2026/09/25/bess-is-still-a-science-project/"
+          "title": "Iran awaits US response on Strait of Hormuz plan after Trump reportedly rejects deal",
+          "summary": "Iran awaited a US response to its proposal to reopen the Strait of Hormuz and halt fighting across the Middle East, after the Wall Street Journal reported President Donald Trump rejected the plan. Tehran said the proposal could reopen the waterway within seve…",
+          "press": "The Times of India",
+          "time": "2026-09-26T03:06:18Z",
+          "url": "https://economictimes.indiatimes.com/news/defence/iran-awaits-us-response-on-strait-of-hormuz-plan-after-trump-reportedly-rejects-deal/articleshow/134496198.cms"
         },
         {
-          "title": "More Republicans running in close races calling for end to Iran war",
-          "summary": "Several Republicans running in competitive races are joining growing calls in their party to end the Iran war with less than 40 days until the midterms.",
-          "press": "Abcnews.com",
-          "time": "2026-09-25T20:48:19Z",
-          "url": "https://abcnews.com/Politics/republicans-running-close-races-calling-end-iran-war/story?id=136648964"
+          "title": "Coal Vs Nuclear Power Plants: Which Produces More Energy?",
+          "summary": "When looking at coal plants and nuclear plants in the U.S., you might wonder which produces more energy. It's a little complicated. Here's what we know.",
+          "press": "SlashGear",
+          "time": "2026-09-26T02:52:32Z",
+          "url": "https://www.slashgear.com/2264079/coal-vs-nuclear-power-plant-energy-production/"
         }
       ]
     },
