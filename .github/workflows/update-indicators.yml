@@ -2,7 +2,7 @@ name: Update Market Indicators
 
 on:
   schedule:
-    - cron: "*/300 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,6 +27,11 @@ jobs:
           pip install requests pandas yfinance
 
       - name: Fetch indicators
+        env:
+          # 선택사항: 등록하면 BLS 요청 한도가 25회/일 → 500회/일로 늘어납니다.
+          # 발급: https://data.bls.gov/registrationEngine/
+          # 등록 후 리포 Settings > Secrets and variables > Actions 에 BLS_API_KEY로 추가하세요.
+          BLS_API_KEY: ${{ secrets.BLS_API_KEY }}
         run: python fetch_indicators.py
 
       - name: Commit updated data
